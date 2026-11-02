@@ -1,5 +1,5 @@
 {
-  "version": "welcome-01-flag-contact-w08",
+  "version": "cumulative-learning-sky-w09",
   "files": [
     {
       "file": "adventure-art.css",
@@ -23,8 +23,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 28051,
-      "sha256": "afef08230e7fc4069c3dfecce362e3767969153ba847f37dcd414274136f5c9d"
+      "bytes": 26429,
+      "sha256": "6e1dd2e9288d13ebf794d82b28f2a6d0d04074f8754ce80d3c2f85d106de6160"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -378,13 +378,23 @@
     },
     {
       "file": "index.html",
-      "bytes": 5781,
-      "sha256": "ff6882d0b64ccd1ea190fad93e1e980eaeffa48f8ebfb7060e95846ca0971b9b"
+      "bytes": 5892,
+      "sha256": "97eae5c80692e5842308f5841a184d5e6a48346234845383cfd25a4e1d72fd7c"
+    },
+    {
+      "file": "learning-sky.css",
+      "bytes": 11686,
+      "sha256": "555c5522a649a5f4defcf07c267f1d73af1d041f2073fac54cb61e7ea9cd1edb"
+    },
+    {
+      "file": "learning-sky.js",
+      "bytes": 11562,
+      "sha256": "d727135292ae691692b36338c479cfceb58c37c8137eae830a07f88dd21395ae"
     },
     {
       "file": "model.js",
-      "bytes": 3632,
-      "sha256": "487c24d51717c38740cafba9ff8ec39d52459f73b93f147328a39da7df57730a"
+      "bytes": 3717,
+      "sha256": "38584c31f54eaa7b238f37e91f18712eb4e3c01d3914566ad937ff6d5387050e"
     },
     {
       "file": "star-sky.css",
@@ -410,6 +420,11 @@
       "file": "template-restored.css",
       "bytes": 2857,
       "sha256": "40067df741151c2817d77b598f49bb1a3176b1edd2355463bbb70d050d239106"
+    },
+    {
+      "file": "制作规范与验收标准.md",
+      "bytes": 17850,
+      "sha256": "23ae04319b62f29612c09962be0b2a1fbe2dd0029c56ece05ec41f81c2ef62df"
     }
   ]
 }
