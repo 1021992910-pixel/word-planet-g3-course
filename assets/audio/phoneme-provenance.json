@@ -1,5 +1,5 @@
 {
-  "selection": "Consonants are generic IPA references; /eɪ/ is a British English recording. Whole words and sentences are Sonia en-GB synthetic models.",
+  "selection": "Original generic IPA references plus short extracts from own en-GB synthetic words; see per-clip sources.",
   "clips": [
     {
       "id": "sound-ay",
@@ -27,6 +27,19 @@
       "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
     },
     {
+      "id": "sound-d",
+      "title": "Voiced alveolar plosive.ogg",
+      "author": "Peter Isotalo (karmosin)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Voiced%20alveolar%20plosive.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "ipa": "[d]",
+      "changes": "Extracted 0.208–0.243 s; 2 ms edge fades; gain x1.143; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
+      "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    },
+    {
       "id": "sound-m",
       "title": "Bilabial nasal.ogg",
       "author": "Peter Isotalo (karmosin)",
@@ -37,6 +50,19 @@
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "ipa": "[m]",
       "changes": "Extracted 0.210–0.330 s; 2 ms edge fades; gain x4; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
+      "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    },
+    {
+      "id": "sound-l",
+      "title": "Alveolar lateral approximant.ogg",
+      "author": "Peter Isotalo (karmosin)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alveolar%20lateral%20approximant.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "ipa": "[l]",
+      "changes": "Extracted 0.280–0.420 s; 2 ms edge fades; gain x3.911; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
       "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
     },
     {
@@ -51,6 +77,66 @@
       "ipa": "[h]",
       "changes": "Extracted 0.300–0.430 s; 2 ms edge fades; gain x4; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
       "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    },
+    {
+      "id": "welcome-schwa",
+      "ipa": "/ə/",
+      "source": "hello.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.25,
+        0.345
+      ],
+      "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
+      "review": "Human phonetic review pending; acoustic windows approximate."
+    },
+    {
+      "id": "welcome-oh",
+      "ipa": "/əʊ/",
+      "source": "hello.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.47,
+        0.8
+      ],
+      "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
+      "review": "Human phonetic review pending; acoustic windows approximate."
+    },
+    {
+      "id": "welcome-g",
+      "ipa": "/ɡ/",
+      "source": "goodbye.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.185,
+        0.245
+      ],
+      "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
+      "review": "Human phonetic review pending; acoustic windows approximate."
+    },
+    {
+      "id": "welcome-short-oo",
+      "ipa": "/ʊ/",
+      "source": "goodbye.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.255,
+        0.35
+      ],
+      "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
+      "review": "Human phonetic review pending; acoustic windows approximate."
+    },
+    {
+      "id": "welcome-b",
+      "ipa": "/b/",
+      "source": "goodbye.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.435,
+        0.49
+      ],
+      "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
+      "review": "Human phonetic review pending; acoustic windows approximate."
     }
   ]
 }

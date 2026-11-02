@@ -15,10 +15,10 @@ const COURSE={version:1,book:'外研版 · 孙有中主编 · 三年级上册',l
   {number:4,title:'听一听，找一找字母',page:5,activity:'Listen, point and say'}
  ]};
 const WORDS=[
- {id:'hi',word:'hi',ipa:'/haɪ/',meaning:'嗨；你好',scene:'greeting',tip:'轻轻送气，再把声音滑到 /aɪ/。',parts:['h','i'],kind:'拼读小老师',hint:'i 在 hi 这个词里读 /aɪ/。',example:"Hi! I'm Lingling.",exampleAudio:'hi-lingling',translation:'嗨！我是玲玲。'},
- {id:'hello',word:'hello',ipa:'/həˈləʊ/',meaning:'你好',scene:'greeting',tip:'两小拍，前面轻，后面响。',parts:['hello'],kind:'跟着节奏读',hint:'听完整声音，第二拍更响亮。',example:'Hello. My name is Amy!',exampleAudio:'hello-amy',translation:'你好。我叫埃米！'},
- {id:'name',word:'name',ipa:'/neɪm/',meaning:'名字',scene:'name',tip:'a 和 e 隔着 m，一起发 /eɪ/；e 不单独读。',parts:['n','a_e','m'],kind:'拼读小老师',hint:'a_e 在 name 里读 /eɪ/，最后双唇轻合。',example:"What's your name?",exampleAudio:'ask-name',translation:'你叫什么名字？'},
- {id:'goodbye',word:'goodbye',ipa:'/ˌɡʊdˈbaɪ/',meaning:'再见',scene:'farewell',tip:'先听 good，再听 bye，接起来读。',parts:['good','bye'],kind:'词块连起来',hint:'good + bye，合起来就是告别。',example:'Goodbye, Bobo.',exampleAudio:'bye-bobo',translation:'再见，波波。'}
+ {id:'hi',word:'hi',ipa:'/haɪ/',meaning:'嗨；你好',scene:'greeting',tip:"h 轻轻送气；i 在 hi 里读 /aɪ/。听老师把两个音接起来。",parts:["h","i"],kind:"拼读小老师",hint:'i 在 hi 这个词里读 /aɪ/。',example:"Hi! I'm Lingling.",exampleAudio:'hi-lingling',translation:'嗨！我是玲玲。'},
+ {id:'hello',word:'hello',ipa:'/həˈləʊ/',meaning:'你好',scene:'greeting',tip:"先听 h、e、ll、o 在这个词里的声音，再接起来；前面轻，后面响。",parts:["h","e","ll","o"],kind:"拼读小老师",hint:'听完整声音，第二拍更响亮。',example:'Hello. My name is Amy!',exampleAudio:'hello-amy',translation:'你好。我叫埃米！'},
+ {id:'name',word:'name',ipa:'/neɪm/',meaning:'名字',scene:'name',tip:"先听 n、a_e、m 的声音，再连起来；e 不单独读。",parts:["n","a_e","m"],kind:"拼读小老师",hint:'a_e 在 name 里读 /eɪ/，最后双唇轻合。',example:"What's your name?",exampleAudio:'ask-name',translation:'你叫什么名字？'},
+ {id:'goodbye',word:'goodbye',ipa:'/ˌɡʊdˈbaɪ/',meaning:'再见',scene:'farewell',tip:"先听各组声音，再接起来；oo 在 good 里是短音，最后的 e 不发音。",parts:["g","oo","d","b","y","e"],kind:"拼读小老师",hint:'good + bye，合起来就是告别。',example:'Goodbye, Bobo.',exampleAudio:'bye-bobo',translation:'再见，波波。'}
 ];
 const SCENES=[
  {id:'greeting',name:'见面，打声招呼',audio:'book-greeting',alt:'两位小学生在简洁的学校门口相互微笑挥手。',lines:[
