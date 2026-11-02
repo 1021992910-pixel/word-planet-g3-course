@@ -1,5 +1,5 @@
 {
-  "version": "welcome-01-lingling-w05",
+  "version": "welcome-01-restore-sentence-w06",
   "files": [
     {
       "file": "adventure-art.css",
@@ -24,7 +24,7 @@
     {
       "file": "app.js",
       "bytes": 28051,
-      "sha256": "9e4b1f1852ceb13017b671cdd20e25d94f320de6a8e92f4287c894c58bad7c7e"
+      "sha256": "afef08230e7fc4069c3dfecce362e3767969153ba847f37dcd414274136f5c9d"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -88,8 +88,8 @@
     },
     {
       "file": "assets/audio/book-greeting.mp3",
-      "bytes": 42069,
-      "sha256": "17aca26ec1cc86552f3bb7fd5ab44ac4f051516f1982f89a0321a721c3443761"
+      "bytes": 38592,
+      "sha256": "6905b854cd424b34471670df9ada25310068361a4e522a30402ae9535aa1be00"
     },
     {
       "file": "assets/audio/bye-bobo.mp3",
@@ -218,8 +218,8 @@
     },
     {
       "file": "assets/audio/hi-lingling.mp3",
-      "bytes": 12717,
-      "sha256": "b4bdce0f4446df8f843448e5365e16ad8b99edbdefd82f7eeba68ee68443abdd"
+      "bytes": 13824,
+      "sha256": "e09de6ff0b1285efa6cb387edd5ce95eafc0442fd876bbda8ca2421a38e75c4b"
     },
     {
       "file": "assets/audio/hi.mp3",
@@ -313,8 +313,8 @@
     },
     {
       "file": "assets/audio/tts-provenance.json",
-      "bytes": 32218,
-      "sha256": "5565f304965b43c4a35eef44eb60f8fb699f4347ce5656892e83f6b45b5d773a"
+      "bytes": 31954,
+      "sha256": "2edf762e7e5429dd3969d7ccecbaffb3dbc67d69c7d0127feaec847ad5361900"
     },
     {
       "file": "assets/audio/welcome-b.mp3",
@@ -363,8 +363,8 @@
     },
     {
       "file": "audio-data.js",
-      "bytes": 18373,
-      "sha256": "7a48628bfe0fa5c1ac01e768b2bf99042963d9f8a82db41fe9e13d1e28b44641"
+      "bytes": 17973,
+      "sha256": "dcb15f39ca51c04096d9264d8d15ae31d0c4a5baa66eb78604d2ffc50d2d4b21"
     },
     {
       "file": "course-data.js",
@@ -378,8 +378,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 5948,
-      "sha256": "ba1c98c9f9117564417dd9612fd2afe46c60a1e3361ee4032ea755c788be246a"
+      "bytes": 5781,
+      "sha256": "e898719c01489666b31f2d350d9401ad07265692cec8d6804b0221d31c3b790b"
     },
     {
       "file": "model.js",
