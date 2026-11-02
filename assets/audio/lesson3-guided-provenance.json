@@ -233,23 +233,12 @@
           "sound-r",
           "sound-ee",
           "sound-d"
-        ],
-        "cues": [
-          "r",
-          "read-ea",
-          "d"
-        ],
-        "focus": 1,
-        "hint": "这条“读一读”的指令里，ea 读 /iː/，最后有 d。",
-        "edges": [
-          0,
-          0.25,
-          0.82,
-          1
         ]
       },
-      "duration": 19.31041666666667,
-      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+      "duration": 18.866999999999997,
+      "approvedSample": "read-tone-w13",
+      "method": "Reuse approved isolated natural 0.50s and slow 0.76s models as complete continuous segments. No fraction-based cut/reassembly, no pitch shift. Existing sound references retained. Chinese reminder contains no English homograph.",
+      "highlight": "Approximate acoustic teaching windows only, not phonetic scoring."
     },
     "listen": {
       "config": {
@@ -348,7 +337,7 @@
     "point-oi": "O 和 I 在 point 里，一起发。",
     "say-ay": "A 和 Y 在 say 里，一起发。",
     "r": "字母 R 在这里，发。",
-    "read-ea": "E 和 A 在这个表示阅读的 read 里，一起发。",
+    "read-ea": "E 和 A 在这里合起来，发。",
     "listen-t": "listen 中间的 T 不发音。",
     "listen-e": "E 在 listen 里，轻轻地发。",
     "write-w": "write 开头的 W 不发音。",
