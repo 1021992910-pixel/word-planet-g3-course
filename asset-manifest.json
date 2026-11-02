@@ -1,10 +1,10 @@
 {
-  "version": "welcome-01-camp-centres-w07",
+  "version": "welcome-01-flag-contact-w08",
   "files": [
     {
       "file": "adventure-art.css",
-      "bytes": 3675,
-      "sha256": "8a1d3c02cbb0267e2fffe6251aea6318db23c0c8ea821df3e06234df654c3978"
+      "bytes": 3673,
+      "sha256": "d8b7d4884edfdbdec26fb8f8eac522ffc7cba0d055b362c68bd494ef07c55b6f"
     },
     {
       "file": "adventure-data.js",
@@ -379,7 +379,7 @@
     {
       "file": "index.html",
       "bytes": 5781,
-      "sha256": "c2cd13285f725b835fb3bc560e237bfcccd25655c0a3a1bf9a9ab257f36832a4"
+      "sha256": "ff6882d0b64ccd1ea190fad93e1e980eaeffa48f8ebfb7060e95846ca0971b9b"
     },
     {
       "file": "model.js",
