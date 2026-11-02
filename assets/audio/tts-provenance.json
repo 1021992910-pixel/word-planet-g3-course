@@ -1215,27 +1215,38 @@
         },
         {
           "text": "Lingling.",
-          "start": 1.2083,
-          "end": 1.8889
+          "start": 1.335,
+          "end": 1.885,
+          "spokenText": "玲玲",
+          "locale": "zh-CN"
         }
       ],
-      "rawBoundaries": [
-        {
-          "text": "Hi",
-          "offset": 1333330,
-          "duration": 3888750
-        },
-        {
-          "text": "I'm",
-          "offset": 9583330,
-          "duration": 2361250
-        },
-        {
-          "text": "Lingling",
-          "offset": 12083330,
-          "duration": 6805410
+      "rawBoundaries": [],
+      "pronunciationOverrides": {
+        "Lingling": {
+          "spokenText": "玲玲",
+          "voice": "zh-CN-XiaoxiaoNeural",
+          "locale": "zh-CN",
+          "reason": "User requires Chinese proper-name pronunciation rather than English reading of pinyin."
         }
-      ]
+      },
+      "composition": {
+        "englishVoice": "en-GB-SoniaNeural",
+        "englishSource": "Original hi-lingling.mp3 prefix",
+        "englishRange": [
+          0,
+          1.3
+        ],
+        "joinGap": 0.035,
+        "nameVoice": "zh-CN-XiaoxiaoNeural",
+        "nameText": "玲玲",
+        "nameTrim": [
+          0.17,
+          0.72
+        ],
+        "duration": 1.885,
+        "wordTiming": "Original English WordBoundary; name window follows actual composed Mandarin segment."
+      }
     },
     "im-sam": {
       "text": "I'm Sam.",
@@ -1365,112 +1376,87 @@
         },
         {
           "text": "I'm",
-          "start": 0.9305,
-          "end": 1.1805
+          "start": 0.9583,
+          "end": 1.1945
         },
         {
           "text": "Lingling.",
-          "start": 1.1945,
-          "end": 1.875
+          "start": 1.335,
+          "end": 1.885,
+          "spokenText": "玲玲",
+          "locale": "zh-CN"
         },
         {
           "text": "What's",
-          "start": 2.3055,
-          "end": 2.6389
+          "start": 2.2183,
+          "end": 2.5239
         },
         {
           "text": "your",
-          "start": 2.6528,
-          "end": 2.8056
+          "start": 2.5378,
+          "end": 2.6906
         },
         {
           "text": "name?",
-          "start": 2.8195,
-          "end": 3.3472
+          "start": 2.7045,
+          "end": 3.2461
         },
         {
           "text": "Hello.",
-          "start": 3.7778,
-          "end": 4.4167
+          "start": 4.2903,
+          "end": 4.9292
         },
         {
           "text": "My",
-          "start": 4.8472,
-          "end": 5.0277
+          "start": 5.3653,
+          "end": 5.5459
         },
         {
           "text": "name",
-          "start": 5.0417,
-          "end": 5.4167
+          "start": 5.5598,
+          "end": 5.9348
         },
         {
           "text": "is",
-          "start": 5.4305,
-          "end": 5.5972
+          "start": 5.9487,
+          "end": 6.1153
         },
         {
           "text": "Amy!",
-          "start": 5.6111,
-          "end": 6.0417
+          "start": 6.1292,
+          "end": 6.5597
         }
       ],
-      "rawBoundaries": [
-        {
-          "text": "Hi",
-          "offset": 1333330,
-          "duration": 3888750
-        },
-        {
-          "text": "I'm",
-          "offset": 9305410,
-          "duration": 2500000
-        },
-        {
-          "text": "Lingling",
-          "offset": 11944580,
-          "duration": 6805410
-        },
-        {
-          "text": "What's",
-          "offset": 23055410,
-          "duration": 3333330
-        },
-        {
-          "text": "your",
-          "offset": 26527910,
-          "duration": 1527910
-        },
-        {
-          "text": "name",
-          "offset": 28194580,
-          "duration": 5277910
-        },
-        {
-          "text": "Hello",
-          "offset": 37777910,
-          "duration": 6388750
-        },
-        {
-          "text": "My",
-          "offset": 48472080,
-          "duration": 1805410
-        },
-        {
-          "text": "name",
-          "offset": 50416660,
-          "duration": 3750000
-        },
-        {
-          "text": "is",
-          "offset": 54305410,
-          "duration": 1666660
-        },
-        {
-          "text": "Amy",
-          "offset": 56111250,
-          "duration": 4305410
+      "rawBoundaries": [],
+      "pronunciationOverrides": {
+        "Lingling": {
+          "spokenText": "玲玲",
+          "voice": "zh-CN-XiaoxiaoNeural",
+          "locale": "zh-CN",
+          "reason": "User requires Chinese proper-name pronunciation rather than English reading of pinyin."
         }
-      ]
+      },
+      "composition": {
+        "sentences": [
+          {
+            "clip": "hi-lingling",
+            "start": 0.0,
+            "end": 1.885
+          },
+          {
+            "clip": "ask-name",
+            "start": 2.085,
+            "end": 3.957
+          },
+          {
+            "clip": "hello-amy",
+            "start": 4.157,
+            "end": 6.941
+          }
+        ],
+        "duration": 6.941,
+        "wordTiming": "Sentence word timings translated by actual concatenation offsets; English word timings remain provider WordBoundary."
+      }
     },
     "book-farewell": {
       "text": "Goodbye, Bobo. Have a nice day!",
