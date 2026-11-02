@@ -1,10 +1,80 @@
 {
-  "version": "welcome-01-v1",
+  "version": "welcome-01-template-w02",
   "files": [
     {
+      "file": "adventure-art.css",
+      "bytes": 3555,
+      "sha256": "4ff7c37d8b978ca156877ee78a659be6e4bedbe98ac7738a379bf63364cc5d4f"
+    },
+    {
+      "file": "adventure-data.js",
+      "bytes": 3926,
+      "sha256": "52ea4416b07d435eddac8f2cac2cdc139196ffd6ccd37142318b1616cc304186"
+    },
+    {
+      "file": "adventure.css",
+      "bytes": 17753,
+      "sha256": "8fbcfb1930b504a65d76e99bbb56653f022429949a5dfbb6df2bdb1b9a99a6c9"
+    },
+    {
+      "file": "adventure.js",
+      "bytes": 26741,
+      "sha256": "56c1aad3d6156d4cb98c0f72335223bb204fd8bfd58373d75c4bd582ae7db18f"
+    },
+    {
       "file": "app.js",
-      "bytes": 25721,
-      "sha256": "0757614592044e201e9cdf4fbca0dfdb17db71262f3373e9659d4e54ea5efcc5"
+      "bytes": 28051,
+      "sha256": "ccbbbaadf727f12184755fb8089ab33a5577839c4a174178da973084486a4711"
+    },
+    {
+      "file": "assets/adventure/bridge-v2.webp",
+      "bytes": 180602,
+      "sha256": "da0bfcd1728937f7895e75d6fa7535a60626c610e12ff7849073c1d51776d1df"
+    },
+    {
+      "file": "assets/adventure/camp-base-w02.webp",
+      "bytes": 184086,
+      "sha256": "c91a4c038adbc29d929246cd3b4013ca1c25bc236939de1050618b7aa5631f94"
+    },
+    {
+      "file": "assets/adventure/flag-v2.webp",
+      "bytes": 35588,
+      "sha256": "ba96cc464eebd4c836b95d5e5be947a6478c972e283b2d28b67ea922ee4dd64d"
+    },
+    {
+      "file": "assets/adventure/friends-v2.webp",
+      "bytes": 131246,
+      "sha256": "9328620d6cfe79749a34243f4f233769d3ef16305ebfced5aacaa561abbd21e1"
+    },
+    {
+      "file": "assets/adventure/lamp-v2.webp",
+      "bytes": 61354,
+      "sha256": "6b9e18cd52b1aba2975beb6d24c994da69fea82e749d005577bb87653030f607"
+    },
+    {
+      "file": "assets/adventure/party-v2.webp",
+      "bytes": 161864,
+      "sha256": "4666ff891b5ee7038ea129624b9df8c19038dcfc8365811197fee3faa96e35ca"
+    },
+    {
+      "file": "assets/adventure/rocket-v2.webp",
+      "bytes": 44120,
+      "sha256": "e37ae32c953339d438fa16ed8f3128e6993f2c8fa705640c03e73f968b2c8f85"
+    },
+    {
+      "file": "assets/adventure/signal-v2.webp",
+      "bytes": 127714,
+      "sha256": "655e73979a6c0bc46097b36c206626d91286e01e2836d199af5b871e72112192"
+    },
+    {
+      "file": "assets/adventure/sound-v2.webp",
+      "bytes": 125842,
+      "sha256": "54810cf1526d45c02a2548c47a0b9c86fe1771f2309962c3c64e200c2b1bebee"
+    },
+    {
+      "file": "assets/adventure/supply-v2.webp",
+      "bytes": 147586,
+      "sha256": "407f156e59e29b65d38683960b6d9aa899ba980ba7371f428e45b4f5d87596e0"
     },
     {
       "file": "assets/audio/ask-name.mp3",
@@ -38,8 +108,8 @@
     },
     {
       "file": "assets/audio/cue-ae.mp3",
-      "bytes": 18864,
-      "sha256": "8e240f1d7919368c8adb2a96d633ee9763d69d2408d8562c53082c53a99b27a1"
+      "bytes": 14544,
+      "sha256": "9cf59f3d940a46e6303b08b7a2d3f4d4c112da4cd3907115b9a24d38baf0c136"
     },
     {
       "file": "assets/audio/cue-goodbye.mp3",
@@ -53,8 +123,8 @@
     },
     {
       "file": "assets/audio/cue-hi.mp3",
-      "bytes": 45936,
-      "sha256": "c3882318c4ea8c222b179bca14b7b3aa8e8bc6767bb147c0176ed49b4f452cdd"
+      "bytes": 21168,
+      "sha256": "5f50fcd298360201bc5e6348830b49a5fba64d1dc96cb1c085b1377d1112272f"
     },
     {
       "file": "assets/audio/cue-join.mp3",
@@ -63,23 +133,23 @@
     },
     {
       "file": "assets/audio/cue-m.mp3",
-      "bytes": 24336,
-      "sha256": "dd3346071eca7f4548b3fc6083633a01e08ec541d095ebabefb495f6e6e75c09"
+      "bytes": 13824,
+      "sha256": "08f66a72f9ced07b9878cdbb94d5cbebd39f8653186746758177abef29ea7757"
     },
     {
       "file": "assets/audio/cue-n.mp3",
-      "bytes": 11808,
-      "sha256": "6b69878b49d1213aa91f8a7fd50e19b51233c5d8a1e54a7d78e925c472092109"
+      "bytes": 11376,
+      "sha256": "83bfb920c1c9c641f4eecffab245a46bbe0035677d4be2e757749cb74c1842ff"
     },
     {
       "file": "assets/audio/cue-name.mp3",
-      "bytes": 56880,
-      "sha256": "4e46e4ff6c7650d928f73d8d505007b719500505534cd0584387f295f12d2018"
+      "bytes": 26064,
+      "sha256": "4ec1edf9ddaeccce18db442ec25059dffe9d7086a163d8fb7fe88cb6ece4619f"
     },
     {
       "file": "assets/audio/cue-repeat.mp3",
-      "bytes": 20736,
-      "sha256": "e8ed5ed1b2659093cf4991b78061f1be13615727384bb792a94a574cd304f0b7"
+      "bytes": 16992,
+      "sha256": "f0aa7bd7daff2c77041811bbcfeb96b6d5fc79630418287527c1fabfe8eaaa20"
     },
     {
       "file": "assets/audio/farewell-scene.mp3",
@@ -103,28 +173,28 @@
     },
     {
       "file": "assets/audio/guided-goodbye.mp3",
-      "bytes": 107517,
-      "sha256": "977e00bfd4e8b409e53a5cbbea6637944cf4dfe34564778b85427d436e17624f"
+      "bytes": 112317,
+      "sha256": "93d6d30337b7a536257bd519e0ebd387e7b1692d2c205e21e8a32d3db1a1c147"
     },
     {
       "file": "assets/audio/guided-hello.mp3",
-      "bytes": 113565,
-      "sha256": "bee3fa5cf91178b8e3bc4a26e9fba11d38ff5b8e9c91b25baec4f846e6679940"
+      "bytes": 117549,
+      "sha256": "127baffdc296f1d5f97a1e419805dbda3826628d5d3b3d5dcf550d9e0e5d72b0"
     },
     {
       "file": "assets/audio/guided-hi.mp3",
-      "bytes": 111141,
-      "sha256": "2b7f2739fba3af72ca762b538e69f34fcf41d687d979048aea56855726b18551"
+      "bytes": 84357,
+      "sha256": "da69f903828255dfa31a49dde83d672dbf60d8332eca999e131771841b0548e3"
     },
     {
       "file": "assets/audio/guided-name.mp3",
-      "bytes": 190581,
-      "sha256": "171f74dd3183b223967514785c943ecccfef028b94dc34abaca2d2ff89a36ca7"
+      "bytes": 135693,
+      "sha256": "8ac8e5d7a21f7020d8b8c85a8350f00ddf8481f3b16dc19f5c117ef9b135f216"
     },
     {
       "file": "assets/audio/guided-provenance.json",
-      "bytes": 10635,
-      "sha256": "c1bb2441dff814082bd5d97d104b0d748af12c8c4673e092578ad454b22e7853"
+      "bytes": 14956,
+      "sha256": "7ef3dd1fbf8eed976916cefdf758c64f2387c40e646f7a7702a2029518e1555d"
     },
     {
       "file": "assets/audio/hello-amy.mp3",
@@ -233,8 +303,8 @@
     },
     {
       "file": "assets/audio/tts-provenance.json",
-      "bytes": 37239,
-      "sha256": "e977fec9272f1f0156ef777e53a2df00b88b6c7095ce51548b34a2e22b796d32"
+      "bytes": 31954,
+      "sha256": "2edf762e7e5429dd3969d7ccecbaffb3dbc67d69c7d0127feaec847ad5361900"
     },
     {
       "file": "assets/planet.svg",
@@ -252,29 +322,34 @@
       "sha256": "fc0d31d96e3b7bb55afbedae21ee34c42d9310cd72552b09faca6d0bf1e1a267"
     },
     {
+      "file": "assets/scenes/name.webp",
+      "bytes": 87880,
+      "sha256": "7b81a947d81100b9a2bd4030461e423c6e381116e5fbcf9d067bc888b372b616"
+    },
+    {
       "file": "audio-data.js",
-      "bytes": 20019,
-      "sha256": "44feeb185cbd321a601e67fa04dab4982201c124061d675e07cd06a7ff86bd02"
+      "bytes": 17973,
+      "sha256": "dcb15f39ca51c04096d9264d8d15ae31d0c4a5baa66eb78604d2ffc50d2d4b21"
     },
     {
       "file": "course-data.js",
-      "bytes": 4549,
-      "sha256": "cf464147065d280b60a75060f2e63946bf94585865657e695ffbfed401610dfd"
+      "bytes": 4903,
+      "sha256": "b8092e249566c40b6ada751749b2b970b2cf58f49d43f25b0fb6e9e4becc818a"
     },
     {
       "file": "guided-data.js",
-      "bytes": 5403,
-      "sha256": "84bbfdfe830ab015dfd77da6e234e78045a20c0bbea0bd3ffcdda82e111b384b"
+      "bytes": 7834,
+      "sha256": "d120ac32790c7f92468a548d0b82f2aa383e92634f1d7bc16482ee38b3f96b23"
     },
     {
       "file": "index.html",
-      "bytes": 5144,
-      "sha256": "2b38d26be7d9cf8035cabe88fb821170c40d36a45da336ad997d49063fdee9c1"
+      "bytes": 5744,
+      "sha256": "8be2a403240c346a956e8a5c198e4bcdf3ac4d92ed3e232edbe2e784440d4b0f"
     },
     {
       "file": "model.js",
-      "bytes": 3271,
-      "sha256": "e25f28f324a80504599f17c9a9afcd67c46074824a42e49edff26600e69e6adb"
+      "bytes": 3632,
+      "sha256": "487c24d51717c38740cafba9ff8ec39d52459f73b93f147328a39da7df57730a"
     },
     {
       "file": "star-sky.css",
@@ -285,6 +360,21 @@
       "file": "style.css",
       "bytes": 21109,
       "sha256": "2c7f92bdf37563defbdce7cd64106c202971ad49e4bd9f34dae81d8b75c6b126"
+    },
+    {
+      "file": "teacher.css",
+      "bytes": 2126,
+      "sha256": "a282bac7145793b6e8c8ad8b841bfde9938accf8cb18fec0fdc5897d3a1f0473"
+    },
+    {
+      "file": "teacher.js",
+      "bytes": 3266,
+      "sha256": "94c8606220dedea445ec1cfa3cf176ff0d734e650f9070163369b428ce0c42e7"
+    },
+    {
+      "file": "template-restored.css",
+      "bytes": 2961,
+      "sha256": "9cce06ec38dad312fddfbc0a8116a9daba26475d11e15d0951d5bf11b0b652c8"
     }
   ]
 }
