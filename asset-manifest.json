@@ -1,5 +1,5 @@
 {
-  "version": "welcome-01-template-w02",
+  "version": "welcome-01-card-ratio-w03",
   "files": [
     {
       "file": "adventure-art.css",
@@ -344,7 +344,7 @@
     {
       "file": "index.html",
       "bytes": 5744,
-      "sha256": "8be2a403240c346a956e8a5c198e4bcdf3ac4d92ed3e232edbe2e784440d4b0f"
+      "sha256": "b2bd843e22faec98d5f30a20a66b003043f63d479971267b75716cd2d61af250"
     },
     {
       "file": "model.js",
@@ -358,8 +358,8 @@
     },
     {
       "file": "style.css",
-      "bytes": 21109,
-      "sha256": "2c7f92bdf37563defbdce7cd64106c202971ad49e4bd9f34dae81d8b75c6b126"
+      "bytes": 21122,
+      "sha256": "9a91764e46b360e220804fe966278fa752b36d729eba8ed1808b0e3453f6c96e"
     },
     {
       "file": "teacher.css",
