@@ -1,5 +1,5 @@
 {
-  "version": "welcome-03-classroom-w11",
+  "version": "welcome-03-homographs-w12",
   "files": [
     {
       "file": "action-lesson.css",
@@ -33,8 +33,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 26957,
-      "sha256": "b313da055b3840a555b8c90c1840ce71888e7d9dd346789ed93b28ce76fb066c"
+      "bytes": 27029,
+      "sha256": "b9c5fb1c755e707dcb50f3ec30b9443cabeb7f5d6a29eefa5d39fe0ea93fb89d"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -158,8 +158,8 @@
     },
     {
       "file": "assets/audio/close.mp3",
-      "bytes": 8133,
-      "sha256": "8d3ed409094f88dd8cc0a034280037089f14a81e6439ae0c4569be7c0ee6bf9d"
+      "bytes": 4461,
+      "sha256": "dffa7fc5883622d980fea9d594095233f84bfc689d6b982c41925f3d8d9bba07"
     },
     {
       "file": "assets/audio/cmd-close.mp3",
@@ -283,8 +283,8 @@
     },
     {
       "file": "assets/audio/guided-close.mp3",
-      "bytes": 176565,
-      "sha256": "462d9e933d99c43077328b4101cc09dae34c1723367886502691b76339f837f1"
+      "bytes": 162237,
+      "sha256": "8276d20cb11e712d832ef800e58538f0345876ef69157f0d407ec5d7303a18fb"
     },
     {
       "file": "assets/audio/guided-good.mp3",
@@ -338,8 +338,8 @@
     },
     {
       "file": "assets/audio/guided-read.mp3",
-      "bytes": 115485,
-      "sha256": "8f26b95885bd649b98c12d809a53b198397d17eb5e626861cae5467ed84e09a7"
+      "bytes": 115389,
+      "sha256": "ea3acc5b42f07bb4d73968471f13f4a8feb93e17ca3ba4689a4eb23518a81e81"
     },
     {
       "file": "assets/audio/guided-say.mp3",
@@ -423,8 +423,8 @@
     },
     {
       "file": "assets/audio/lesson3-guided-provenance.json",
-      "bytes": 9759,
-      "sha256": "e9c0ddf9778a3b422c8bb1a353ec2a31c051ed6cc29669d0c6a7743b68c80721"
+      "bytes": 9757,
+      "sha256": "64811296347f532d3bfb6c481ce82c763c0c8f22688f8583d0a1cb09942032e8"
     },
     {
       "file": "assets/audio/listen.mp3",
@@ -438,8 +438,8 @@
     },
     {
       "file": "assets/audio/model-close-verb.mp3",
-      "bytes": 12384,
-      "sha256": "312da3c07ed671d6fb3a2cb7d2ed405ebfb13c04f051f40981afd991029cab9b"
+      "bytes": 9504,
+      "sha256": "1cca3dcf22e69e3ca9f5d27804465fa0516c54dc6e122c6f1dee6164da209c06"
     },
     {
       "file": "assets/audio/model-key.mp3",
@@ -448,8 +448,8 @@
     },
     {
       "file": "assets/audio/model-read-present.mp3",
-      "bytes": 12096,
-      "sha256": "db48d599893d0d0d88335aec2deb0820bafa5ccf4575273d6e789679e9bc0ba0"
+      "bytes": 9072,
+      "sha256": "0c4af3cb4c66ed20b789148f7bd3ccb569b094ebc1a0f403bebde6e7748c917c"
     },
     {
       "file": "assets/audio/model-zoo.mp3",
@@ -528,8 +528,8 @@
     },
     {
       "file": "assets/audio/read.mp3",
-      "bytes": 3333,
-      "sha256": "2749880b1427e30482a4b587e4d3bb96e1f717ce4f60e6e09a4f82207f51bf84"
+      "bytes": 4173,
+      "sha256": "c668cb5fcd503e75f15da51d1e70a3d594123a6fe76d434a8a6e3ad81a93258b"
     },
     {
       "file": "assets/audio/reply-goodbye.mp3",
@@ -628,8 +628,8 @@
     },
     {
       "file": "assets/audio/tts-provenance.json",
-      "bytes": 54055,
-      "sha256": "c4223650c1efa99419ea8b21891d9fdc8b0c57b7441b1ec32000b0c38c7e5a84"
+      "bytes": 55023,
+      "sha256": "ab8e9824704e0ab6cd1a902b5f2c594639627b6afdb3f4abf5bfd2ea47be29fd"
     },
     {
       "file": "assets/audio/welcome-b.mp3",
@@ -728,8 +728,8 @@
     },
     {
       "file": "audio-data.js",
-      "bytes": 30574,
-      "sha256": "4f219db07fd81f257cddaf5ce46226b06e7c791b9696afadca042e0e259ce9ff"
+      "bytes": 31174,
+      "sha256": "a6d5b06777f70981c084a96a87c3b94060988f0ae8dd754be83e3249d0999c9b"
     },
     {
       "file": "course-data.js",
@@ -738,13 +738,13 @@
     },
     {
       "file": "guided-data.js",
-      "bytes": 44390,
-      "sha256": "1919729ba3d45a08e60dde22a137176234246c1d6622f0f8b8444ccbdcc4d0f3"
+      "bytes": 44400,
+      "sha256": "6239bd13e85e65d3fc7bc82650140a33f60f72fa1213d6483ae5a1d99cb7c88b"
     },
     {
       "file": "index.html",
-      "bytes": 6200,
-      "sha256": "e47ec04811334474f793e441c8039ef505b30d4bc23ef0c002d39c0de5b59965"
+      "bytes": 6203,
+      "sha256": "9f112f9ef13ae2878d2683961861fd6f5c84ede2642dd97ff24eb1568bab9dc5"
     },
     {
       "file": "learning-sky.css",
