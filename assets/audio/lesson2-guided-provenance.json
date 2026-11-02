@@ -1,0 +1,70 @@
+{
+  "words": {
+    "good": {
+      "config": {
+        "parts": [
+          "g",
+          "oo",
+          "d"
+        ],
+        "sounds": [
+          "welcome-g",
+          "welcome-short-oo",
+          "sound-d"
+        ],
+        "cues": [
+          "g",
+          "good-oo",
+          "d"
+        ],
+        "focus": 1,
+        "hint": "oo 在 good 里读短音 /ʊ/，不要拉成长音。"
+      },
+      "duration": 18.21670833333333,
+      "method": "Own UK whole word, unbroken slow/faster stretch; per-grapheme spoken cues and references; 3sec child echo."
+    },
+    "morning": {
+      "config": {
+        "parts": [
+          "m",
+          "or",
+          "n",
+          "i",
+          "ng"
+        ],
+        "sounds": [
+          "sound-m",
+          "morning-or",
+          "sound-n",
+          "sound-i",
+          "morning-ng"
+        ],
+        "cues": [
+          "m",
+          "morning-or",
+          "n",
+          "i",
+          "morning-ng"
+        ],
+        "focus": 1,
+        "hint": "or 在英式 morning 中读 /ɔː/，不另加 r；词尾 ng 合读 /ŋ/。"
+      },
+      "duration": 27.60645833333333,
+      "method": "Own UK whole word, unbroken slow/faster stretch; per-grapheme spoken cues and references; 3sec child echo."
+    }
+  },
+  "cueTexts": {
+    "g": "字母 G 在这里，发。",
+    "good-oo": "两个 O 在 good 里，发短音。",
+    "d": "字母 D，发。",
+    "m": "字母 M，发。",
+    "morning-or": "O 和 R 在 morning 里，一起发。",
+    "n": "字母 N，发。",
+    "i": "字母 I 在这里，发。",
+    "morning-ng": "N 和 G 在词尾，一起发鼻音。不要分成两个音。",
+    "join": "把这几个声音接起来。",
+    "repeat": "跟老师再读一遍。"
+  },
+  "teacher_review": "pending",
+  "note": "Original approved lesson1 guided assets remain unchanged."
+}

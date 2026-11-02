@@ -1540,6 +1540,367 @@
           "duration": 3472080
         }
       ]
+    },
+    "morning": {
+      "text": "morning",
+      "file": "morning.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "morning",
+          "start": 0.1028,
+          "end": 0.7972
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "morning",
+          "offset": 1027910,
+          "duration": 6944580
+        }
+      ]
+    },
+    "good-morning": {
+      "text": "Good morning!",
+      "file": "good-morning.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Good",
+          "start": 0.1014,
+          "end": 0.3653
+        },
+        {
+          "text": "morning!",
+          "start": 0.3792,
+          "end": 0.9764
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Good",
+          "offset": 1013750,
+          "duration": 2638750
+        },
+        {
+          "text": "morning",
+          "offset": 3791660,
+          "duration": 5972080
+        }
+      ]
+    },
+    "morning-children": {
+      "text": "Good morning, Ms Smart!",
+      "file": "morning-children.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Good",
+          "start": 0.1014,
+          "end": 0.3653
+        },
+        {
+          "text": "morning,",
+          "start": 0.3792,
+          "end": 0.907
+        },
+        {
+          "text": "Ms",
+          "start": 1.1986,
+          "end": 1.4208
+        },
+        {
+          "text": "Smart!",
+          "start": 1.4347,
+          "end": 2.018
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Good",
+          "offset": 1013750,
+          "duration": 2638750
+        },
+        {
+          "text": "morning",
+          "offset": 3791660,
+          "duration": 5277910
+        },
+        {
+          "text": "Ms",
+          "offset": 11986250,
+          "duration": 2222080
+        },
+        {
+          "text": "Smart",
+          "offset": 14347080,
+          "duration": 5833330
+        }
+      ]
+    },
+    "morning-teacher": {
+      "text": "Good morning! I'm Ms Smart.",
+      "file": "morning-teacher.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Good",
+          "start": 0.1014,
+          "end": 0.3653
+        },
+        {
+          "text": "morning!",
+          "start": 0.3792,
+          "end": 0.9764
+        },
+        {
+          "text": "I'm",
+          "start": 1.4167,
+          "end": 1.6389
+        },
+        {
+          "text": "Ms",
+          "start": 1.6528,
+          "end": 1.9306
+        },
+        {
+          "text": "Smart.",
+          "start": 1.9445,
+          "end": 2.6111
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Good",
+          "offset": 1013750,
+          "duration": 2638750
+        },
+        {
+          "text": "morning",
+          "offset": 3791660,
+          "duration": 5972080
+        },
+        {
+          "text": "I'm",
+          "offset": 14166660,
+          "duration": 2222080
+        },
+        {
+          "text": "Ms",
+          "offset": 16527910,
+          "duration": 2777910
+        },
+        {
+          "text": "Smart",
+          "offset": 19444580,
+          "duration": 6666660
+        }
+      ]
+    },
+    "ms-smart": {
+      "text": "Ms Smart",
+      "file": "ms-smart.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Ms",
+          "start": 0.1333,
+          "end": 0.425
+        },
+        {
+          "text": "Smart",
+          "start": 0.4389,
+          "end": 1.1055
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Ms",
+          "offset": 1333330,
+          "duration": 2916660
+        },
+        {
+          "text": "Smart",
+          "offset": 4388750,
+          "duration": 6666660
+        }
+      ]
+    },
+    "book-morning": {
+      "text": "Good morning! I'm Ms Smart. Good morning, Ms Smart!",
+      "file": "book-morning.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Good",
+          "start": 0.1014,
+          "end": 0.3653
+        },
+        {
+          "text": "morning!",
+          "start": 0.3792,
+          "end": 0.9764
+        },
+        {
+          "text": "I'm",
+          "start": 1.4028,
+          "end": 1.625
+        },
+        {
+          "text": "Ms",
+          "start": 1.6389,
+          "end": 1.9167
+        },
+        {
+          "text": "Smart.",
+          "start": 1.9305,
+          "end": 2.5972
+        },
+        {
+          "text": "Good",
+          "start": 2.9958,
+          "end": 3.2597
+        },
+        {
+          "text": "morning,",
+          "start": 3.2736,
+          "end": 3.8014
+        },
+        {
+          "text": "Ms",
+          "start": 4.093,
+          "end": 4.3152
+        },
+        {
+          "text": "Smart!",
+          "start": 4.3292,
+          "end": 4.9125
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Good",
+          "offset": 1013750,
+          "duration": 2638750
+        },
+        {
+          "text": "morning",
+          "offset": 3791660,
+          "duration": 5972080
+        },
+        {
+          "text": "I'm",
+          "offset": 14027910,
+          "duration": 2222080
+        },
+        {
+          "text": "Ms",
+          "offset": 16388750,
+          "duration": 2777910
+        },
+        {
+          "text": "Smart",
+          "offset": 19305410,
+          "duration": 6666660
+        },
+        {
+          "text": "Good",
+          "offset": 29958330,
+          "duration": 2638750
+        },
+        {
+          "text": "morning",
+          "offset": 32736250,
+          "duration": 5277910
+        },
+        {
+          "text": "Ms",
+          "offset": 40930410,
+          "duration": 2222080
+        },
+        {
+          "text": "Smart",
+          "offset": 43291660,
+          "duration": 5833330
+        }
+      ]
+    },
+    "phone-or-model": {
+      "text": "or",
+      "file": "phone-or-model.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "or",
+          "start": 0.1014,
+          "end": 0.6152
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "or",
+          "offset": 1013750,
+          "duration": 5138750
+        }
+      ]
+    },
+    "phone-ng-model": {
+      "text": "sing",
+      "file": "phone-ng-model.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "sing",
+          "start": 0.1055,
+          "end": 0.675
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "sing",
+          "offset": 1055410,
+          "duration": 5694580
+        }
+      ]
+    },
+    "im-ms-smart": {
+      "text": "I'm Ms Smart.",
+      "file": "im-ms-smart.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "I'm",
+          "start": 0.1472,
+          "end": 0.3694
+        },
+        {
+          "text": "Ms",
+          "start": 0.3833,
+          "end": 0.6611
+        },
+        {
+          "text": "Smart.",
+          "start": 0.675,
+          "end": 1.3417
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "I'm",
+          "offset": 1472080,
+          "duration": 2222080
+        },
+        {
+          "text": "Ms",
+          "offset": 3833330,
+          "duration": 2777910
+        },
+        {
+          "text": "Smart",
+          "offset": 6750000,
+          "duration": 6666660
+        }
+      ]
     }
   }
 }

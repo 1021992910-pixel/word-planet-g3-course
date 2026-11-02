@@ -137,6 +137,42 @@
       ],
       "changes": "Short sound reference cut from our synthetic UK word, 3ms edge fades and peak normalization; no added vowel.",
       "review": "Human phonetic review pending; acoustic windows approximate."
+    },
+    {
+      "id": "sound-i",
+      "title": "Close front unrounded vowel.ogg",
+      "ipa": "[i]",
+      "author": "Denelson83",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Close%20front%20unrounded%20vowel.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Close_front_unrounded_vowel.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Extracted 0.200–0.360 s from single-vowel demonstration; 2 ms edge fades; gain x0.71; MP3 conversion. CC BY-SA 3.0 applies where specified.",
+      "notes": "General IPA reference, not a British-accent word recording."
+    },
+    {
+      "id": "morning-or",
+      "ipa": "/ɔː/",
+      "source": "phone-or-model.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.16,
+        0.66
+      ],
+      "review": "Approximate acoustic selection, professional ear review pending",
+      "changes": "Own synthetic reference, edge fades and peak normalization."
+    },
+    {
+      "id": "morning-ng",
+      "ipa": "/ŋ/",
+      "source": "phone-ng-model.mp3",
+      "voice": "en-GB-SoniaNeural",
+      "selection": [
+        0.48,
+        0.68
+      ],
+      "review": "Approximate acoustic selection, professional ear review pending",
+      "changes": "Own synthetic reference, edge fades and peak normalization."
     }
   ]
 }

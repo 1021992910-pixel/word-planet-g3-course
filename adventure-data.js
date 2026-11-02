@@ -1,6 +1,6 @@
 'use strict';
 // The familiar adventure is retained. These original tasks practise Welcome p.2.
-const ADVENTURE_MISSIONS=[
+let ADVENTURE_MISSIONS=[
  {id:'signal',title:'接通信号港',skill:'听音认意',icon:'📡',story:'友谊星收到新朋友的问候！听清两条消息，帮米娅接通信号。',done:'问候信号接通啦！现在去修好拼读机。',tasks:[
   {id:'welcome-hear-hi',type:'picture',word:'hi',audio:'hi',prompt:'听到的词，适合哪幅画？',options:['hi','name','goodbye'],answer:'hi',hint:'见到小伙伴时，挥手说 hi。'},
   {id:'welcome-hear-hello',type:'choice',word:'hello',audio:'reply-hello',prompt:'新朋友发来的这条消息，是在做什么？',options:['打招呼','说再见','询问姓名'],answer:'打招呼',hint:'Hello! 是见面时的问候。'}]},
