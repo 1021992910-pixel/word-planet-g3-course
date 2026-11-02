@@ -1,0 +1,402 @@
+{
+  "method": "Audible cues, sound references, continuous unbroken slowed UK word, natural model, child response gap. hello uses rhythm, goodbye uses chunks; only hi and name are sound-out examples.",
+  "phoneme_sources": "phoneme-provenance.json",
+  "whole_word_source": "tts-provenance.json",
+  "teacher_review": "pending",
+  "audio_assessment": false,
+  "editing": {
+    "hi": {
+      "naturalDuration": 0.51,
+      "continuousDuration": 0.84025,
+      "continuousTempo": 0.58,
+      "windows": "Approximate teaching transitions within an unbroken real word model, not forced-aligned phone boundaries.",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6.97,
+          "phase": "cue",
+          "text": "h 轻轻送气，i 在这里读 /aɪ/。"
+        },
+        {
+          "start": 6.97,
+          "end": 7.17,
+          "phase": "gap",
+          "text": "仔细听声音。"
+        },
+        {
+          "start": 7.17,
+          "end": 7.3,
+          "phase": "phoneme",
+          "text": "h：轻轻送气。",
+          "index": 0
+        },
+        {
+          "start": 7.3,
+          "end": 7.5,
+          "phase": "gap",
+          "text": "轻轻送气。"
+        },
+        {
+          "start": 7.5,
+          "end": 7.94,
+          "phase": "phoneme",
+          "text": "i 在这里读 /aɪ/。",
+          "index": 1
+        },
+        {
+          "start": 7.94,
+          "end": 9.98,
+          "phase": "cue",
+          "text": "声音接起来，慢慢读。"
+        },
+        {
+          "start": 9.98,
+          "end": 10.82025,
+          "phase": "connected",
+          "text": "慢慢接起来：hi。",
+          "windows": [
+            {
+              "index": 0,
+              "start": 9.98,
+              "end": 10.16486
+            },
+            {
+              "index": 1,
+              "start": 10.16486,
+              "end": 10.82025
+            }
+          ]
+        },
+        {
+          "start": 10.82025,
+          "end": 11.17025,
+          "phase": "gap",
+          "text": "再自然一点。"
+        },
+        {
+          "start": 11.17025,
+          "end": 11.68025,
+          "phase": "word",
+          "text": "完整地读：hi。"
+        },
+        {
+          "start": 11.68025,
+          "end": 14.41025,
+          "phase": "cue",
+          "text": "再自然地读一遍，轮到你。"
+        },
+        {
+          "start": 14.41025,
+          "end": 14.92025,
+          "phase": "word",
+          "text": "跟着读：hi。"
+        },
+        {
+          "start": 14.92025,
+          "end": 17.42025,
+          "phase": "echo",
+          "text": "轮到你，开口读一遍。"
+        }
+      ]
+    },
+    "hello": {
+      "naturalDuration": 0.61,
+      "continuousDuration": 1.01267,
+      "continuousTempo": 0.58,
+      "windows": "Approximate teaching transitions within an unbroken real word model, not forced-aligned phone boundaries.",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7.43,
+          "phase": "cue",
+          "text": "前一拍轻，后一拍响。"
+        },
+        {
+          "start": 7.43,
+          "end": 7.63,
+          "phase": "gap",
+          "text": "仔细听声音。"
+        },
+        {
+          "start": 7.63,
+          "end": 9.67,
+          "phase": "cue",
+          "text": "声音接起来，慢慢读。"
+        },
+        {
+          "start": 9.67,
+          "end": 10.68267,
+          "phase": "connected",
+          "text": "慢慢接起来：hello。",
+          "windows": [
+            {
+              "index": 0,
+              "start": 9.67,
+              "end": 10.68267
+            }
+          ]
+        },
+        {
+          "start": 10.68267,
+          "end": 11.03267,
+          "phase": "gap",
+          "text": "再自然一点。"
+        },
+        {
+          "start": 11.03267,
+          "end": 11.64267,
+          "phase": "word",
+          "text": "完整地读：hello。"
+        },
+        {
+          "start": 11.64267,
+          "end": 14.37267,
+          "phase": "cue",
+          "text": "再自然地读一遍，轮到你。"
+        },
+        {
+          "start": 14.37267,
+          "end": 14.98267,
+          "phase": "word",
+          "text": "跟着读：hello。"
+        },
+        {
+          "start": 14.98267,
+          "end": 17.48267,
+          "phase": "echo",
+          "text": "轮到你，开口读一遍。"
+        }
+      ]
+    },
+    "name": {
+      "naturalDuration": 0.52,
+      "continuousDuration": 0.854,
+      "continuousTempo": 0.58,
+      "windows": "Approximate teaching transitions within an unbroken real word model, not forced-aligned phone boundaries.",
+      "segments": [
+        {
+          "start": 0,
+          "end": 8.77,
+          "phase": "cue",
+          "text": "a_e 在这个词里读 /eɪ/；e 不单独读。"
+        },
+        {
+          "start": 8.77,
+          "end": 8.97,
+          "phase": "gap",
+          "text": "仔细听声音。"
+        },
+        {
+          "start": 8.97,
+          "end": 10.25,
+          "phase": "cue",
+          "text": "n：舌尖轻轻顶住，哼出声音。"
+        },
+        {
+          "start": 10.25,
+          "end": 10.41,
+          "phase": "phoneme",
+          "text": "n：舌尖轻轻顶住，哼出声音。",
+          "index": 0
+        },
+        {
+          "start": 10.41,
+          "end": 10.57,
+          "phase": "gap",
+          "text": "准备接下一个声音。"
+        },
+        {
+          "start": 10.57,
+          "end": 13.03,
+          "phase": "cue",
+          "text": "a_e：一起读 /eɪ/。"
+        },
+        {
+          "start": 13.03,
+          "end": 13.60904,
+          "phase": "phoneme",
+          "text": "a_e：一起读 /eɪ/。",
+          "index": 1
+        },
+        {
+          "start": 13.60904,
+          "end": 13.76904,
+          "phase": "gap",
+          "text": "准备接下一个声音。"
+        },
+        {
+          "start": 13.76904,
+          "end": 17.13904,
+          "phase": "cue",
+          "text": "m：双唇轻合，哼出声音。"
+        },
+        {
+          "start": 17.13904,
+          "end": 17.25904,
+          "phase": "phoneme",
+          "text": "m：双唇轻合，哼出声音。",
+          "index": 2
+        },
+        {
+          "start": 17.25904,
+          "end": 17.41904,
+          "phase": "gap",
+          "text": "准备接下一个声音。"
+        },
+        {
+          "start": 17.41904,
+          "end": 19.45904,
+          "phase": "cue",
+          "text": "声音接起来，慢慢读。"
+        },
+        {
+          "start": 19.45904,
+          "end": 20.31304,
+          "phase": "connected",
+          "text": "慢慢接起来：name。",
+          "windows": [
+            {
+              "index": 0,
+              "start": 19.45904,
+              "end": 19.62984
+            },
+            {
+              "index": 1,
+              "start": 19.62984,
+              "end": 20.09954
+            },
+            {
+              "index": 2,
+              "start": 20.09954,
+              "end": 20.31304
+            }
+          ]
+        },
+        {
+          "start": 20.31304,
+          "end": 20.66304,
+          "phase": "gap",
+          "text": "再自然一点。"
+        },
+        {
+          "start": 20.66304,
+          "end": 21.18304,
+          "phase": "word",
+          "text": "完整地读：name。"
+        },
+        {
+          "start": 21.18304,
+          "end": 23.91304,
+          "phase": "cue",
+          "text": "再自然地读一遍，轮到你。"
+        },
+        {
+          "start": 23.91304,
+          "end": 24.43304,
+          "phase": "word",
+          "text": "跟着读：name。"
+        },
+        {
+          "start": 24.43304,
+          "end": 26.93304,
+          "phase": "echo",
+          "text": "轮到你，开口读一遍。"
+        }
+      ]
+    },
+    "goodbye": {
+      "naturalDuration": 0.71,
+      "continuousDuration": 1.18525,
+      "continuousTempo": 0.58,
+      "windows": "Approximate teaching transitions within an unbroken real word model, not forced-aligned phone boundaries.",
+      "segments": [
+        {
+          "start": 0,
+          "end": 5.08,
+          "phase": "cue",
+          "text": "先听两个词块，再合起来。"
+        },
+        {
+          "start": 5.08,
+          "end": 5.28,
+          "phase": "gap",
+          "text": "仔细听声音。"
+        },
+        {
+          "start": 5.28,
+          "end": 5.73,
+          "phase": "phoneme",
+          "text": "第一个词块：good。",
+          "index": 0
+        },
+        {
+          "start": 5.73,
+          "end": 5.93,
+          "phase": "gap",
+          "text": "再听第二块。"
+        },
+        {
+          "start": 5.93,
+          "end": 6.41,
+          "phase": "phoneme",
+          "text": "第二个词块：bye。",
+          "index": 1
+        },
+        {
+          "start": 6.41,
+          "end": 8.45,
+          "phase": "cue",
+          "text": "声音接起来，慢慢读。"
+        },
+        {
+          "start": 8.45,
+          "end": 9.63525,
+          "phase": "connected",
+          "text": "慢慢接起来：goodbye。",
+          "windows": [
+            {
+              "index": 0,
+              "start": 8.45,
+              "end": 8.95966
+            },
+            {
+              "index": 1,
+              "start": 8.95966,
+              "end": 9.63525
+            }
+          ]
+        },
+        {
+          "start": 9.63525,
+          "end": 9.98525,
+          "phase": "gap",
+          "text": "再自然一点。"
+        },
+        {
+          "start": 9.98525,
+          "end": 10.69525,
+          "phase": "word",
+          "text": "完整地读：goodbye。"
+        },
+        {
+          "start": 10.69525,
+          "end": 13.42525,
+          "phase": "cue",
+          "text": "再自然地读一遍，轮到你。"
+        },
+        {
+          "start": 13.42525,
+          "end": 14.13525,
+          "phase": "word",
+          "text": "跟着读：goodbye。"
+        },
+        {
+          "start": 14.13525,
+          "end": 16.63525,
+          "phase": "echo",
+          "text": "轮到你，开口读一遍。"
+        }
+      ]
+    }
+  }
+}

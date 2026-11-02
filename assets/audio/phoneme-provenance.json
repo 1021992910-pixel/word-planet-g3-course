@@ -1,0 +1,56 @@
+{
+  "selection": "Consonants are generic IPA references; /eɪ/ is a British English recording. Whole words and sentences are Sonia en-GB synthetic models.",
+  "clips": [
+    {
+      "id": "sound-ay",
+      "title": "En-uk-a.ogg",
+      "ipa": "/eɪ/",
+      "author": "Chris Melville",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:En-uk-a.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/En-uk-a.ogg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "changes": "Converted Ogg to MP3; no pitch or duration modification.",
+      "notes": "RP stressed a, acoustically /eɪ/; used as a sound reference."
+    },
+    {
+      "id": "sound-n",
+      "title": "Alveolar nasal.ogg",
+      "author": "Peter Isotalo (karmosin)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alveolar%20nasal.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "ipa": "[n]",
+      "changes": "Extracted 0.290–0.450 s; 2 ms edge fades; gain x4; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
+      "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    },
+    {
+      "id": "sound-m",
+      "title": "Bilabial nasal.ogg",
+      "author": "Peter Isotalo (karmosin)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bilabial%20nasal.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "ipa": "[m]",
+      "changes": "Extracted 0.210–0.330 s; 2 ms edge fades; gain x4; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
+      "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    },
+    {
+      "id": "sound-h",
+      "title": "Voiceless glottal fricative.ogg",
+      "author": "Peter Isotalo (karmosin)",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Voiceless%20glottal%20fricative.ogg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg",
+      "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Voiceless_glottal_fricative.ogg/Voiceless_glottal_fricative.ogg.mp3",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "ipa": "[h]",
+      "changes": "Extracted 0.300–0.430 s; 2 ms edge fades; gain x4; MP3 conversion. Derivative licensed CC BY-SA 3.0.",
+      "notes": "General IPA reference. Stop clips include the brief release transition, without a separate added vowel. Not a British-accent word recording."
+    }
+  ]
+}

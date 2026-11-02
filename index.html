@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f8f6f0">
+  <meta name="description" content="单词小星球 · 外研版孙有中主编三年级上册，按课本逐课巩固。当前开放 Welcome 第1课：打招呼、询问姓名与告别。">
+  <title>单词小星球 · 三上课本同步</title>
+  <link rel="icon" href="./assets/planet.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css?v=w01"><link rel="stylesheet" href="./star-sky.css?v=w01">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="#courses"><span class="brand-symbol" aria-hidden="true">✦</span><span>单词小星球<small>LEARN A LITTLE. SHINE A LITTLE.</small></span></a><span class="edition">三年级上册 · 课本同步</span><button class="icon-button" data-dialog="settings" aria-label="学习设置">⚙</button></header>
+  <div class="shell"><aside class="sidebar"><p class="side-label">我的学习旅程</p><nav aria-label="学习导航">
+    <a href="#courses" data-nav="courses"><span aria-hidden="true">▦</span>本册课程</a><a href="#lesson" data-nav="lesson"><span aria-hidden="true">▷</span>本课学习</a><a href="#words" data-nav="words"><span aria-hidden="true">Aa</span>词语图鉴</a><a href="#review" data-nav="review"><span aria-hidden="true">↻</span>我的复习 <small id="review-count">0</small></a><a href="#stars" data-nav="stars"><span aria-hidden="true">✧</span>学习星空</a>
+  </nav><div class="side-book"><small>正在学习</small><strong>Welcome to school</strong><span>第1课 · 课本第2页</span></div><p class="side-foot">一课一小步<br>让每个声音，都有来处。<span aria-hidden="true">✦</span></p></aside><main id="main" tabindex="-1"></main></div>
+  <footer>外研版 · 孙有中主编 · 三年级上册同步巩固 <span>｜</span><button data-dialog="sources">教材与发音来源</button></footer>
+  <dialog id="word-dialog" aria-labelledby="word-title"></dialog>
+  <dialog id="settings" aria-labelledby="settings-title"><div class="dialog-head"><h2 id="settings-title">学习设置</h2><button class="icon-button" data-close="settings" aria-label="关闭设置">×</button></div><label class="setting-row">示范声音速度<select id="audio-speed"><option value="1">正常</option><option value="0.8">慢一点</option></select></label><p class="muted">学习记录保存在当前浏览器。可以导出备份，也可以导入本课程站的备份。</p><div class="actions"><button class="secondary" id="export">导出记录</button><button class="secondary" id="import">导入记录</button><input id="import-file" type="file" accept="application/json,.json" hidden></div></dialog>
+  <dialog id="sources" aria-labelledby="source-title"><div class="dialog-head"><h2 id="source-title">教材与发音来源</h2><button class="icon-button" data-close="sources" aria-label="关闭来源说明">×</button></div><div class="source-copy"><p><b>教材依据</b><br>外研版孙有中主编，三年级起点三年级上册。当前课对应 Welcome to school 第2页活动1。课时名称和巩固题为本站编排，不代表学校统一课时安排。</p><p><b>课程关系</b><br>用于课后发音理解和巩固练习，可配合学校教材及外研优学使用。本网站独立制作，未与外研优学账号或学校作业系统连接。</p><p><b>完整英语示范</b><br>Microsoft Sonia，en-GB，英式合成语音。中文提示使用 Xiaoxiao 合成语音。不是教材官方录音或真人教师录音，专业教师逐条审音尚待完成。</p><p><b>分音与连读</b><br>hi、name 提供分音与连续合读；hello 练轻重节奏，goodbye 练词块合读。独立辅音采用授权通用 IPA 参考，不冒充英国真人词句录音；/eɪ/ 采用英国英语音例。来源、作者、许可及加工记录见下方记录。</p><p><b>高亮和进度</b><br>句子高亮来自合成语音 WordBoundary；拼读高亮按实际组合片段时间，慢读内的音素窗口为近似教学标注。没有开启麦克风，没有自动发音评分。“练习通过”表示本课答题记录，不等同于长期掌握。</p><p><b>插画</b><br>原创 AI 场景示意，人物形象不替代课本人物设定。教材扫描页只用于内部核对，没有作为网站配图发布。</p><p><a href="./assets/audio/phoneme-provenance.json" target="_blank" rel="noopener">分音来源与许可 ↗</a> · <a href="./assets/audio/tts-provenance.json" target="_blank" rel="noopener">词句与时间记录 ↗</a> · <a href="./assets/audio/guided-provenance.json" target="_blank" rel="noopener">带读制作记录 ↗</a></p></div></dialog>
+  <audio id="audio" preload="none" hidden></audio><div id="toast" role="status" aria-live="polite"></div>
+  <script src="./course-data.js?v=w01" defer></script><script src="./audio-data.js?v=w01" defer></script><script src="./guided-data.js?v=w01" defer></script><script src="./model.js?v=w01" defer></script><script src="./app.js?v=w01" defer></script>
+</body></html>
