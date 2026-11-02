@@ -1,10 +1,10 @@
 {
-  "version": "welcome-01-restore-sentence-w06",
+  "version": "welcome-01-camp-centres-w07",
   "files": [
     {
       "file": "adventure-art.css",
-      "bytes": 3555,
-      "sha256": "4ff7c37d8b978ca156877ee78a659be6e4bedbe98ac7738a379bf63364cc5d4f"
+      "bytes": 3675,
+      "sha256": "8a1d3c02cbb0267e2fffe6251aea6318db23c0c8ea821df3e06234df654c3978"
     },
     {
       "file": "adventure-data.js",
@@ -379,7 +379,7 @@
     {
       "file": "index.html",
       "bytes": 5781,
-      "sha256": "e898719c01489666b31f2d350d9401ad07265692cec8d6804b0221d31c3b790b"
+      "sha256": "c2cd13285f725b835fb3bc560e237bfcccd25655c0a3a1bf9a9ab257f36832a4"
     },
     {
       "file": "model.js",
@@ -408,8 +408,8 @@
     },
     {
       "file": "template-restored.css",
-      "bytes": 2961,
-      "sha256": "9cce06ec38dad312fddfbc0a8116a9daba26475d11e15d0951d5bf11b0b652c8"
+      "bytes": 2857,
+      "sha256": "40067df741151c2817d77b598f49bb1a3176b1edd2355463bbb70d050d239106"
     }
   ]
 }
