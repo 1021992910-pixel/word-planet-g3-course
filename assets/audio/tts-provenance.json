@@ -1901,6 +1901,750 @@
           "duration": 6666660
         }
       ]
+    },
+    "stand": {
+      "text": "stand",
+      "file": "stand.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "stand",
+          "start": 0.1333,
+          "end": 0.8972
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "stand",
+          "offset": 1333330,
+          "duration": 7638750
+        }
+      ]
+    },
+    "sit": {
+      "text": "sit",
+      "file": "sit.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "sit",
+          "start": 0.1195,
+          "end": 0.7167
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "sit",
+          "offset": 1194580,
+          "duration": 5972080
+        }
+      ]
+    },
+    "open": {
+      "text": "open",
+      "file": "open.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "open",
+          "start": 0.1014,
+          "end": 0.7819
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "open",
+          "offset": 1013750,
+          "duration": 6805410
+        }
+      ]
+    },
+    "book": {
+      "text": "book",
+      "file": "book.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "book",
+          "start": 0.1472,
+          "end": 0.6333
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "book",
+          "offset": 1472080,
+          "duration": 4861250
+        }
+      ]
+    },
+    "point": {
+      "text": "point",
+      "file": "point.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "point",
+          "start": 0.1195,
+          "end": 0.7583
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "point",
+          "offset": 1194580,
+          "duration": 6388750
+        }
+      ]
+    },
+    "listen": {
+      "text": "listen",
+      "file": "listen.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "listen",
+          "start": 0.1333,
+          "end": 0.8
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "listen",
+          "offset": 1333330,
+          "duration": 6666660
+        }
+      ]
+    },
+    "say": {
+      "text": "say",
+      "file": "say.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "say",
+          "start": 0.1195,
+          "end": 0.7028
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "say",
+          "offset": 1194580,
+          "duration": 5833330
+        }
+      ]
+    },
+    "cmd-stand": {
+      "text": "Stand up!",
+      "file": "cmd-stand.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Stand",
+          "start": 0.1333,
+          "end": 0.6611
+        },
+        {
+          "text": "up!",
+          "start": 0.675,
+          "end": 1.0361
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Stand",
+          "offset": 1333330,
+          "duration": 5277910
+        },
+        {
+          "text": "up",
+          "offset": 6750000,
+          "duration": 3611250
+        }
+      ]
+    },
+    "cmd-sit": {
+      "text": "Sit down!",
+      "file": "cmd-sit.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Sit",
+          "start": 0.1195,
+          "end": 0.4806
+        },
+        {
+          "text": "down!",
+          "start": 0.4945,
+          "end": 0.9667
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Sit",
+          "offset": 1194580,
+          "duration": 3611250
+        },
+        {
+          "text": "down",
+          "offset": 4944580,
+          "duration": 4722080
+        }
+      ]
+    },
+    "write": {
+      "text": "write",
+      "file": "write.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "write",
+          "start": 0.1055,
+          "end": 0.7027
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "write",
+          "offset": 1055410,
+          "duration": 5972080
+        }
+      ]
+    },
+    "cmd-close": {
+      "text": "Close your book!",
+      "file": "cmd-close.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Close",
+          "start": 0.1195,
+          "end": 0.5222
+        },
+        {
+          "text": "your",
+          "start": 0.5361,
+          "end": 0.7167
+        },
+        {
+          "text": "book!",
+          "start": 0.7305,
+          "end": 1.1889
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Close",
+          "offset": 1194580,
+          "duration": 4027910
+        },
+        {
+          "text": "your",
+          "offset": 5361250,
+          "duration": 1805410
+        },
+        {
+          "text": "book",
+          "offset": 7305410,
+          "duration": 4583330
+        }
+      ]
+    },
+    "cmd-open": {
+      "text": "Open your book!",
+      "file": "cmd-open.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Open",
+          "start": 0.1055,
+          "end": 0.4944
+        },
+        {
+          "text": "your",
+          "start": 0.5083,
+          "end": 0.6889
+        },
+        {
+          "text": "book!",
+          "start": 0.7028,
+          "end": 1.1889
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Open",
+          "offset": 1055410,
+          "duration": 3888750
+        },
+        {
+          "text": "your",
+          "offset": 5083330,
+          "duration": 1805410
+        },
+        {
+          "text": "book",
+          "offset": 7027910,
+          "duration": 4861250
+        }
+      ]
+    },
+    "cmd-point": {
+      "text": "Point!",
+      "file": "cmd-point.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Point!",
+          "start": 0.1028,
+          "end": 0.6861
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Point",
+          "offset": 1027910,
+          "duration": 5833330
+        }
+      ]
+    },
+    "cmd-say": {
+      "text": "Say!",
+      "file": "cmd-say.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Say!",
+          "start": 0.1195,
+          "end": 0.5639
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Say",
+          "offset": 1194580,
+          "duration": 4444580
+        }
+      ]
+    },
+    "cmd-listen": {
+      "text": "Listen!",
+      "file": "cmd-listen.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Listen!",
+          "start": 0.1195,
+          "end": 0.7445
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Listen",
+          "offset": 1194580,
+          "duration": 6250000
+        }
+      ]
+    },
+    "cmd-write": {
+      "text": "Write!",
+      "file": "cmd-write.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Write!",
+          "start": 0.1333,
+          "end": 0.5917
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Write",
+          "offset": 1333330,
+          "duration": 4583330
+        }
+      ]
+    },
+    "book-actions1": {
+      "text": "Stand up! Sit down! Open your book! Close your book!",
+      "file": "book-actions1.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Stand",
+          "start": 0.1333,
+          "end": 0.6611
+        },
+        {
+          "text": "up!",
+          "start": 0.675,
+          "end": 1.0361
+        },
+        {
+          "text": "Sit",
+          "start": 1.4445,
+          "end": 1.8056
+        },
+        {
+          "text": "down!",
+          "start": 1.8195,
+          "end": 2.2917
+        },
+        {
+          "text": "Open",
+          "start": 2.5972,
+          "end": 2.9861
+        },
+        {
+          "text": "your",
+          "start": 3.0,
+          "end": 3.1805
+        },
+        {
+          "text": "book!",
+          "start": 3.1945,
+          "end": 3.6806
+        },
+        {
+          "text": "Close",
+          "start": 4.0833,
+          "end": 4.4861
+        },
+        {
+          "text": "your",
+          "start": 4.5,
+          "end": 4.6805
+        },
+        {
+          "text": "book!",
+          "start": 4.6945,
+          "end": 5.1528
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Stand",
+          "offset": 1333330,
+          "duration": 5277910
+        },
+        {
+          "text": "up",
+          "offset": 6750000,
+          "duration": 3611250
+        },
+        {
+          "text": "Sit",
+          "offset": 14444580,
+          "duration": 3611250
+        },
+        {
+          "text": "down",
+          "offset": 18194580,
+          "duration": 4722080
+        },
+        {
+          "text": "Open",
+          "offset": 25972080,
+          "duration": 3888750
+        },
+        {
+          "text": "your",
+          "offset": 30000000,
+          "duration": 1805410
+        },
+        {
+          "text": "book",
+          "offset": 31944580,
+          "duration": 4861250
+        },
+        {
+          "text": "Close",
+          "offset": 40833330,
+          "duration": 4027910
+        },
+        {
+          "text": "your",
+          "offset": 45000000,
+          "duration": 1805410
+        },
+        {
+          "text": "book",
+          "offset": 46944580,
+          "duration": 4583330
+        }
+      ]
+    },
+    "book-actions2": {
+      "text": "Point! Say! Read!",
+      "file": "book-actions2.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Point!",
+          "start": 0.1028,
+          "end": 0.7
+        },
+        {
+          "text": "Say!",
+          "start": 1.1111,
+          "end": 1.5556
+        },
+        {
+          "text": "Read!",
+          "start": 1.9403,
+          "end": 2.4542
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Point",
+          "offset": 1027910,
+          "duration": 5972080
+        },
+        {
+          "text": "Say",
+          "offset": 11111250,
+          "duration": 4444580
+        },
+        {
+          "text": "Read",
+          "offset": 19402910,
+          "duration": 5138750
+        }
+      ]
+    },
+    "cmd-read": {
+      "text": "Read!",
+      "file": "cmd-read.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Read!",
+          "start": 0.1014,
+          "end": 0.6152
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Read",
+          "offset": 1013750,
+          "duration": 5138750
+        }
+      ]
+    },
+    "book-actions3": {
+      "text": "Listen! Write!",
+      "file": "book-actions3.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Listen!",
+          "start": 0.1195,
+          "end": 0.7445
+        },
+        {
+          "text": "Write!",
+          "start": 1.1389,
+          "end": 1.5833
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Listen",
+          "offset": 1194580,
+          "duration": 6250000
+        },
+        {
+          "text": "Write",
+          "offset": 11388750,
+          "duration": 4444580
+        }
+      ]
+    },
+    "model-close-verb": {
+      "text": "Please close your book.",
+      "file": "model-close-verb.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Please",
+          "start": 0.1055,
+          "end": 0.9111
+        },
+        {
+          "text": "close",
+          "start": 0.1055,
+          "end": 0.9111
+        },
+        {
+          "text": "your",
+          "start": 0.925,
+          "end": 1.0917
+        },
+        {
+          "text": "book.",
+          "start": 1.1055,
+          "end": 1.6472
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Please close",
+          "offset": 1055410,
+          "duration": 8055830
+        },
+        {
+          "text": "your",
+          "offset": 9250000,
+          "duration": 1666660
+        },
+        {
+          "text": "book",
+          "offset": 11055410,
+          "duration": 5416660
+        }
+      ]
+    },
+    "model-read-present": {
+      "text": "Please read your book.",
+      "file": "model-read-present.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Please",
+          "start": 0.1055,
+          "end": 0.5361
+        },
+        {
+          "text": "read",
+          "start": 0.55,
+          "end": 0.8278
+        },
+        {
+          "text": "your",
+          "start": 0.8417,
+          "end": 1.0083
+        },
+        {
+          "text": "book.",
+          "start": 1.0222,
+          "end": 1.5917
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Please",
+          "offset": 1055410,
+          "duration": 4305410
+        },
+        {
+          "text": "read",
+          "offset": 5500000,
+          "duration": 2777910
+        },
+        {
+          "text": "your",
+          "offset": 8416660,
+          "duration": 1666660
+        },
+        {
+          "text": "book",
+          "offset": 10222080,
+          "duration": 5694580
+        }
+      ]
+    },
+    "model-key": {
+      "text": "key",
+      "file": "model-key.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "key",
+          "start": 0.1333,
+          "end": 0.6195
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "key",
+          "offset": 1333330,
+          "duration": 4861250
+        }
+      ]
+    },
+    "model-zoo": {
+      "text": "zoo",
+      "file": "model-zoo.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "zoo",
+          "start": 0.1014,
+          "end": 0.6847
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "zoo",
+          "offset": 1013750,
+          "duration": 5833330
+        }
+      ]
+    },
+    "model-boy": {
+      "text": "boy",
+      "file": "model-boy.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "boy",
+          "start": 0.1014,
+          "end": 0.6708
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "boy",
+          "offset": 1013750,
+          "duration": 5694580
+        }
+      ]
+    },
+    "close": {
+      "text": "close",
+      "file": "close.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "close",
+          "start": 0,
+          "end": 0.8455833333333334
+        }
+      ],
+      "extractedFrom": "model-close-verb.mp3",
+      "selection": [
+        0.0905,
+        0.9361
+      ]
+    },
+    "read": {
+      "text": "read",
+      "file": "read.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "read",
+          "start": 0,
+          "end": 0.31779166666666664
+        }
+      ],
+      "extractedFrom": "model-read-present.mp3",
+      "selection": [
+        0.535,
+        0.8528
+      ]
     }
   }
 }

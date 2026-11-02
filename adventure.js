@@ -51,7 +51,7 @@ function adventureCleanup(){
  adventureStream?.getTracks().forEach(t=>t.stop());adventureStream=null;adventureRecorder=null;
  if(adventureRecordingURL)URL.revokeObjectURL(adventureRecordingURL);adventureRecordingURL='';adventureSession=null;
 }
-const ADVENTURE_WORD_SCENES={hi:{scene:'greeting',caption:'见面时挥手打招呼。'},hello:{scene:'greeting',caption:'向新朋友说你好。'},name:{scene:'name',caption:'介绍自己的名字。'},goodbye:{scene:'farewell',caption:'离开时挥手说再见。'}};
+const ADVENTURE_WORD_SCENES=Object.fromEntries(Object.values(LESSONS).flatMap(l=>l.words.map(w=>[w.id,{scene:w.scene,caption:w.translation||w.meaning}])));
 function adventureScene(id,alt){const scene=ADVENTURE_WORD_SCENES[id];return picture(scene.scene,'',alt||scene.caption);}
 function adventureDestination(id,alt=''){
  const descriptions={signal:'两位小伙伴在星球信号港戴着耳机接收消息。',sound:'两位小伙伴在温暖的工坊里合作修好拼读机器。',supply:'小伙伴把书、背包和补给箱装上飞船。',bridge:'小伙伴手拉手走过花园里的发光石桥。',friends:'小伙伴在喷泉广场向新朋友打招呼。',party:'大家在灯笼和星空下参加欢迎派对。'};

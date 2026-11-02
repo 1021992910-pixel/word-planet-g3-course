@@ -1,0 +1,361 @@
+{
+  "words": {
+    "stand": {
+      "config": {
+        "parts": [
+          "s",
+          "t",
+          "a",
+          "n",
+          "d"
+        ],
+        "sounds": [
+          "sound-s",
+          "sound-t",
+          "sound-a",
+          "sound-n",
+          "sound-d"
+        ],
+        "cues": [
+          "s",
+          "t",
+          "a",
+          "n",
+          "d"
+        ],
+        "focus": 2,
+        "hint": "s、t 都要读到，接起来时别在中间多添元音。",
+        "edges": [
+          0,
+          0.22,
+          0.3,
+          0.65,
+          0.84,
+          1
+        ]
+      },
+      "duration": 23.79500000000001,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "sit": {
+      "config": {
+        "parts": [
+          "s",
+          "i",
+          "t"
+        ],
+        "sounds": [
+          "sound-s",
+          "sound-i",
+          "sound-t"
+        ],
+        "cues": [
+          "s",
+          "i",
+          "t"
+        ],
+        "focus": 1,
+        "hint": "i 读短音 /ɪ/，最后的 t 轻轻收住。",
+        "edges": [
+          0,
+          0.3,
+          0.8,
+          1
+        ]
+      },
+      "duration": 18.935750000000002,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "open": {
+      "config": {
+        "parts": [
+          "o",
+          "p",
+          "e",
+          "n"
+        ],
+        "sounds": [
+          "welcome-oh",
+          "sound-p",
+          "welcome-schwa",
+          "sound-n"
+        ],
+        "cues": [
+          "open-o",
+          "p",
+          "open-e",
+          "n"
+        ],
+        "focus": 2,
+        "hint": "o 读 /əʊ/，后面的 e 轻读 /ə/；前一拍更响亮。",
+        "edges": [
+          0,
+          0.43,
+          0.54,
+          0.73,
+          1
+        ]
+      },
+      "duration": 21.158458333333336,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "close": {
+      "config": {
+        "parts": [
+          "c",
+          "l",
+          "o",
+          "s",
+          "e"
+        ],
+        "sounds": [
+          "action-k",
+          "sound-l",
+          "welcome-oh",
+          "action-z",
+          null
+        ],
+        "cues": [
+          "c-k",
+          "l",
+          "close-o",
+          "close-s",
+          "silent-e"
+        ],
+        "focus": 3,
+        "hint": "这里是“合上”：s 读 /z/；o_e 读 /əʊ/，最后 e 不单独读。",
+        "edges": [
+          0,
+          0.15,
+          0.28,
+          0.77,
+          1
+        ]
+      },
+      "duration": 27.786166666666666,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "book": {
+      "config": {
+        "parts": [
+          "b",
+          "oo",
+          "k"
+        ],
+        "sounds": [
+          "welcome-b",
+          "welcome-short-oo",
+          "action-k"
+        ],
+        "cues": [
+          "b",
+          "book-oo",
+          "k"
+        ],
+        "focus": 1,
+        "hint": "oo 在 book 里是短音 /ʊ/，最后有 k 的声音。",
+        "edges": [
+          0,
+          0.15,
+          0.77,
+          1
+        ]
+      },
+      "duration": 17.639125,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "point": {
+      "config": {
+        "parts": [
+          "p",
+          "oi",
+          "n",
+          "t"
+        ],
+        "sounds": [
+          "sound-p",
+          "action-oi",
+          "sound-n",
+          "sound-t"
+        ],
+        "cues": [
+          "p",
+          "point-oi",
+          "n",
+          "t"
+        ],
+        "focus": 1,
+        "hint": "oi 合起来读 /ɔɪ/，n 和 t 都要接进去。",
+        "edges": [
+          0,
+          0.15,
+          0.65,
+          0.83,
+          1
+        ]
+      },
+      "duration": 20.786208333333335,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "say": {
+      "config": {
+        "parts": [
+          "s",
+          "ay"
+        ],
+        "sounds": [
+          "sound-s",
+          "sound-ay"
+        ],
+        "cues": [
+          "s",
+          "say-ay"
+        ],
+        "focus": 1,
+        "hint": "ay 一起读 /eɪ/，接在 s 后面就是 say。",
+        "edges": [
+          0,
+          0.3,
+          1
+        ]
+      },
+      "duration": 17.294666666666668,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "read": {
+      "config": {
+        "parts": [
+          "r",
+          "ea",
+          "d"
+        ],
+        "sounds": [
+          "sound-r",
+          "sound-ee",
+          "sound-d"
+        ],
+        "cues": [
+          "r",
+          "read-ea",
+          "d"
+        ],
+        "focus": 1,
+        "hint": "这条“读一读”的指令里，ea 读 /iː/，最后有 d。",
+        "edges": [
+          0,
+          0.25,
+          0.82,
+          1
+        ]
+      },
+      "duration": 19.209083333333332,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "listen": {
+      "config": {
+        "parts": [
+          "l",
+          "i",
+          "s",
+          "t",
+          "e",
+          "n"
+        ],
+        "sounds": [
+          "sound-l",
+          "sound-i",
+          "sound-s",
+          null,
+          "welcome-schwa",
+          "sound-n"
+        ],
+        "cues": [
+          "l",
+          "i",
+          "s",
+          "listen-t",
+          "listen-e",
+          "n"
+        ],
+        "focus": 3,
+        "hint": "t 不发音；e 很轻，前一拍更响亮，别把 t 拼进去。",
+        "edges": [
+          0,
+          0.2,
+          0.4,
+          0.64,
+          0.78,
+          1
+        ]
+      },
+      "duration": 26.824708333333337,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    },
+    "write": {
+      "config": {
+        "parts": [
+          "w",
+          "r",
+          "i",
+          "t",
+          "e"
+        ],
+        "sounds": [
+          null,
+          "sound-r",
+          "sound-ai",
+          "sound-t",
+          null
+        ],
+        "cues": [
+          "write-w",
+          "r",
+          "write-i",
+          "t",
+          "silent-e"
+        ],
+        "focus": 0,
+        "hint": "w 不发音；i_e 读 /aɪ/，最后 e 也不单独读。",
+        "edges": [
+          0,
+          0.25,
+          0.83,
+          1
+        ]
+      },
+      "duration": 25.52083333333334,
+      "method": "Spoken cue then sound; silent letters receive reminders only; connected source segments with stop regions at original tempo, slower continuants/vowels, natural whole word and child echo. All internal acoustic boundaries are approximate."
+    }
+  },
+  "cueTexts": {
+    "s": "字母 S 在这里，发。",
+    "t": "字母 T，发。",
+    "a": "字母 A 在 stand 里，发。",
+    "n": "字母 N，发。",
+    "d": "字母 D，发。",
+    "i": "字母 I 在这里，发短音。",
+    "open-o": "O 在 open 的开头，发。",
+    "p": "字母 P，发。",
+    "open-e": "E 在 open 里，轻轻地发。",
+    "c-k": "C 在 close 的开头，发。",
+    "l": "字母 L，发。",
+    "close-o": "O 和最后的 E 在 close 里一起，发。",
+    "close-s": "S 在这个表示合上的 close 里，发。",
+    "silent-e": "最后的 E 不单独发音。",
+    "b": "字母 B，发。",
+    "book-oo": "两个 O 在 book 里，发短音。",
+    "k": "字母 K，发。",
+    "point-oi": "O 和 I 在 point 里，一起发。",
+    "say-ay": "A 和 Y 在 say 里，一起发。",
+    "r": "字母 R 在这里，发。",
+    "read-ea": "E 和 A 在这个表示阅读的 read 里，一起发。",
+    "listen-t": "listen 中间的 T 不发音。",
+    "listen-e": "E 在 listen 里，轻轻地发。",
+    "write-w": "write 开头的 W 不发音。",
+    "write-i": "I 和最后的 E 在 write 里一起，发。",
+    "join": "把这几个声音接起来。",
+    "repeat": "跟老师再读一遍。"
+  },
+  "teacher_review": "pending",
+  "note": "Earlier lesson audio preserved; reference clips not dictionary audio."
+}
