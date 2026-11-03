@@ -235,10 +235,34 @@
           "sound-d"
         ]
       },
-      "duration": 18.866999999999997,
+      "duration": 18.857,
       "approvedSample": "read-tone-w13",
-      "method": "Reuse approved isolated natural 0.50s and slow 0.76s models as complete continuous segments. No fraction-based cut/reassembly, no pitch shift. Existing sound references retained. Chinese reminder contains no English homograph.",
-      "highlight": "Approximate acoustic teaching windows only, not phonetic scoring."
+      "method": "Exact user-approved W18 read teaching MP3. Only isolated vowel replaced; both W13 continuous blends, natural models, cues, r/d and response gap preserved. Timeline shifted by actual clip duration.",
+      "highlight": "Approximate acoustic teaching windows only, not phonetic scoring.",
+      "isolatedVowelSample": "clear-vowel-w18",
+      "isolatedVowel": {
+        "id": "sound-ee",
+        "ipa": "/iː/",
+        "provider": "Microsoft Edge online neural speech",
+        "voice": "en-GB-LibbyNeural",
+        "locale": "en-GB",
+        "generatedText": "E.",
+        "rate": "+0%",
+        "source": "User-approved clear-vowel-w18/accepted-libby-e.mp3",
+        "changes": {
+          "trimSeconds": [
+            0.15,
+            0.48
+          ],
+          "linearGain": 1.1480836097562805,
+          "edgeFadeSeconds": 0.003,
+          "pitchShift": false,
+          "timeStretch": false
+        },
+        "usage": "Standalone /i:/ reference for read ea and meet ee; not a general rule for all ea/ee spellings.",
+        "review": "User accepted isolated vowel and complete read teaching audition, 2026-11-03; professional phonetic review pending.",
+        "sourceSha256": "58eb874ee383229175a930f8ed30f1e7b495ffefa8daa24f0c9533618f66b9d9"
+      }
     },
     "listen": {
       "config": {

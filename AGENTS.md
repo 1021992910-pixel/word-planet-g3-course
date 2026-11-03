@@ -26,3 +26,5 @@
 
 - 前两课注册在lesson-registry.js，第三课注册在lesson3-content.js、第四课注册在lesson4-content.js；课程入口用lesson参数，默认第1课。lessons保存各课状态，词星和金币/装饰累计，旧记录迁移到welcome-01。各课制作卡和对应检查报告是继续工作的依据；第三课按5/3/2词分组，不机械截断教材活动。
 - 本轮浏览器工具提示本机设置禁用，因此未通过浏览器/手机视觉验收；不能用HTML生成单测冒充。人工专业审音仍待完成。
+
+- W18用户已认可清爽Libby /iː/及read完整带读。该音已用于read ea和独立体验版meet ee；保留其他声音、W13词音和连续拼读。只接受同一音值，不能把长/iː/混用为其他元音。试听/源片段位于source-assets/clear-vowel-w18。
