@@ -2821,6 +2821,979 @@
         "person-bobo"
       ],
       "kind": "Separate names with pauses, not a textbook dialogue or mixed sentence"
+    },
+    "letter-a": {
+      "text": "Aa",
+      "file": "letter-a.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "A.",
+      "rawBoundaries": [
+        {
+          "text": "A",
+          "offset": 1000000,
+          "duration": 875000
+        }
+      ],
+      "words": [
+        {
+          "text": "Aa",
+          "start": 0,
+          "end": 0.37
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.52
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-b": {
+      "text": "Bb",
+      "file": "letter-b.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "B.",
+      "rawBoundaries": [
+        {
+          "text": "B",
+          "offset": 1000000,
+          "duration": 1500000
+        }
+      ],
+      "words": [
+        {
+          "text": "Bb",
+          "start": 0,
+          "end": 0.41
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.14,
+        0.55
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-c": {
+      "text": "Cc",
+      "file": "letter-c.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "C.",
+      "rawBoundaries": [
+        {
+          "text": "C",
+          "offset": 1000000,
+          "duration": 2250000
+        }
+      ],
+      "words": [
+        {
+          "text": "Cc",
+          "start": 0,
+          "end": 0.49
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.65
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-d": {
+      "text": "Dd",
+      "file": "letter-d.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "D.",
+      "rawBoundaries": [
+        {
+          "text": "D",
+          "offset": 1000000,
+          "duration": 1625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Dd",
+          "start": 0,
+          "end": 0.46
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.61
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-e": {
+      "text": "Ee",
+      "file": "letter-e.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "E.",
+      "rawBoundaries": [
+        {
+          "text": "E",
+          "offset": 1000000,
+          "duration": 375000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ee",
+          "start": 0,
+          "end": 0.33
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.48
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-f": {
+      "text": "Ff",
+      "file": "letter-f.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "F.",
+      "rawBoundaries": [
+        {
+          "text": "F",
+          "offset": 1000000,
+          "duration": 1625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ff",
+          "start": 0,
+          "end": 0.33
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.48
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-g": {
+      "text": "Gg",
+      "file": "letter-g.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "G.",
+      "rawBoundaries": [
+        {
+          "text": "G",
+          "offset": 1000000,
+          "duration": 1875000
+        }
+      ],
+      "words": [
+        {
+          "text": "Gg",
+          "start": 0,
+          "end": 0.44
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.59
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-h": {
+      "text": "Hh",
+      "file": "letter-h.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "H.",
+      "rawBoundaries": [
+        {
+          "text": "H",
+          "offset": 1000000,
+          "duration": 2375000
+        }
+      ],
+      "words": [
+        {
+          "text": "Hh",
+          "start": 0,
+          "end": 0.49
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.64
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-i": {
+      "text": "Ii",
+      "file": "letter-i.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "I.",
+      "rawBoundaries": [
+        {
+          "text": "I",
+          "offset": 1000000,
+          "duration": 750000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ii",
+          "start": 0,
+          "end": 0.35
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.51
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-j": {
+      "text": "Jj",
+      "file": "letter-j.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "J.",
+      "rawBoundaries": [
+        {
+          "text": "J",
+          "offset": 1000000,
+          "duration": 2250000
+        }
+      ],
+      "words": [
+        {
+          "text": "Jj",
+          "start": 0,
+          "end": 0.51
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.66
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-k": {
+      "text": "Kk",
+      "file": "letter-k.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "K.",
+      "rawBoundaries": [
+        {
+          "text": "K",
+          "offset": 1000000,
+          "duration": 2000000
+        }
+      ],
+      "words": [
+        {
+          "text": "Kk",
+          "start": 0,
+          "end": 0.47
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.62
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-l": {
+      "text": "Ll",
+      "file": "letter-l.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "L.",
+      "rawBoundaries": [
+        {
+          "text": "L",
+          "offset": 1000000,
+          "duration": 1750000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ll",
+          "start": 0,
+          "end": 0.38
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.53
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-m": {
+      "text": "Mm",
+      "file": "letter-m.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "M.",
+      "rawBoundaries": [
+        {
+          "text": "M",
+          "offset": 1000000,
+          "duration": 1625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Mm",
+          "start": 0,
+          "end": 0.39
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.54
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-n": {
+      "text": "Nn",
+      "file": "letter-n.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "N.",
+      "rawBoundaries": [
+        {
+          "text": "N",
+          "offset": 1000000,
+          "duration": 1625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Nn",
+          "start": 0,
+          "end": 0.39
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.54
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-o": {
+      "text": "Oo",
+      "file": "letter-o.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "O.",
+      "rawBoundaries": [
+        {
+          "text": "O",
+          "offset": 1000000,
+          "duration": 1000000
+        }
+      ],
+      "words": [
+        {
+          "text": "Oo",
+          "start": 0,
+          "end": 0.36
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.51
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-p": {
+      "text": "Pp",
+      "file": "letter-p.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "P.",
+      "rawBoundaries": [
+        {
+          "text": "P",
+          "offset": 1000000,
+          "duration": 1250000
+        }
+      ],
+      "words": [
+        {
+          "text": "Pp",
+          "start": 0,
+          "end": 0.39
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.55
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-q": {
+      "text": "Qq",
+      "file": "letter-q.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "Q.",
+      "rawBoundaries": [
+        {
+          "text": "Q",
+          "offset": 1000000,
+          "duration": 2500000
+        }
+      ],
+      "words": [
+        {
+          "text": "Qq",
+          "start": 0,
+          "end": 0.47
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.63
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-r": {
+      "text": "Rr",
+      "file": "letter-r.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "R.",
+      "rawBoundaries": [
+        {
+          "text": "R",
+          "offset": 1000000,
+          "duration": 500000
+        }
+      ],
+      "words": [
+        {
+          "text": "Rr",
+          "start": 0,
+          "end": 0.33
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.49
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-s": {
+      "text": "Ss",
+      "file": "letter-s.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "S.",
+      "rawBoundaries": [
+        {
+          "text": "S",
+          "offset": 1000000,
+          "duration": 1500000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ss",
+          "start": 0,
+          "end": 0.36
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.51
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-t": {
+      "text": "Tt",
+      "file": "letter-t.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "T.",
+      "rawBoundaries": [
+        {
+          "text": "T",
+          "offset": 1000000,
+          "duration": 1500000
+        }
+      ],
+      "words": [
+        {
+          "text": "Tt",
+          "start": 0,
+          "end": 0.41
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.57
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-u": {
+      "text": "Uu",
+      "file": "letter-u.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "U.",
+      "rawBoundaries": [
+        {
+          "text": "U",
+          "offset": 1000000,
+          "duration": 2250000
+        }
+      ],
+      "words": [
+        {
+          "text": "Uu",
+          "start": 0,
+          "end": 0.48
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.64
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-v": {
+      "text": "Vv",
+      "file": "letter-v.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "V.",
+      "rawBoundaries": [
+        {
+          "text": "V",
+          "offset": 1000000,
+          "duration": 1625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Vv",
+          "start": 0,
+          "end": 0.43
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.58
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-w": {
+      "text": "Ww",
+      "file": "letter-w.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "Double U.",
+      "rawBoundaries": [
+        {
+          "text": "Double",
+          "offset": 1000000,
+          "duration": 3250000
+        },
+        {
+          "text": "U",
+          "offset": 4250000,
+          "duration": 2625000
+        }
+      ],
+      "words": [
+        {
+          "text": "Ww",
+          "start": 0,
+          "end": 0.81
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.97
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-x": {
+      "text": "Xx",
+      "file": "letter-x.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "X.",
+      "rawBoundaries": [
+        {
+          "text": "X",
+          "offset": 1000000,
+          "duration": 2250000
+        }
+      ],
+      "words": [
+        {
+          "text": "Xx",
+          "start": 0,
+          "end": 0.45
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.15,
+        0.6
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-y": {
+      "text": "Yy",
+      "file": "letter-y.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "Y.",
+      "rawBoundaries": [
+        {
+          "text": "Y",
+          "offset": 1000000,
+          "duration": 2375000
+        }
+      ],
+      "words": [
+        {
+          "text": "Yy",
+          "start": 0,
+          "end": 0.47
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.16,
+        0.63
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "letter-z": {
+      "text": "Zz",
+      "file": "letter-z.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "kind": "Alphabet letter name, not its word phoneme",
+      "spokenText": "Zed.",
+      "rawBoundaries": [
+        {
+          "text": "Zed",
+          "offset": 1000000,
+          "duration": 2875000
+        }
+      ],
+      "words": [
+        {
+          "text": "Zz",
+          "start": 0,
+          "end": 0.44
+        }
+      ],
+      "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+      "selection": [
+        0.14,
+        0.58
+      ],
+      "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+    },
+    "alphabet-row-1": {
+      "text": "Aa Bb Cc Dd",
+      "file": "alphabet-row-1.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Aa",
+          "start": 0.0,
+          "end": 0.37
+        },
+        {
+          "text": "Bb",
+          "start": 0.77,
+          "end": 1.18
+        },
+        {
+          "text": "Cc",
+          "start": 1.58,
+          "end": 2.07
+        },
+        {
+          "text": "Dd",
+          "start": 2.47,
+          "end": 2.93
+        }
+      ],
+      "joinedSources": [
+        "letter-a",
+        "letter-b",
+        "letter-c",
+        "letter-d"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-2": {
+      "text": "Ee Ff Gg Hh",
+      "file": "alphabet-row-2.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Ee",
+          "start": 0.0,
+          "end": 0.33
+        },
+        {
+          "text": "Ff",
+          "start": 0.73,
+          "end": 1.06
+        },
+        {
+          "text": "Gg",
+          "start": 1.46,
+          "end": 1.9
+        },
+        {
+          "text": "Hh",
+          "start": 2.3,
+          "end": 2.79
+        }
+      ],
+      "joinedSources": [
+        "letter-e",
+        "letter-f",
+        "letter-g",
+        "letter-h"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-3": {
+      "text": "Ii Jj Kk Ll",
+      "file": "alphabet-row-3.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Ii",
+          "start": 0.0,
+          "end": 0.35
+        },
+        {
+          "text": "Jj",
+          "start": 0.75,
+          "end": 1.26
+        },
+        {
+          "text": "Kk",
+          "start": 1.66,
+          "end": 2.13
+        },
+        {
+          "text": "Ll",
+          "start": 2.53,
+          "end": 2.91
+        }
+      ],
+      "joinedSources": [
+        "letter-i",
+        "letter-j",
+        "letter-k",
+        "letter-l"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-4": {
+      "text": "Mm Nn Oo Pp",
+      "file": "alphabet-row-4.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Mm",
+          "start": 0.0,
+          "end": 0.39
+        },
+        {
+          "text": "Nn",
+          "start": 0.79,
+          "end": 1.18
+        },
+        {
+          "text": "Oo",
+          "start": 1.58,
+          "end": 1.94
+        },
+        {
+          "text": "Pp",
+          "start": 2.34,
+          "end": 2.73
+        }
+      ],
+      "joinedSources": [
+        "letter-m",
+        "letter-n",
+        "letter-o",
+        "letter-p"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-5": {
+      "text": "Qq Rr Ss Tt",
+      "file": "alphabet-row-5.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Qq",
+          "start": 0.0,
+          "end": 0.47
+        },
+        {
+          "text": "Rr",
+          "start": 0.87,
+          "end": 1.2
+        },
+        {
+          "text": "Ss",
+          "start": 1.6,
+          "end": 1.96
+        },
+        {
+          "text": "Tt",
+          "start": 2.36,
+          "end": 2.77
+        }
+      ],
+      "joinedSources": [
+        "letter-q",
+        "letter-r",
+        "letter-s",
+        "letter-t"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-6": {
+      "text": "Uu Vv Ww Xx",
+      "file": "alphabet-row-6.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Uu",
+          "start": 0.0,
+          "end": 0.48
+        },
+        {
+          "text": "Vv",
+          "start": 0.88,
+          "end": 1.31
+        },
+        {
+          "text": "Ww",
+          "start": 1.71,
+          "end": 2.52
+        },
+        {
+          "text": "Xx",
+          "start": 2.92,
+          "end": 3.37
+        }
+      ],
+      "joinedSources": [
+        "letter-u",
+        "letter-v",
+        "letter-w",
+        "letter-x"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
+    },
+    "alphabet-row-7": {
+      "text": "Yy Zz",
+      "file": "alphabet-row-7.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-LibbyNeural",
+      "words": [
+        {
+          "text": "Yy",
+          "start": 0.0,
+          "end": 0.47
+        },
+        {
+          "text": "Zz",
+          "start": 0.87,
+          "end": 1.31
+        }
+      ],
+      "joinedSources": [
+        "letter-y",
+        "letter-z"
+      ],
+      "kind": "Alphabet names in printed page5 row order, 400ms between complete names; not a sentence",
+      "timing": "Exact concatenation offsets; each name uses acoustic activity window."
     }
   }
 }

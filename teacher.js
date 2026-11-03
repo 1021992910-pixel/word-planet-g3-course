@@ -10,10 +10,11 @@ function syncTeacherLesson(){
  const matched=!!(a&&playing===lesson.audio),preparing=matched&&loading;
  const isPlaying=matched&&!a.paused&&!a.ended&&!preparing,finished=matched&&a.ended;
  const step=matched&&!preparing?lesson.steps.find(s=>a.currentTime>=s.start&&a.currentTime<s.end):null;
+ const isLetter=lesson.kind==='letter-name';
  const button=panel.querySelector('[data-teacher-control]');
- const label=preparing?'正在准备声音…':isPlaying?'Ⅱ 暂停拼读':finished?'↻ 再拼一遍':matched&&a.currentTime>0?'▶ 继续拼读':'▶ 带我拼读';
+ const label=preparing?'正在准备声音…':isPlaying?(isLetter?'Ⅱ 暂停带读':'Ⅱ 暂停拼读'):finished?(isLetter?'↻ 再读一次':'↻ 再拼一遍'):matched&&a.currentTime>0?(isLetter?'▶ 继续带读':'▶ 继续拼读'):(isLetter?'▶ 跟老师学字母':'▶ 带我拼读');
  teacherText(button,label);button.disabled=preparing;button.setAttribute('aria-label',preparing?label:label.slice(2));
- teacherText(panel.querySelector('[data-blend-status]'),preparing?'正在准备声音…':finished?'现在试着自己拼一遍，也可以再听一次。':matched&&a.paused?'已暂停，点按钮继续。':step?.phase==='reminder'?'留意亮起来的部分，听老师的小提醒。':step?.text||'听老师拼一遍，再轮到你。');
+ teacherText(panel.querySelector('[data-blend-status]'),preparing?'正在准备声音…':finished?(isLetter?'现在试着自己说字母名，也可以再听一次。':'现在试着自己拼一遍，也可以再听一次。'):matched&&a.paused?'已暂停，点按钮继续。':step?.phase==='reminder'?'留意亮起来的部分，听老师的小提醒。':step?.text||(isLetter?'听老师读字母名，再轮到你。':'听老师拼一遍，再轮到你。'));
  const linked=step?.phase==='connected';
  const index=linked?step.phones?.find(p=>a.currentTime>=p.start&&a.currentTime<p.end)?.index:step?.index;
  panel.querySelectorAll('[data-blend-part]').forEach(part=>{

@@ -1,0 +1,2258 @@
+{
+  "scope": "Printed p5 activity5 A-Z; letter names, not 26 new vocabulary words",
+  "namesAndGuides": {
+    "letter-a": {
+      "name": {
+        "text": "Aa",
+        "file": "letter-a.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "A.",
+        "rawBoundaries": [
+          {
+            "text": "A",
+            "offset": 1000000,
+            "duration": 875000
+          }
+        ],
+        "words": [
+          {
+            "text": "Aa",
+            "start": 0,
+            "end": 0.37
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.52
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-a",
+        "kind": "letter-name",
+        "parts": [
+          "Aa"
+        ],
+        "sounds": [
+          "letter-a"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.91,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.37,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.37,
+            "end": 6.82,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.82,
+            "end": 10.54,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.54,
+            "end": 10.91,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.91,
+            "end": 13.91,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-b": {
+      "name": {
+        "text": "Bb",
+        "file": "letter-b.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "B.",
+        "rawBoundaries": [
+          {
+            "text": "B",
+            "offset": 1000000,
+            "duration": 1500000
+          }
+        ],
+        "words": [
+          {
+            "text": "Bb",
+            "start": 0,
+            "end": 0.41
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.14,
+          0.55
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-b",
+        "kind": "letter-name",
+        "parts": [
+          "Bb"
+        ],
+        "sounds": [
+          "letter-b"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.99,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.41,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.41,
+            "end": 6.86,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.86,
+            "end": 10.58,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.58,
+            "end": 10.99,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.99,
+            "end": 13.99,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-c": {
+      "name": {
+        "text": "Cc",
+        "file": "letter-c.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "C.",
+        "rawBoundaries": [
+          {
+            "text": "C",
+            "offset": 1000000,
+            "duration": 2250000
+          }
+        ],
+        "words": [
+          {
+            "text": "Cc",
+            "start": 0,
+            "end": 0.49
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.65
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-c",
+        "kind": "letter-name",
+        "parts": [
+          "Cc"
+        ],
+        "sounds": [
+          "letter-c"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.15,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.49,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.49,
+            "end": 6.94,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.94,
+            "end": 10.66,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.66,
+            "end": 11.15,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.15,
+            "end": 14.15,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-d": {
+      "name": {
+        "text": "Dd",
+        "file": "letter-d.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "D.",
+        "rawBoundaries": [
+          {
+            "text": "D",
+            "offset": 1000000,
+            "duration": 1625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Dd",
+            "start": 0,
+            "end": 0.46
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.61
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-d",
+        "kind": "letter-name",
+        "parts": [
+          "Dd"
+        ],
+        "sounds": [
+          "letter-d"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.09,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.46,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.46,
+            "end": 6.91,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.91,
+            "end": 10.63,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.63,
+            "end": 11.09,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.09,
+            "end": 14.09,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-e": {
+      "name": {
+        "text": "Ee",
+        "file": "letter-e.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "E.",
+        "rawBoundaries": [
+          {
+            "text": "E",
+            "offset": 1000000,
+            "duration": 375000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ee",
+            "start": 0,
+            "end": 0.33
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.48
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-e",
+        "kind": "letter-name",
+        "parts": [
+          "Ee"
+        ],
+        "sounds": [
+          "letter-e"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.83,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.33,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.33,
+            "end": 6.78,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.78,
+            "end": 10.5,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.5,
+            "end": 10.83,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.83,
+            "end": 13.83,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-f": {
+      "name": {
+        "text": "Ff",
+        "file": "letter-f.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "F.",
+        "rawBoundaries": [
+          {
+            "text": "F",
+            "offset": 1000000,
+            "duration": 1625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ff",
+            "start": 0,
+            "end": 0.33
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.48
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-f",
+        "kind": "letter-name",
+        "parts": [
+          "Ff"
+        ],
+        "sounds": [
+          "letter-f"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.83,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.33,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.33,
+            "end": 6.78,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.78,
+            "end": 10.5,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.5,
+            "end": 10.83,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.83,
+            "end": 13.83,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-g": {
+      "name": {
+        "text": "Gg",
+        "file": "letter-g.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "G.",
+        "rawBoundaries": [
+          {
+            "text": "G",
+            "offset": 1000000,
+            "duration": 1875000
+          }
+        ],
+        "words": [
+          {
+            "text": "Gg",
+            "start": 0,
+            "end": 0.44
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.59
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-g",
+        "kind": "letter-name",
+        "parts": [
+          "Gg"
+        ],
+        "sounds": [
+          "letter-g"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.05,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.44,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.44,
+            "end": 6.89,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.89,
+            "end": 10.61,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.61,
+            "end": 11.05,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.05,
+            "end": 14.05,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-h": {
+      "name": {
+        "text": "Hh",
+        "file": "letter-h.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "H.",
+        "rawBoundaries": [
+          {
+            "text": "H",
+            "offset": 1000000,
+            "duration": 2375000
+          }
+        ],
+        "words": [
+          {
+            "text": "Hh",
+            "start": 0,
+            "end": 0.49
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.64
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-h",
+        "kind": "letter-name",
+        "parts": [
+          "Hh"
+        ],
+        "sounds": [
+          "letter-h"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.15,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.49,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.49,
+            "end": 6.94,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.94,
+            "end": 10.66,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.66,
+            "end": 11.15,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.15,
+            "end": 14.15,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-i": {
+      "name": {
+        "text": "Ii",
+        "file": "letter-i.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "I.",
+        "rawBoundaries": [
+          {
+            "text": "I",
+            "offset": 1000000,
+            "duration": 750000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ii",
+            "start": 0,
+            "end": 0.35
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.51
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-i",
+        "kind": "letter-name",
+        "parts": [
+          "Ii"
+        ],
+        "sounds": [
+          "letter-i"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.87,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.35,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.35,
+            "end": 6.8,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.8,
+            "end": 10.52,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.52,
+            "end": 10.87,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.87,
+            "end": 13.87,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-j": {
+      "name": {
+        "text": "Jj",
+        "file": "letter-j.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "J.",
+        "rawBoundaries": [
+          {
+            "text": "J",
+            "offset": 1000000,
+            "duration": 2250000
+          }
+        ],
+        "words": [
+          {
+            "text": "Jj",
+            "start": 0,
+            "end": 0.51
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.66
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-j",
+        "kind": "letter-name",
+        "parts": [
+          "Jj"
+        ],
+        "sounds": [
+          "letter-j"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.19,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.51,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.51,
+            "end": 6.96,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.96,
+            "end": 10.68,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.68,
+            "end": 11.19,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.19,
+            "end": 14.19,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-k": {
+      "name": {
+        "text": "Kk",
+        "file": "letter-k.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "K.",
+        "rawBoundaries": [
+          {
+            "text": "K",
+            "offset": 1000000,
+            "duration": 2000000
+          }
+        ],
+        "words": [
+          {
+            "text": "Kk",
+            "start": 0,
+            "end": 0.47
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.62
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-k",
+        "kind": "letter-name",
+        "parts": [
+          "Kk"
+        ],
+        "sounds": [
+          "letter-k"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.11,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.47,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.47,
+            "end": 6.92,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.92,
+            "end": 10.64,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.64,
+            "end": 11.11,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.11,
+            "end": 14.11,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-l": {
+      "name": {
+        "text": "Ll",
+        "file": "letter-l.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "L.",
+        "rawBoundaries": [
+          {
+            "text": "L",
+            "offset": 1000000,
+            "duration": 1750000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ll",
+            "start": 0,
+            "end": 0.38
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.53
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-l",
+        "kind": "letter-name",
+        "parts": [
+          "Ll"
+        ],
+        "sounds": [
+          "letter-l"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.93,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.38,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.38,
+            "end": 6.83,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.83,
+            "end": 10.55,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.55,
+            "end": 10.93,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.93,
+            "end": 13.93,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-m": {
+      "name": {
+        "text": "Mm",
+        "file": "letter-m.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "M.",
+        "rawBoundaries": [
+          {
+            "text": "M",
+            "offset": 1000000,
+            "duration": 1625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Mm",
+            "start": 0,
+            "end": 0.39
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.54
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-m",
+        "kind": "letter-name",
+        "parts": [
+          "Mm"
+        ],
+        "sounds": [
+          "letter-m"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.95,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.39,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.39,
+            "end": 6.84,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.84,
+            "end": 10.56,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.56,
+            "end": 10.95,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.95,
+            "end": 13.95,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-n": {
+      "name": {
+        "text": "Nn",
+        "file": "letter-n.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "N.",
+        "rawBoundaries": [
+          {
+            "text": "N",
+            "offset": 1000000,
+            "duration": 1625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Nn",
+            "start": 0,
+            "end": 0.39
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.54
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-n",
+        "kind": "letter-name",
+        "parts": [
+          "Nn"
+        ],
+        "sounds": [
+          "letter-n"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.95,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.39,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.39,
+            "end": 6.84,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.84,
+            "end": 10.56,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.56,
+            "end": 10.95,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.95,
+            "end": 13.95,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-o": {
+      "name": {
+        "text": "Oo",
+        "file": "letter-o.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "O.",
+        "rawBoundaries": [
+          {
+            "text": "O",
+            "offset": 1000000,
+            "duration": 1000000
+          }
+        ],
+        "words": [
+          {
+            "text": "Oo",
+            "start": 0,
+            "end": 0.36
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.51
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-o",
+        "kind": "letter-name",
+        "parts": [
+          "Oo"
+        ],
+        "sounds": [
+          "letter-o"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.89,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.36,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.36,
+            "end": 6.81,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.81,
+            "end": 10.53,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.53,
+            "end": 10.89,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.89,
+            "end": 13.89,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-p": {
+      "name": {
+        "text": "Pp",
+        "file": "letter-p.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "P.",
+        "rawBoundaries": [
+          {
+            "text": "P",
+            "offset": 1000000,
+            "duration": 1250000
+          }
+        ],
+        "words": [
+          {
+            "text": "Pp",
+            "start": 0,
+            "end": 0.39
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.55
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-p",
+        "kind": "letter-name",
+        "parts": [
+          "Pp"
+        ],
+        "sounds": [
+          "letter-p"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.95,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.39,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.39,
+            "end": 6.84,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.84,
+            "end": 10.56,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.56,
+            "end": 10.95,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.95,
+            "end": 13.95,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-q": {
+      "name": {
+        "text": "Qq",
+        "file": "letter-q.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "Q.",
+        "rawBoundaries": [
+          {
+            "text": "Q",
+            "offset": 1000000,
+            "duration": 2500000
+          }
+        ],
+        "words": [
+          {
+            "text": "Qq",
+            "start": 0,
+            "end": 0.47
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.63
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-q",
+        "kind": "letter-name",
+        "parts": [
+          "Qq"
+        ],
+        "sounds": [
+          "letter-q"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.11,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.47,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.47,
+            "end": 6.92,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.92,
+            "end": 10.64,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.64,
+            "end": 11.11,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.11,
+            "end": 14.11,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-r": {
+      "name": {
+        "text": "Rr",
+        "file": "letter-r.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "R.",
+        "rawBoundaries": [
+          {
+            "text": "R",
+            "offset": 1000000,
+            "duration": 500000
+          }
+        ],
+        "words": [
+          {
+            "text": "Rr",
+            "start": 0,
+            "end": 0.33
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.49
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-r",
+        "kind": "letter-name",
+        "parts": [
+          "Rr"
+        ],
+        "sounds": [
+          "letter-r"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.83,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.33,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.33,
+            "end": 6.78,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.78,
+            "end": 10.5,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.5,
+            "end": 10.83,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.83,
+            "end": 13.83,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-s": {
+      "name": {
+        "text": "Ss",
+        "file": "letter-s.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "S.",
+        "rawBoundaries": [
+          {
+            "text": "S",
+            "offset": 1000000,
+            "duration": 1500000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ss",
+            "start": 0,
+            "end": 0.36
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.51
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-s",
+        "kind": "letter-name",
+        "parts": [
+          "Ss"
+        ],
+        "sounds": [
+          "letter-s"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.89,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.36,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.36,
+            "end": 6.81,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.81,
+            "end": 10.53,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.53,
+            "end": 10.89,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.89,
+            "end": 13.89,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-t": {
+      "name": {
+        "text": "Tt",
+        "file": "letter-t.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "T.",
+        "rawBoundaries": [
+          {
+            "text": "T",
+            "offset": 1000000,
+            "duration": 1500000
+          }
+        ],
+        "words": [
+          {
+            "text": "Tt",
+            "start": 0,
+            "end": 0.41
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.57
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-t",
+        "kind": "letter-name",
+        "parts": [
+          "Tt"
+        ],
+        "sounds": [
+          "letter-t"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 13.99,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.41,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.41,
+            "end": 6.86,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.86,
+            "end": 10.58,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.58,
+            "end": 10.99,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 10.99,
+            "end": 13.99,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-u": {
+      "name": {
+        "text": "Uu",
+        "file": "letter-u.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "U.",
+        "rawBoundaries": [
+          {
+            "text": "U",
+            "offset": 1000000,
+            "duration": 2250000
+          }
+        ],
+        "words": [
+          {
+            "text": "Uu",
+            "start": 0,
+            "end": 0.48
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.64
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-u",
+        "kind": "letter-name",
+        "parts": [
+          "Uu"
+        ],
+        "sounds": [
+          "letter-u"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.13,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.48,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.48,
+            "end": 6.93,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.93,
+            "end": 10.65,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.65,
+            "end": 11.13,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.13,
+            "end": 14.13,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-v": {
+      "name": {
+        "text": "Vv",
+        "file": "letter-v.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "V.",
+        "rawBoundaries": [
+          {
+            "text": "V",
+            "offset": 1000000,
+            "duration": 1625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Vv",
+            "start": 0,
+            "end": 0.43
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.58
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-v",
+        "kind": "letter-name",
+        "parts": [
+          "Vv"
+        ],
+        "sounds": [
+          "letter-v"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.03,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.43,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.43,
+            "end": 6.88,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.88,
+            "end": 10.6,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.6,
+            "end": 11.03,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.03,
+            "end": 14.03,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-w": {
+      "name": {
+        "text": "Ww",
+        "file": "letter-w.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "Double U.",
+        "rawBoundaries": [
+          {
+            "text": "Double",
+            "offset": 1000000,
+            "duration": 3250000
+          },
+          {
+            "text": "U",
+            "offset": 4250000,
+            "duration": 2625000
+          }
+        ],
+        "words": [
+          {
+            "text": "Ww",
+            "start": 0,
+            "end": 0.81
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.97
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-w",
+        "kind": "letter-name",
+        "parts": [
+          "Ww"
+        ],
+        "sounds": [
+          "letter-w"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.79,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.81,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.81,
+            "end": 7.26,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 7.26,
+            "end": 10.98,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.98,
+            "end": 11.79,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.79,
+            "end": 14.79,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-x": {
+      "name": {
+        "text": "Xx",
+        "file": "letter-x.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "X.",
+        "rawBoundaries": [
+          {
+            "text": "X",
+            "offset": 1000000,
+            "duration": 2250000
+          }
+        ],
+        "words": [
+          {
+            "text": "Xx",
+            "start": 0,
+            "end": 0.45
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.15,
+          0.6
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-x",
+        "kind": "letter-name",
+        "parts": [
+          "Xx"
+        ],
+        "sounds": [
+          "letter-x"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.07,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.45,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.45,
+            "end": 6.9,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.9,
+            "end": 10.62,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.62,
+            "end": 11.07,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.07,
+            "end": 14.07,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-y": {
+      "name": {
+        "text": "Yy",
+        "file": "letter-y.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "Y.",
+        "rawBoundaries": [
+          {
+            "text": "Y",
+            "offset": 1000000,
+            "duration": 2375000
+          }
+        ],
+        "words": [
+          {
+            "text": "Yy",
+            "start": 0,
+            "end": 0.47
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.16,
+          0.63
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-y",
+        "kind": "letter-name",
+        "parts": [
+          "Yy"
+        ],
+        "sounds": [
+          "letter-y"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.11,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.47,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.47,
+            "end": 6.92,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.92,
+            "end": 10.64,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.64,
+            "end": 11.11,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.11,
+            "end": 14.11,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    },
+    "letter-z": {
+      "name": {
+        "text": "Zz",
+        "file": "letter-z.mp3",
+        "locale": "en-GB",
+        "voice": "en-GB-LibbyNeural",
+        "kind": "Alphabet letter name, not its word phoneme",
+        "spokenText": "Zed.",
+        "rawBoundaries": [
+          {
+            "text": "Zed",
+            "offset": 1000000,
+            "duration": 2875000
+          }
+        ],
+        "words": [
+          {
+            "text": "Zz",
+            "start": 0,
+            "end": 0.44
+          }
+        ],
+        "displayAlias": "The displayed uppercase/lowercase pair denotes ONE letter name; aggregate acoustic activity window after trimming, not two spoken tokens. W uses Double U.; UK Z uses Zed.",
+        "selection": [
+          0.14,
+          0.58
+        ],
+        "timing": "Whole single letter-name acoustic window, approximate; original provider boundaries saved separately."
+      },
+      "guide": {
+        "audio": "guided-letter-z",
+        "kind": "letter-name",
+        "parts": [
+          "Zz"
+        ],
+        "sounds": [
+          "letter-z"
+        ],
+        "focus": 0,
+        "hint": "这里听的是字母名，不是单词里的拼读音。",
+        "duration": 14.05,
+        "steps": [
+          {
+            "start": 0,
+            "end": 6.0,
+            "phase": "cue",
+            "text": "先看大写和小写。它们是同一个字母。听字母的名字。"
+          },
+          {
+            "start": 6.0,
+            "end": 6.44,
+            "phase": "word",
+            "text": "听字母的名字。",
+            "index": 0
+          },
+          {
+            "start": 6.44,
+            "end": 6.89,
+            "phase": "gap",
+            "text": ""
+          },
+          {
+            "start": 6.89,
+            "end": 10.61,
+            "phase": "cue",
+            "text": "这是字母名。跟老师再读一遍。"
+          },
+          {
+            "start": 10.61,
+            "end": 11.05,
+            "phase": "word",
+            "text": "跟着读这个字母名。",
+            "index": 0
+          },
+          {
+            "start": 11.05,
+            "end": 14.05,
+            "phase": "echo",
+            "text": "轮到你，试着说字母名。",
+            "index": 0
+          }
+        ],
+        "letterNameVoice": "en-GB-LibbyNeural",
+        "method": "Hear the letter name, recognize both cases, repeat, then 3s child-response gap. Not an invented phoneme blend of uppercase+lowercase."
+      }
+    }
+  },
+  "ChineseCues": {
+    "alphabet-look": "先看大写和小写。它们是同一个字母。听字母的名字。",
+    "alphabet-repeat": "这是字母名。跟老师再读一遍。"
+  },
+  "letterVoice": "en-GB-LibbyNeural",
+  "specialNames": {
+    "H": "Aitch (UK letter-name convention)",
+    "R": "Non-rhotic UK letter name",
+    "W": "Double U.",
+    "Z": "Zed."
+  },
+  "review": "Code and raw source records available; professional letter-name and full-sequence ear review pending."
+}
