@@ -66,5 +66,11 @@
     "repeat": "跟老师再读一遍。"
   },
   "teacher_review": "pending",
-  "note": "Original approved lesson1 guided assets remain unchanged."
+  "note": "Original approved lesson1 guided assets remain unchanged.",
+  "isolatedPhonemeUpdate": {
+    "revision": "clear-all-w19",
+    "voice": "en-GB-LibbyNeural",
+    "recipe": "clear-phonics-provenance.json",
+    "previousEditing": "Historical record below; active per-word timing and sound references are in guided-data.js and the new recipe."
+  }
 }

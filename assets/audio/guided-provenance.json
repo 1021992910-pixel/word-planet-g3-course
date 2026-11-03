@@ -210,5 +210,11 @@
   "timing": "Approximate acoustic grapheme windows; not speech scoring.",
   "teacher_review": "pending",
   "words": "en-GB-SoniaNeural",
-  "cues": "zh-CN-XiaoxiaoNeural"
+  "cues": "zh-CN-XiaoxiaoNeural",
+  "isolatedPhonemeUpdate": {
+    "revision": "clear-all-w19",
+    "voice": "en-GB-LibbyNeural",
+    "recipe": "clear-phonics-provenance.json",
+    "previousEditing": "Historical record below; active per-word timing and sound references are in guided-data.js and the new recipe."
+  }
 }

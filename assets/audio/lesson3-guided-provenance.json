@@ -370,5 +370,11 @@
     "repeat": "跟老师再读一遍。"
   },
   "teacher_review": "pending",
-  "note": "Earlier lesson audio preserved; reference clips not dictionary audio."
+  "note": "Earlier lesson audio preserved; reference clips not dictionary audio.",
+  "isolatedPhonemeUpdate": {
+    "revision": "clear-all-w19",
+    "voice": "en-GB-LibbyNeural",
+    "recipe": "clear-phonics-provenance.json",
+    "previousEditing": "Historical record below; active per-word timing and sound references are in guided-data.js and the new recipe."
+  }
 }
