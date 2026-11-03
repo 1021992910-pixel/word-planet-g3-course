@@ -14,9 +14,9 @@ const actionMissions=[
  {id:'w3-hear-stand',type:'picture',word:'stand',audio:'cmd-stand',prompt:'听指令，选出要做的动作',options:['stand','sit','open'],answer:'stand',hint:'stand up 是站起来。'},
  {id:'w3-hear-sit',type:'picture',word:'sit',audio:'cmd-sit',prompt:'再听一条，伙伴该做哪个动作？',options:['stand','sit','close'],answer:'sit',hint:'sit down 是坐下。'},
  {id:'w3-hear-close',type:'picture',word:'close',audio:'cmd-close',prompt:'听一听，这时书应该是什么样？',options:['open','close','write'],answer:'close',hint:'close your book 是合上书。'}]},
- {id:'sound',title:'拼好课堂声音',skill:'声音组装',icon:'🔧',story:'拼读机需要听清短音和字母组合。把声音接起来，为学习舱启动新声音。',done:'sit 和 book 都拼出来啦！',tasks:[
- {id:'w3-build-sit',type:'build',word:'sit',audio:'guided-sit',prompt:'听老师拼，把听到的声音接起来',parts:['s','i','t'],answer:'sit',hint:'先听开头，再接中间的短音，最后别漏掉尾音。'},
- {id:'w3-build-book',type:'build',word:'book',audio:'guided-book',prompt:'听一听，把声音零件接成一个词',parts:['b','oo','k'],answer:'book',hint:'中间的字母组合是一块声音零件，别把它拆开。'}]},
+ {id:'sound',title:'拼好课堂声音',skill:'声音组装',icon:'🔧',story:'拼读机需要新的课堂声音。先听清完整单词，再把声音零件排好。',done:'sit 和 book 都拼出来啦！',tasks:[
+ {id:'w3-build-sit',type:'build',word:'sit',audio:'sit',prompt:'听单词，再拼出来',parts:['s','i','t'],answer:'sit',hint:'先听开头，再接中间的短音，最后别漏掉尾音。'},
+ {id:'w3-build-book',type:'build',word:'book',audio:'book',prompt:'听单词，再拼出来',parts:['b','oo','k'],answer:'book',hint:'中间的字母组合是一块声音零件，别把它拆开。'}]},
  {id:'supply',title:'给书箱贴标签',skill:'独立拼写',icon:'🎒',story:'课堂书箱缺少了标签，把书和动作的词拼好，帮伙伴准备学习用品。',done:'书箱和动作标签都准备好了！',tasks:[
  {id:'w3-spell-book',type:'spell',word:'book',audio:'book',prompt:'听声音，为书箱拼出“书”',answer:'book',extra:['u'],hint:'中间需要两个相同字母，开头和结尾也要听清。'},
  {id:'w3-spell-open',type:'spell',word:'open',audio:'open',prompt:'听声音，拼出“打开”',answer:'open',extra:['a'],hint:'从开头的声音想起，别漏掉后面的声音。'}]},

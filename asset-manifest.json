@@ -1,5 +1,5 @@
 {
-  "version": "welcome-spelling-clues-w15",
+  "version": "welcome-whole-word-challenges-w16",
   "files": [
     {
       "file": "action-lesson.css",
@@ -18,8 +18,8 @@
     },
     {
       "file": "adventure-data.js",
-      "bytes": 3898,
-      "sha256": "5cbacf22904d361c123b7800aba087baf18d704458d294a6c4dfc6852d48c977"
+      "bytes": 3864,
+      "sha256": "468ebb1c42d6555afcacc2f65a6345b3f51e4015a799f55ea5ed75472e4801af"
     },
     {
       "file": "adventure.css",
@@ -28,13 +28,13 @@
     },
     {
       "file": "adventure.js",
-      "bytes": 26536,
-      "sha256": "271c5fddea31cc52f497d3509dba9c91ed75e806e81c2ece5af49060def7d860"
+      "bytes": 26542,
+      "sha256": "0d992558e6741f4c469af238879f22de745f220d1bd5b97e2ce79bffd98f4e37"
     },
     {
       "file": "app.js",
       "bytes": 27079,
-      "sha256": "93fb93c7ababae433fae028120fc2cdbabe86c6a8f48fcf2e69b45db2396909f"
+      "sha256": "d503781c1a1a5c25b60b332e377581fc072a7a10812c2325928b9860218bff25"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -744,7 +744,7 @@
     {
       "file": "index.html",
       "bytes": 6203,
-      "sha256": "0348a663e5aebc181f950a3c6ac552b98f6dc11e6b54f4ee95ca1bc53e95ee19"
+      "sha256": "4a7e3a85ab6cc5d6dc1109f49761378024437d3ffbd4adc7386a1dd053d195db"
     },
     {
       "file": "learning-sky.css",
@@ -763,13 +763,13 @@
     },
     {
       "file": "lesson-registry.js",
-      "bytes": 7862,
-      "sha256": "9c9059c2b9d0710b8c4abb97be16d3d40f95eed5838f37d254e322c12910dac8"
+      "bytes": 7837,
+      "sha256": "7ecb34db56f43c77471d4ade447c8ffbb6732cc4071ff54d0c44a4d9a5538a7f"
     },
     {
       "file": "lesson3-content.js",
-      "bytes": 8051,
-      "sha256": "7b49b6faaa44bb406191f84bd1a40587851fdafdb4708e0abec6e511c74ffca8"
+      "bytes": 7992,
+      "sha256": "a6ad4f40ba8056e359d124987b061aead9c093d52e167943db5d77992b94e13f"
     },
     {
       "file": "model.js",
@@ -803,8 +803,8 @@
     },
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 18184,
-      "sha256": "d6150343ff1a82ee73377eb4e68f98a3699eae5e9122a77eeaa2167b4387825e"
+      "bytes": 18228,
+      "sha256": "537646e760b719fea777d33b7ce058d0c8461c85df0ef8d300413591b3a90aaa"
     }
   ]
 }

@@ -19,7 +19,7 @@ const morningTasks=[
 ];
 const morningMissions=[
  {id:'signal',title:'接收晨光信号',skill:'听音认意',icon:'📡',story:'欢迎派对后的清晨，米娅收到老师的问候。听清消息，为新一天接通信号。',done:'听懂晨光问候啦！去给拼读机添一个新词。',tasks:[{id:'w2-morning-hear',type:'choice',word:'morning',audio:'good-morning',prompt:'这句话适合什么时候说？',options:['早晨见面时','放学告别时','询问姓名时'],answer:'早晨见面时',hint:'morning 是早晨。'}]},
- {id:'sound',title:'启动晨间拼读机',skill:'声音与拼读',icon:'🔧',story:'拼读机收到了三个声音零件。听老师把声音接起来，再动手排一排。',done:'g、oo、d 接好啦，good 读出来了！',tasks:[{id:'w2-build-good',type:'build',word:'good',audio:'guided-good',prompt:'听老师拼，把声音零件接好',parts:['g','oo','d'],answer:'good',hint:'中间的字母组合是一块声音零件，听清它的前面和后面。'}]},
+ {id:'sound',title:'启动晨间拼读机',skill:'声音与拼读',icon:'🔧',story:'拼读机收到了新的声音。先听清完整单词，再把声音零件排好。',done:'g、oo、d 接好啦，good 读出来了！',tasks:[{id:'w2-build-good',type:'build',word:'good',audio:'good',prompt:'听单词，再拼出来',parts:['g','oo','d'],answer:'good',hint:'中间的字母组合是一块声音零件，听清它的前面和后面。'}]},
  {id:'supply',title:'贴好晨间补给标签',skill:'独立拼写',icon:'🎒',story:'为早晨的补给箱贴上“好的”标签。先听声音，再自己拼。',done:'补给准备好啦，一起去晨光句子桥。',tasks:[{id:'w2-spell-good',type:'spell',word:'good',audio:'good',prompt:'先听声音，再自己拼出这个词',answer:'good',extra:['u'],hint:'中间有两个相同字母。听清开头，再想想结尾。'}]},
  {id:'bridge',title:'接起晨光句子桥',skill:'组句 · 句中找词',icon:'🌉',story:'把早上好的句子接起来，再找到表示“早晨”的那个词。',done:'Good morning! 句子桥接好了。',tasks:[
  {id:'w2-order-morning',type:'order',word:'morning',audio:'good-morning',prompt:'把“早上好”排成一句话',parts:['Good','morning!'],answer:'Good morning!',hint:'Good 开头，再接 morning!。'},

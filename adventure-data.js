@@ -4,8 +4,8 @@ let ADVENTURE_MISSIONS=[
  {id:'signal',title:'接通信号港',skill:'听音认意',icon:'📡',story:'友谊星收到新朋友的问候！听清两条消息，帮米娅接通信号。',done:'问候信号接通啦！现在去修好拼读机。',tasks:[
   {id:'welcome-hear-hi',type:'picture',word:'hi',audio:'hi',prompt:'听到的词，适合哪幅画？',options:['hi','name','goodbye'],answer:'hi',hint:'见到小伙伴时，挥手说 hi。'},
   {id:'welcome-hear-hello',type:'choice',word:'hello',audio:'reply-hello',prompt:'新朋友发来的这条消息，是在做什么？',options:['打招呼','说再见','询问姓名'],answer:'打招呼',hint:'Hello! 是见面时的问候。'}]},
- {id:'sound',title:'修好拼读机',skill:'声音与拼读',icon:'🔧',story:'拼读机要先学会第一声问候。听老师把声音接起来，再装好声音零件。',done:'h 和 i 接起来，拼读机又能说 hi 啦！',tasks:[
-  {id:'welcome-build-hi',type:'build',word:'hi',audio:'guided-hi',prompt:'听老师拼，把声音零件接起来',parts:['h','i'],answer:'hi',hint:'先听开头的声音，再把后面的声音接上。'}]},
+ {id:'sound',title:'修好拼读机',skill:'声音与拼读',icon:'🔧',story:'拼读机收到了一声问候。先听清完整单词，再装好声音零件。',done:'h 和 i 接起来，拼读机又能说 hi 啦！',tasks:[
+  {id:'welcome-build-hi',type:'build',word:'hi',audio:'hi',prompt:'听单词，再拼出来',parts:['h','i'],answer:'hi',hint:'先听开头的声音，再把后面的声音接上。'}]},
  {id:'supply',title:'装满单词补给',skill:'独立拼写',icon:'🎒',story:'补给箱上缺少了姓名标签。把“名字”这个词拼出来，补给才能送到新朋友手里。',done:'name 标签贴好了，带着补给去句子桥。',tasks:[
   {id:'welcome-spell-name',type:'spell',word:'name',audio:'name',prompt:'为姓名标签拼出“名字”',answer:'name',extra:['i'],hint:'别漏掉末尾那个不单独发音的字母，再听一次试试。'}]},
  {id:'bridge',title:'走过句子桥',skill:'句子理解',icon:'🌉',story:'句子桥上的石头散开了。用课本里的自我介绍把桥接好，让新朋友走过来。',done:'My name is Amy. 句子桥接好啦！',tasks:[
