@@ -2646,6 +2646,181 @@
       "source": "source-assets/read-tone-w13/read-isolated.mp3",
       "editing": "Same trim and normalization as approved preview; no carrier-sentence extraction, no manual pitch shift",
       "teacher_review": "User accepted isolated sample; full guided lesson and professional review pending"
+    },
+    "person-lingling": {
+      "text": "Lingling",
+      "file": "person-lingling.mp3",
+      "locale": "zh-CN",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "spokenText": "玲玲。",
+      "words": [
+        {
+          "text": "Lingling",
+          "start": 0.1,
+          "end": 0.7
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "玲玲",
+          "offset": 1000000,
+          "duration": 6000000
+        }
+      ],
+      "kind": "Standalone proper name, not a phonics decoding target",
+      "alias": "Printed Roman name; Chinese names spoken alone in Chinese, no mixed English/Chinese sentence"
+    },
+    "person-daming": {
+      "text": "Daming",
+      "file": "person-daming.mp3",
+      "locale": "zh-CN",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "spokenText": "大明。",
+      "words": [
+        {
+          "text": "Daming",
+          "start": 0.1,
+          "end": 0.7125
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "大明",
+          "offset": 1000000,
+          "duration": 6125000
+        }
+      ],
+      "kind": "Standalone proper name, not a phonics decoding target",
+      "alias": "Printed Roman name; Chinese names spoken alone in Chinese, no mixed English/Chinese sentence"
+    },
+    "person-sam": {
+      "text": "Sam",
+      "file": "person-sam.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "spokenText": "Sam.",
+      "words": [
+        {
+          "text": "Sam",
+          "start": 0.119458,
+          "end": 0.716666
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Sam",
+          "offset": 1194580,
+          "duration": 5972080
+        }
+      ],
+      "kind": "Standalone proper name, not a phonics decoding target",
+      "alias": "Printed name; standalone en-GB synthetic model"
+    },
+    "person-amy": {
+      "text": "Amy",
+      "file": "person-amy.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "spokenText": "Amy.",
+      "words": [
+        {
+          "text": "Amy",
+          "start": 0.101375,
+          "end": 0.670833
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Amy",
+          "offset": 1013750,
+          "duration": 5694580
+        }
+      ],
+      "kind": "Standalone proper name, not a phonics decoding target",
+      "alias": "Printed name; standalone en-GB synthetic model"
+    },
+    "person-bobo": {
+      "text": "Bobo",
+      "file": "person-bobo.mp3",
+      "locale": "en-GB",
+      "voice": "en-GB-SoniaNeural",
+      "spokenText": "Bobo.",
+      "words": [
+        {
+          "text": "Bobo",
+          "start": 0.101375,
+          "end": 0.8375
+        }
+      ],
+      "rawBoundaries": [
+        {
+          "text": "Bobo",
+          "offset": 1013750,
+          "duration": 7361250
+        }
+      ],
+      "kind": "Standalone proper name, not a phonics decoding target",
+      "alias": "Printed name; standalone en-GB synthetic model"
+    },
+    "book-people-cn": {
+      "text": "Lingling Daming",
+      "file": "book-people-cn.mp3",
+      "locale": "zh-CN",
+      "words": [
+        {
+          "text": "Lingling",
+          "start": 0.1,
+          "end": 0.7
+        },
+        {
+          "text": "Daming",
+          "start": 2.422,
+          "end": 3.0345
+        }
+      ],
+      "joinedSources": [
+        "person-lingling",
+        "person-daming"
+      ],
+      "kind": "Separate names with pauses, not a textbook dialogue or mixed sentence"
+    },
+    "book-people-uk": {
+      "text": "Sam Amy",
+      "file": "book-people-uk.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Sam",
+          "start": 0.11946,
+          "end": 0.71667
+        },
+        {
+          "text": "Amy",
+          "start": 2.42338,
+          "end": 2.99283
+        }
+      ],
+      "joinedSources": [
+        "person-sam",
+        "person-amy"
+      ],
+      "kind": "Separate names with pauses, not a textbook dialogue or mixed sentence"
+    },
+    "book-people-robot": {
+      "text": "Bobo",
+      "file": "book-people-robot.mp3",
+      "locale": "en-GB",
+      "words": [
+        {
+          "text": "Bobo",
+          "start": 0.10138,
+          "end": 0.8375
+        }
+      ],
+      "joinedSources": [
+        "person-bobo"
+      ],
+      "kind": "Separate names with pauses, not a textbook dialogue or mixed sentence"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "welcome-whole-word-challenges-w16",
+  "version": "welcome-four-friends-w17",
   "files": [
     {
       "file": "action-lesson.css",
@@ -33,8 +33,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 27079,
-      "sha256": "d503781c1a1a5c25b60b332e377581fc072a7a10812c2325928b9860218bff25"
+      "bytes": 27234,
+      "sha256": "8f4e77b7fc113e03ed271eccf6e9d4f1d656d683ddeafe7a0445d6a62d01b27a"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -135,6 +135,21 @@
       "file": "assets/audio/book-morning.mp3",
       "bytes": 31824,
       "sha256": "16d66db592c3a380754ce272370ead153bf00e3252503bc69388bd9f35062074"
+    },
+    {
+      "file": "assets/audio/book-people-cn.mp3",
+      "bytes": 19173,
+      "sha256": "a6665a8f5634e5dcda407fea4684f9c1ff2d4048a1aed2866ecc00b880dc8558"
+    },
+    {
+      "file": "assets/audio/book-people-robot.mp3",
+      "bytes": 9741,
+      "sha256": "86fc7daa0f1ffc9c52b41a7897868a99bfa761f21952647f1d7d502860fa3032"
+    },
+    {
+      "file": "assets/audio/book-people-uk.mp3",
+      "bytes": 18525,
+      "sha256": "fe3bfe8d2652f85fb1ce6bcfeb9147f18ed751bee19a1c8ad9da63efb3331b1a"
     },
     {
       "file": "assets/audio/book.mp3",
@@ -507,6 +522,31 @@
       "sha256": "ccd011f3168e28ef1d43c4d7d937d094868e491a452254a9b7848679b2e70e03"
     },
     {
+      "file": "assets/audio/person-amy.mp3",
+      "bytes": 11232,
+      "sha256": "2294aa834057a8deab8510efe52351b3c4e3d1192f9d5aaa7e6f93b803678633"
+    },
+    {
+      "file": "assets/audio/person-bobo.mp3",
+      "bytes": 11232,
+      "sha256": "100b637a2c1e94aa419a042ab05bed08653abef0af4c239703d4d6f0350da3b6"
+    },
+    {
+      "file": "assets/audio/person-daming.mp3",
+      "bytes": 11232,
+      "sha256": "cbaf9b6820e623811547099d20817a24eedc83567afcf7049eb621083076848a"
+    },
+    {
+      "file": "assets/audio/person-lingling.mp3",
+      "bytes": 11232,
+      "sha256": "8c119373731fc6bd1176341d52e777c0251b8e28552e3e5e8fa1eba052583122"
+    },
+    {
+      "file": "assets/audio/person-sam.mp3",
+      "bytes": 11232,
+      "sha256": "3439288e770d5e977e568f8346585c0e385ee2dc523f660024e89a83bd78aa58"
+    },
+    {
       "file": "assets/audio/phone-ng-model.mp3",
       "bytes": 6480,
       "sha256": "2a4a3205d9cd2d9f1453ac3e7f5b72bb09cbce5311136335a0d7a5b1d0630081"
@@ -628,8 +668,8 @@
     },
     {
       "file": "assets/audio/tts-provenance.json",
-      "bytes": 55110,
-      "sha256": "1279e76e2e988592b7330d553de2d7cf0bb3350988aefae6c8878a510da889a5"
+      "bytes": 59488,
+      "sha256": "001da1fd4af62be7bad56b8fb6f7fb37a855a4856860bd091166d814b28a57eb"
     },
     {
       "file": "assets/audio/welcome-b.mp3",
@@ -675,6 +715,21 @@
       "file": "assets/scenes/farewell.webp",
       "bytes": 76098,
       "sha256": "2a60cc9eeeb33e08ea9336e71796cfdfc120f60c4367501017b691bb94074745"
+    },
+    {
+      "file": "assets/scenes/friends-cn.webp",
+      "bytes": 65290,
+      "sha256": "62cfe15b3c011b6b25de7e67fa95e589935068396eed59d46871a3d18f4c4e4b"
+    },
+    {
+      "file": "assets/scenes/friends-robot.webp",
+      "bytes": 28420,
+      "sha256": "8ac8ce305645ab43cf22f7557efb17544f7968257a81749aeafe732ef45323f1"
+    },
+    {
+      "file": "assets/scenes/friends-uk.webp",
+      "bytes": 87708,
+      "sha256": "741f9dcabd633ce55a94913a4fe6cb42abfb4ea123345c79e255df89dd2ccd57"
     },
     {
       "file": "assets/scenes/greeting.webp",
@@ -728,8 +783,8 @@
     },
     {
       "file": "audio-data.js",
-      "bytes": 31639,
-      "sha256": "8525c96b036efc257b82378a3dca29965393feb52d31a84b487e36676934adb7"
+      "bytes": 34671,
+      "sha256": "bbae4ca51d9b02ec9034cb82ca8d0ca2222e68b86484101f22a4e4ed0674341b"
     },
     {
       "file": "course-data.js",
@@ -743,8 +798,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 6203,
-      "sha256": "4a7e3a85ab6cc5d6dc1109f49761378024437d3ffbd4adc7386a1dd053d195db"
+      "bytes": 6353,
+      "sha256": "bf9ca25eee675bd0abb5e65e5ce4e27af368615e4fd50cb131588c9e80ad685b"
     },
     {
       "file": "learning-sky.css",
@@ -754,7 +809,7 @@
     {
       "file": "learning-sky.js",
       "bytes": 11598,
-      "sha256": "27f1a6f42e47e288e597f9e9aef348a590b8b7bd586f59e03537701916f2340f"
+      "sha256": "a8e9103a8bf51135b019bc0e9ffb258520070d86d66e93d2983183716e06f8e0"
     },
     {
       "file": "lesson-course.css",
@@ -772,9 +827,24 @@
       "sha256": "a6ad4f40ba8056e359d124987b061aead9c093d52e167943db5d77992b94e13f"
     },
     {
+      "file": "lesson4-content.js",
+      "bytes": 6804,
+      "sha256": "b260506b54b328785dd77bdf44bf7ddd2517734f0ca9e5c1562af705e036d374"
+    },
+    {
       "file": "model.js",
       "bytes": 6871,
       "sha256": "95047bb86623b22de6134d1d94ce2a4ed1c69ded406282a7e11d3bbb9fd9bbe0"
+    },
+    {
+      "file": "people-lesson.css",
+      "bytes": 784,
+      "sha256": "9850df37c55f439f41cc8c6b2eed604b589b93c70dce715c1d43a9a4877fdfe8"
+    },
+    {
+      "file": "people-lesson.js",
+      "bytes": 2495,
+      "sha256": "01fcc8f17fa4c684552c98093e89ac0a69b52e8ae0ba44ff0032236123e5b5a5"
     },
     {
       "file": "star-sky.css",
@@ -803,8 +873,8 @@
     },
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 18228,
-      "sha256": "537646e760b719fea777d33b7ce058d0c8461c85df0ef8d300413591b3a90aaa"
+      "bytes": 18261,
+      "sha256": "b23f387e687d162e0050336336da5d0ae129be28b3297112dfc3dd403a273b21"
     }
   ]
 }
