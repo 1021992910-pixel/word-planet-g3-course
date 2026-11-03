@@ -1,5 +1,5 @@
 {
-  "version": "welcome-alphabet-w20",
+  "version": "shared-camp-growth-w21",
   "files": [
     {
       "file": "action-lesson.css",
@@ -28,8 +28,8 @@
     },
     {
       "file": "adventure.js",
-      "bytes": 26774,
-      "sha256": "a8a633edc78d63d4d57706bc26adc06d0e8427213bce277ef1a9bec9343ca914"
+      "bytes": 27136,
+      "sha256": "058d5b8a7672fb3875cab247f227b73e6ea28dab9668697efc3a42e25cee2e7e"
     },
     {
       "file": "alphabet-lesson.css",
@@ -44,7 +44,12 @@
     {
       "file": "app.js",
       "bytes": 27764,
-      "sha256": "6ad0b0c5e2f7572fe866951a03e00c7ca3b2cfff80a1d12ddc4fff78b72bf900"
+      "sha256": "afc716b0e7c2a298d9534df175a0de8d15a09cf4a275963ec177cca2b505f5f1"
+    },
+    {
+      "file": "assets/adventure/alphabet-console-w21.webp",
+      "bytes": 45778,
+      "sha256": "a5903f7267692b583a751ca318f498fc05d5aa2bbf1cb43cbacaf8191482e10b"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -57,9 +62,19 @@
       "sha256": "c91a4c038adbc29d929246cd3b4013ca1c25bc236939de1050618b7aa5631f94"
     },
     {
+      "file": "assets/adventure/camp-garden-w21.webp",
+      "bytes": 135746,
+      "sha256": "f5eb6fe967bace6ced6b076c476e58eb76e7e8814c9c17a73b6837a6bd011ea3"
+    },
+    {
       "file": "assets/adventure/flag-v2.webp",
       "bytes": 35588,
       "sha256": "ba96cc464eebd4c836b95d5e5be947a6478c972e283b2d28b67ea922ee4dd64d"
+    },
+    {
+      "file": "assets/adventure/friend-board-w21.webp",
+      "bytes": 36220,
+      "sha256": "3fac287331a26776d9e3cc0c075b13c49e96a619c9bf0d216a05d9d86f6e5a77"
     },
     {
       "file": "assets/adventure/friends-v2.webp",
@@ -70,6 +85,11 @@
       "file": "assets/adventure/lamp-v2.webp",
       "bytes": 61354,
       "sha256": "6b9e18cd52b1aba2975beb6d24c994da69fea82e749d005577bb87653030f607"
+    },
+    {
+      "file": "assets/adventure/morning-sign-w21.webp",
+      "bytes": 46994,
+      "sha256": "2a4a970fdb809ddd9c8f8350ad21c3be4ab1334b89878a782d36e426e1a07ba8"
     },
     {
       "file": "assets/adventure/party-v2.webp",
@@ -90,6 +110,11 @@
       "file": "assets/adventure/sound-v2.webp",
       "bytes": 125842,
       "sha256": "54810cf1526d45c02a2548c47a0b9c86fe1771f2309962c3c64e200c2b1bebee"
+    },
+    {
+      "file": "assets/adventure/study-desk-w21.webp",
+      "bytes": 44082,
+      "sha256": "db6c57fcbef08d11c496b9d7192db055d4d7e629e689e1e99cd094cf6a4c3580"
     },
     {
       "file": "assets/adventure/supply-v2.webp",
@@ -1222,6 +1247,16 @@
       "sha256": "1f4aae00f7e86072fa132da07c005b4b41186f4f5f2b035662807b2b980a8a51"
     },
     {
+      "file": "camp-growth.css",
+      "bytes": 1832,
+      "sha256": "ce45dc4f2c785f2ec1fdcda829856f2b185e6e64bca295b9f5bcd814a943a4c7"
+    },
+    {
+      "file": "camp-growth.js",
+      "bytes": 3678,
+      "sha256": "6de6b52de43c8c4e5369aff2c28c348b2c62a53998c6a3e998003a2b987899b2"
+    },
+    {
       "file": "course-data.js",
       "bytes": 5054,
       "sha256": "7ccc01a679725b4e30fd63493095379454e43a146438b2469c445b9afd0f9869"
@@ -1233,8 +1268,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 6932,
-      "sha256": "25f7bf081b417de79c2c2ccd37a6ef27f4d21206ecf3f66699cbfd713404db0c"
+      "bytes": 7071,
+      "sha256": "3a76f96d9fe9eaf2e2d5bddace8830bc063504840bcf9c30d9325e6bef2acc0f"
     },
     {
       "file": "learning-sky.css",
@@ -1273,8 +1308,8 @@
     },
     {
       "file": "model.js",
-      "bytes": 6871,
-      "sha256": "95047bb86623b22de6134d1d94ce2a4ed1c69ded406282a7e11d3bbb9fd9bbe0"
+      "bytes": 7003,
+      "sha256": "f34a90cb879e1e12d04984ec7a240052f404869b1a8c6d42538f91e5cd72efb3"
     },
     {
       "file": "people-lesson.css",

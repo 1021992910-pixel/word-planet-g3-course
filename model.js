@@ -27,14 +27,15 @@ const CourseModel=(()=>{
   useLesson(active);Object.assign(s,s.lessons[active]);
   const total=Object.values(s.lessons).reduce((sum,l)=>sum+Object.keys(l.adventure.completed).length*15,0);
   const requested=Array.isArray(raw.campDecorations)?raw.campDecorations:raw.adventure?.decorations||[];
-  for(const item of ADVENTURE_DECORATIONS)if(requested.includes(item.id)&&total-s.campDecorations.reduce((sum,id)=>sum+ADVENTURE_DECORATIONS.find(x=>x.id===id).cost,0)>=item.cost)s.campDecorations.push(item.id);
+  for(const item of ADVENTURE_DECORATIONS)if(requested.includes(item.id)&&CampGrowth.unlocked(item,s.lessons)&&total-s.campDecorations.reduce((sum,id)=>sum+ADVENTURE_DECORATIONS.find(x=>x.id===id).cost,0)>=item.cost)s.campDecorations.push(item.id);
   s.adventure.decorations=[...s.campDecorations];s.sky=LearningSky.sanitize(raw.sky,s.words);sync(s);return s;
  }
  function sync(s){
   s.lessons[COURSE.lessonId]={scene:s.scene,coach:s.coach,stage:s.stage,atlasGroup:s.atlasGroup,heard:s.heard,guided:s.guided,run:s.run,adventure:s.adventure,lesson:s.lesson};s.activeLessonId=COURSE.lessonId;
   const total=Object.values(s.lessons).reduce((sum,l)=>sum+Object.keys(l.adventure.completed).length*15,0);
+  const eligible=CampGrowth.eligible(s.lessons);
   s.campDecorations=[...s.adventure.decorations];
-  for(const l of Object.values(s.lessons)){l.adventure.credit=total-Object.keys(l.adventure.completed).length*15;l.adventure.decorations=[...s.campDecorations];}
+  for(const l of Object.values(s.lessons)){l.adventure.credit=total-Object.keys(l.adventure.completed).length*15;l.adventure.decorations=[...s.campDecorations];l.adventure.unlockedDecorations=[...eligible];}
   LearningSky.sync(s);for(const [id,l] of Object.entries(s.lessons))if(l.lesson.completed)s.sky.lessons[id]={completed:true,completedAt:l.lesson.completedAt||0};
   return s;
  }
