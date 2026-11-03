@@ -1,5 +1,5 @@
 {
-  "version": "welcome-03-approved-read-w13",
+  "version": "welcome-spelling-clues-w15",
   "files": [
     {
       "file": "action-lesson.css",
@@ -18,8 +18,8 @@
     },
     {
       "file": "adventure-data.js",
-      "bytes": 3924,
-      "sha256": "ac739f10cd4ded7feafb89d73dd1116de1c75a79708046c283e5b7c608d759cb"
+      "bytes": 3898,
+      "sha256": "5cbacf22904d361c123b7800aba087baf18d704458d294a6c4dfc6852d48c977"
     },
     {
       "file": "adventure.css",
@@ -34,7 +34,7 @@
     {
       "file": "app.js",
       "bytes": 27079,
-      "sha256": "f747c01d0ee9fe8bcb2a663c6184a589721dea116a0fc1e2d02f3d1317dbe6b6"
+      "sha256": "93fb93c7ababae433fae028120fc2cdbabe86c6a8f48fcf2e69b45db2396909f"
     },
     {
       "file": "assets/adventure/bridge-v2.webp",
@@ -744,7 +744,7 @@
     {
       "file": "index.html",
       "bytes": 6203,
-      "sha256": "ae747a589fe1527123b473a89be3363ea51b4449e422d0d0d3417ec72ab4e4fd"
+      "sha256": "0348a663e5aebc181f950a3c6ac552b98f6dc11e6b54f4ee95ca1bc53e95ee19"
     },
     {
       "file": "learning-sky.css",
@@ -763,13 +763,13 @@
     },
     {
       "file": "lesson-registry.js",
-      "bytes": 7796,
-      "sha256": "4e8704428e711bfe8d09a0c26afd9ff6d29e37dbba33ecdeda44ba8476f552eb"
+      "bytes": 7862,
+      "sha256": "9c9059c2b9d0710b8c4abb97be16d3d40f95eed5838f37d254e322c12910dac8"
     },
     {
       "file": "lesson3-content.js",
-      "bytes": 7917,
-      "sha256": "f8f353fe14207fe9761aff5002c81c2de98cc3c3e4601c052af0d8e1ceb712b7"
+      "bytes": 8051,
+      "sha256": "7b49b6faaa44bb406191f84bd1a40587851fdafdb4708e0abec6e511c74ffca8"
     },
     {
       "file": "model.js",
@@ -803,8 +803,8 @@
     },
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 17996,
-      "sha256": "51a7219a59f517b6f9cd4899bd2e88e0e4feab02d4d4f648bb4b2284085fffcb"
+      "bytes": 18184,
+      "sha256": "d6150343ff1a82ee73377eb4e68f98a3699eae5e9122a77eeaa2167b4387825e"
     }
   ]
 }
