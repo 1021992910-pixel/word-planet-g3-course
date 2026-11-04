@@ -1,5 +1,5 @@
 {
-  "version": "w28",
+  "version": "w29",
   "files": [
     {
       "file": "制作规范与验收标准.md",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 29150,
-      "sha256": "464d8d4a4c7575e661180424e252c69e4b09356f78d9dcdca019fbf240b02320"
+      "bytes": 29296,
+      "sha256": "dcac0da8562698af4c09377b01db05f2eed89ed268f6cb31647253d29dbf7816"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -90,6 +90,11 @@
       "file": "assets/adventure/friends-v2.webp",
       "bytes": 131246,
       "sha256": "9328620d6cfe79749a34243f4f233769d3ef16305ebfced5aacaa561abbd21e1"
+    },
+    {
+      "file": "assets/adventure/friendship-star-w29.webp",
+      "bytes": 38856,
+      "sha256": "1f44b0b599c4cdc9fd69ded9c232afcbc59cb35b609903fa0ea2b23542b37eb3"
     },
     {
       "file": "assets/adventure/lamp-v2.webp",
@@ -2217,6 +2222,36 @@
       "sha256": "13bb27cad619bc238bc54b4c0d4385b5f6531e3787f9afe1c5cae3b99e3f9435"
     },
     {
+      "file": "assets/audio/u16-answer.mp3",
+      "bytes": 18144,
+      "sha256": "527a04ac01dd83928349a1e72513b4dc1834c77ff5be8751f67c8a6cf41970ef"
+    },
+    {
+      "file": "assets/audio/u16-helps.mp3",
+      "bytes": 12672,
+      "sha256": "2ed56e6542aa12d68f4ac0df685e6b1a29196bf17a23d94e5abae53d8a39444d"
+    },
+    {
+      "file": "assets/audio/u16-listens.mp3",
+      "bytes": 13392,
+      "sha256": "4ff1937fa8f3c31a41b5d6e422865729b90b06a4d79cb3a8fc84de6cdf5c7aae"
+    },
+    {
+      "file": "assets/audio/u16-plays.mp3",
+      "bytes": 15264,
+      "sha256": "17d523dbc236fdcc389d15d0c54183c3a8364d86c2271ce2c0b1334923bbec3d"
+    },
+    {
+      "file": "assets/audio/u16-question.mp3",
+      "bytes": 12096,
+      "sha256": "9888a44896f158e29e9eafdde2cec69b6d8d245fa093333ea54764b3b062c878"
+    },
+    {
+      "file": "assets/audio/u16-shares.mp3",
+      "bytes": 12672,
+      "sha256": "30713f4bce98a6e6bb38615721ac31d891b9293a6885c1bc31ec218f4ffb41bf"
+    },
+    {
       "file": "assets/audio/unit1-reuse/clear-phonics-provenance.json",
       "bytes": 19048,
       "sha256": "daaee56c9a9ca9b3cc8c2124e21cd1e920fcee899a237beb85b521411e5d0119"
@@ -2280,6 +2315,11 @@
       "file": "assets/audio/with.mp3",
       "bytes": 6624,
       "sha256": "a05d170ff3c2eb6a9efbc747a2b392df77b75030ec6da39c4e29bf38026ab5c0"
+    },
+    {
+      "file": "assets/audio/wrap-provenance.json",
+      "bytes": 4132,
+      "sha256": "b5e1824efb8eb3bc7700f18ebdb85e2d17d2d5783365827fe4b64762e3bb727e"
     },
     {
       "file": "assets/audio/write.mp3",
@@ -2453,8 +2493,8 @@
     },
     {
       "file": "camp-growth.js",
-      "bytes": 6321,
-      "sha256": "b5b406673ed73f45ac5dbb357f742d8b9c2616fc3829a22402daebf1f15fa1bb"
+      "bytes": 6636,
+      "sha256": "6d3a0c2d994e5c51821e373756ac01892a79ad6f8fe6c4816b68597e0d9c1713"
     },
     {
       "file": "course-data.js",
@@ -2488,8 +2528,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 9054,
-      "sha256": "45bf408a05758b90a706c8581d04b9951ec25e3e6ec745efdff1868a830d0e26"
+      "bytes": 9296,
+      "sha256": "ee1cce49c65fbf9f637a648fad3b972ce72ba6b6df38713b70c2470d0b6d6268"
     },
     {
       "file": "learning-sky.css",
@@ -2528,8 +2568,8 @@
     },
     {
       "file": "model.js",
-      "bytes": 7350,
-      "sha256": "bce0206e251f7015afbb6f6d36c0f9a262d0fe1689dc2e0cdf04911817ba1658"
+      "bytes": 7481,
+      "sha256": "47c2596c0631e775ffe07607e68ee544f461cfe357b6d4bc53b70761bd99fb18"
     },
     {
       "file": "paced-data.js",
@@ -2635,6 +2675,26 @@
       "file": "unit1-content.js",
       "bytes": 54137,
       "sha256": "0bdc6b12272eda94123e6a74e5f7addf2492d39a658ec076a319758855c25092"
+    },
+    {
+      "file": "wrap-audio-data.js",
+      "bytes": 2319,
+      "sha256": "11a31cf470616218c9c74f9c343d7d1e13b5cb09ea250c4804e2501ddf61524d"
+    },
+    {
+      "file": "wrap-content.js",
+      "bytes": 7063,
+      "sha256": "22cf5f6142a36886db5b2f48de5018e57e95a0b8ac7e5c02ad8cb031bbae3cbe"
+    },
+    {
+      "file": "wrap-lesson.css",
+      "bytes": 955,
+      "sha256": "cb701a045201ce6db273e5efeaa501e139519a1aa197c0d2f21eac6105ddbbab"
+    },
+    {
+      "file": "wrap-lesson.js",
+      "bytes": 4705,
+      "sha256": "7cefaa7cfbc8bc2f87d828d2a106c654c0b458925efefb019546f68028bc5879"
     }
   ]
 }

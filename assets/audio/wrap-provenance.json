@@ -1,0 +1,192 @@
+{
+  "clips": {
+    "u16-listens": {
+      "text": "A good friend listens.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-listens.mp3",
+      "words": [
+        {
+          "text": "A",
+          "start": 0.13825,
+          "end": 0.255916
+        },
+        {
+          "text": "good",
+          "start": 0.270583,
+          "end": 0.535291
+        },
+        {
+          "text": "friend",
+          "start": 0.55,
+          "end": 0.991166
+        },
+        {
+          "text": "listens",
+          "start": 1.005875,
+          "end": 1.8
+        }
+      ]
+    },
+    "u16-shares": {
+      "text": "A good friend shares.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-shares.mp3",
+      "words": [
+        {
+          "text": "A",
+          "start": 0.123541,
+          "end": 0.241207
+        },
+        {
+          "text": "good",
+          "start": 0.255875,
+          "end": 0.491166
+        },
+        {
+          "text": "friend",
+          "start": 0.505875,
+          "end": 0.947041
+        },
+        {
+          "text": "shares",
+          "start": 0.96175,
+          "end": 1.682333
+        }
+      ]
+    },
+    "u16-helps": {
+      "text": "A good friend helps.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-helps.mp3",
+      "words": [
+        {
+          "text": "A",
+          "start": 0.13825,
+          "end": 0.255916
+        },
+        {
+          "text": "good",
+          "start": 0.270583,
+          "end": 0.520583
+        },
+        {
+          "text": "friend",
+          "start": 0.535291,
+          "end": 0.961749
+        },
+        {
+          "text": "helps",
+          "start": 0.976458,
+          "end": 1.682333
+        }
+      ]
+    },
+    "u16-plays": {
+      "text": "A good friend plays with you.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-plays.mp3",
+      "words": [
+        {
+          "text": "A",
+          "start": 0.123541,
+          "end": 0.255874
+        },
+        {
+          "text": "good",
+          "start": 0.270583,
+          "end": 0.535291
+        },
+        {
+          "text": "friend",
+          "start": 0.55,
+          "end": 1.064708
+        },
+        {
+          "text": "plays",
+          "start": 1.079416,
+          "end": 1.491166
+        },
+        {
+          "text": "with",
+          "start": 1.505875,
+          "end": 1.71175
+        },
+        {
+          "text": "you",
+          "start": 1.726458,
+          "end": 2.108791
+        }
+      ]
+    },
+    "u16-question": {
+      "text": "Are you a good friend?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-question.mp3",
+      "words": [
+        {
+          "text": "Are",
+          "start": 0.152958,
+          "end": 0.226499
+        },
+        {
+          "text": "you",
+          "start": 0.241166,
+          "end": 0.535291
+        },
+        {
+          "text": "a",
+          "start": 0.55,
+          "end": 0.63825
+        },
+        {
+          "text": "good",
+          "start": 0.652958,
+          "end": 0.888249
+        },
+        {
+          "text": "friend",
+          "start": 0.902958,
+          "end": 1.579416
+        }
+      ]
+    },
+    "u16-answer": {
+      "text": "Yes. I help my friends.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u16-answer.mp3",
+      "words": [
+        {
+          "text": "Yes",
+          "start": 0.108833,
+          "end": 0.697083
+        },
+        {
+          "text": "I",
+          "start": 1.16175,
+          "end": 1.279416
+        },
+        {
+          "text": "help",
+          "start": 1.294125,
+          "end": 1.617666
+        },
+        {
+          "text": "my",
+          "start": 1.632333,
+          "end": 1.808791
+        },
+        {
+          "text": "friends",
+          "start": 1.823541,
+          "end": 2.602957
+        }
+      ]
+    }
+  }
+}
