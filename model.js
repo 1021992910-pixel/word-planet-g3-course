@@ -1,10 +1,11 @@
 'use strict';
 const CourseModel=(()=>{
- const lessonBlank=()=>({scene:0,coach:0,stage:0,atlasGroup:0,getReady:GetReadyModel.blank(),heard:[],guided:[],run:null,adventure:AdventureModel.blank(),lesson:{completed:false,best:0,completedAt:0}});
+ const lessonBlank=()=>({scene:0,coach:0,stage:0,atlasGroup:0,getReady:GetReadyModel.blank(),poster:PosterModel.blank(),heard:[],guided:[],run:null,adventure:AdventureModel.blank(),lesson:{completed:false,best:0,completedAt:0}});
  const blank=()=>({version:1,activeLessonId:COURSE.lessonId,speed:1,words:{},sky:LearningSky.blank(),lessons:{},campDecorations:[],...lessonBlank()});
  function localSanitize(raw){
   const s=lessonBlank();if(!raw||typeof raw!=='object')return s;
   if(COURSE.lessonId==='unit1-01')s.getReady=GetReadyModel.sanitize(raw.getReady);
+  if(COURSE.poster)s.poster=PosterModel.sanitize(raw.poster);
   for(const key of ['scene','coach','stage','atlasGroup']){const max=key==='scene'?SCENES.length-1:key==='coach'?LearningSky.catalog().length-1:key==='atlasGroup'?(COURSE.wordGroups?.length||1)-1:3;s[key]=Number.isInteger(raw[key])?Math.max(0,Math.min(max,raw[key])):0;}
   s.heard=Array.isArray(raw.heard)?[...new Set(raw.heard.filter(x=>SCENES.some(t=>t.audio===x)))]:[];
   s.guided=Array.isArray(raw.guided)?[...new Set(raw.guided.filter(x=>WORDS.some(w=>w.id===x)))]:[];
@@ -32,7 +33,7 @@ const CourseModel=(()=>{
   s.adventure.decorations=[...s.campDecorations];s.sky=LearningSky.sanitize(raw.sky,s.words);sync(s);return s;
  }
  function sync(s){
-  s.lessons[COURSE.lessonId]={scene:s.scene,coach:s.coach,stage:s.stage,atlasGroup:s.atlasGroup,getReady:s.getReady,heard:s.heard,guided:s.guided,run:s.run,adventure:s.adventure,lesson:s.lesson};s.activeLessonId=COURSE.lessonId;
+  s.lessons[COURSE.lessonId]={scene:s.scene,coach:s.coach,stage:s.stage,atlasGroup:s.atlasGroup,getReady:s.getReady,poster:s.poster,heard:s.heard,guided:s.guided,run:s.run,adventure:s.adventure,lesson:s.lesson};s.activeLessonId=COURSE.lessonId;
   const total=Object.values(s.lessons).reduce((sum,l)=>sum+Object.keys(l.adventure.completed).length*15,0);
   const eligible=CampGrowth.eligible(s.lessons);
   s.campDecorations=[...s.adventure.decorations];
@@ -58,6 +59,7 @@ const CourseModel=(()=>{
    if(l.lesson.completed&&!r.lesson.completed||l.lesson.best>r.lesson.best)r.lesson={...l.lesson};
    if((l.run?.index||0)>(r.run?.index||0))r.run=l.run;
    r.getReady=GetReadyModel.merge(l.getReady,r.getReady);
+   r.poster=PosterModel.merge(l.poster,r.poster);
    r.heard=[...new Set([...l.heard,...r.heard])];r.guided=[...new Set([...l.guided,...r.guided])];
   }
   useLesson(active);

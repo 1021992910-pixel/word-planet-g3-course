@@ -1,0 +1,424 @@
+{
+  "clips": {
+    "u15-title": {
+      "text": "My friends.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-title.mp3",
+      "words": [
+        {
+          "text": "My",
+          "start": 0.104416,
+          "end": 0.383832
+        },
+        {
+          "text": "friends",
+          "start": 0.398541,
+          "end": 1.207374
+        }
+      ]
+    },
+    "u15-amy-friend": {
+      "text": "Amy is my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-amy-friend.mp3",
+      "words": [
+        {
+          "text": "Amy",
+          "start": 0.123541,
+          "end": 0.594124
+        },
+        {
+          "text": "is",
+          "start": 0.608833,
+          "end": 0.829416
+        },
+        {
+          "text": "my",
+          "start": 0.844125,
+          "end": 1.035291
+        },
+        {
+          "text": "friend",
+          "start": 1.05,
+          "end": 1.726458
+        }
+      ]
+    },
+    "u15-sam-friend": {
+      "text": "Sam is my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-sam-friend.mp3",
+      "words": [
+        {
+          "text": "Sam",
+          "start": 0.13825,
+          "end": 0.608833
+        },
+        {
+          "text": "is",
+          "start": 0.623541,
+          "end": 0.785291
+        },
+        {
+          "text": "my",
+          "start": 0.8,
+          "end": 0.991166
+        },
+        {
+          "text": "friend",
+          "start": 1.005875,
+          "end": 1.697041
+        }
+      ]
+    },
+    "u15-mia-friend": {
+      "text": "Mia is my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-mia-friend.mp3",
+      "words": [
+        {
+          "text": "Mia",
+          "start": 0.13825,
+          "end": 0.682375
+        },
+        {
+          "text": "is",
+          "start": 0.697041,
+          "end": 0.902916
+        },
+        {
+          "text": "my",
+          "start": 0.917666,
+          "end": 1.123541
+        },
+        {
+          "text": "friend",
+          "start": 1.13825,
+          "end": 1.814708
+        }
+      ]
+    },
+    "u15-ben-friend": {
+      "text": "Ben is my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-ben-friend.mp3",
+      "words": [
+        {
+          "text": "Ben",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.638208
+        },
+        {
+          "text": "my",
+          "start": 0.652958,
+          "end": 0.858833
+        },
+        {
+          "text": "friend",
+          "start": 0.873541,
+          "end": 1.579416
+        }
+      ]
+    },
+    "u15-shes-mia": {
+      "text": "She's Mia.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-shes-mia.mp3",
+      "words": [
+        {
+          "text": "She's",
+          "start": 0.104416,
+          "end": 0.530874
+        },
+        {
+          "text": "Mia",
+          "start": 0.545583,
+          "end": 1.119124
+        }
+      ]
+    },
+    "u15-hes-ben": {
+      "text": "He's Ben.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-hes-ben.mp3",
+      "words": [
+        {
+          "text": "He's",
+          "start": 0.123541,
+          "end": 0.388249
+        },
+        {
+          "text": "Ben",
+          "start": 0.402958,
+          "end": 0.947083
+        }
+      ]
+    },
+    "u15-she-friend": {
+      "text": "She's my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-she-friend.mp3",
+      "words": [
+        {
+          "text": "She's",
+          "start": 0.123541,
+          "end": 0.476499
+        },
+        {
+          "text": "my",
+          "start": 0.491166,
+          "end": 0.697041
+        },
+        {
+          "text": "friend",
+          "start": 0.71175,
+          "end": 1.388208
+        }
+      ]
+    },
+    "u15-he-friend": {
+      "text": "He's my friend.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-he-friend.mp3",
+      "words": [
+        {
+          "text": "He's",
+          "start": 0.152958,
+          "end": 0.373541
+        },
+        {
+          "text": "my",
+          "start": 0.38825,
+          "end": 0.594125
+        },
+        {
+          "text": "friend",
+          "start": 0.608833,
+          "end": 1.314708
+        }
+      ]
+    },
+    "u15-she-nine": {
+      "text": "She's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-she-nine.mp3",
+      "words": [
+        {
+          "text": "She's",
+          "start": 0.123541,
+          "end": 0.491207
+        },
+        {
+          "text": "nine",
+          "start": 0.505875,
+          "end": 1.064708
+        }
+      ]
+    },
+    "u15-he-nine": {
+      "text": "He's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-he-nine.mp3",
+      "words": [
+        {
+          "text": "He's",
+          "start": 0.13825,
+          "end": 0.38825
+        },
+        {
+          "text": "nine",
+          "start": 0.402958,
+          "end": 0.991208
+        }
+      ]
+    },
+    "u15-amy-share": {
+      "text": "She's Amy. She's my friend. She's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-amy-share.mp3",
+      "words": [
+        {
+          "text": "She's",
+          "start": 0.108833,
+          "end": 0.505874
+        },
+        {
+          "text": "Amy",
+          "start": 0.520583,
+          "end": 1.035291
+        },
+        {
+          "text": "She's",
+          "start": 1.485291,
+          "end": 1.838249
+        },
+        {
+          "text": "my",
+          "start": 1.852958,
+          "end": 2.058833
+        },
+        {
+          "text": "friend",
+          "start": 2.073541,
+          "end": 2.749999
+        },
+        {
+          "text": "She's",
+          "start": 3.191166,
+          "end": 3.558832
+        },
+        {
+          "text": "nine",
+          "start": 3.573541,
+          "end": 4.132374
+        }
+      ]
+    },
+    "u15-sam-share": {
+      "text": "He's Sam. He's my friend. He's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-sam-share.mp3",
+      "words": [
+        {
+          "text": "He's",
+          "start": 0.13825,
+          "end": 0.373541
+        },
+        {
+          "text": "Sam",
+          "start": 0.38825,
+          "end": 0.961791
+        },
+        {
+          "text": "He's",
+          "start": 1.441166,
+          "end": 1.661749
+        },
+        {
+          "text": "my",
+          "start": 1.676458,
+          "end": 1.882333
+        },
+        {
+          "text": "friend",
+          "start": 1.897041,
+          "end": 2.602916
+        },
+        {
+          "text": "He's",
+          "start": 3.058833,
+          "end": 3.308833
+        },
+        {
+          "text": "nine",
+          "start": 3.323541,
+          "end": 3.911791
+        }
+      ]
+    },
+    "u15-mia-share": {
+      "text": "She's Mia. She's my friend. She's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-mia-share.mp3",
+      "words": [
+        {
+          "text": "She's",
+          "start": 0.104416,
+          "end": 0.530874
+        },
+        {
+          "text": "Mia",
+          "start": 0.545583,
+          "end": 1.119124
+        },
+        {
+          "text": "She's",
+          "start": 1.573541,
+          "end": 1.926499
+        },
+        {
+          "text": "my",
+          "start": 1.941166,
+          "end": 2.147041
+        },
+        {
+          "text": "friend",
+          "start": 2.16175,
+          "end": 2.838208
+        },
+        {
+          "text": "She's",
+          "start": 3.279416,
+          "end": 3.647082
+        },
+        {
+          "text": "nine",
+          "start": 3.66175,
+          "end": 4.220583
+        }
+      ]
+    },
+    "u15-ben-share": {
+      "text": "He's Ben. He's my friend. He's nine.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u15-ben-share.mp3",
+      "words": [
+        {
+          "text": "He's",
+          "start": 0.123541,
+          "end": 0.388249
+        },
+        {
+          "text": "Ben",
+          "start": 0.402958,
+          "end": 0.947083
+        },
+        {
+          "text": "He's",
+          "start": 1.426458,
+          "end": 1.647041
+        },
+        {
+          "text": "my",
+          "start": 1.66175,
+          "end": 1.867625
+        },
+        {
+          "text": "friend",
+          "start": 1.882333,
+          "end": 2.588208
+        },
+        {
+          "text": "He's",
+          "start": 3.044125,
+          "end": 3.294125
+        },
+        {
+          "text": "nine",
+          "start": 3.308833,
+          "end": 3.897083
+        }
+      ]
+    }
+  }
+}
