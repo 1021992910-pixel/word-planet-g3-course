@@ -1,0 +1,64 @@
+{
+  "u1-happy-day": {
+    "text": "Let's have a happy day!",
+    "file": "u1-happy-day.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-10%",
+    "words": [
+      {
+        "text": "Let's",
+        "start": 0.1055,
+        "end": 0.425
+      },
+      {
+        "text": "have",
+        "start": 0.4389,
+        "end": 0.6194
+      },
+      {
+        "text": "a",
+        "start": 0.6333,
+        "end": 0.6889
+      },
+      {
+        "text": "happy",
+        "start": 0.7028,
+        "end": 1.1056
+      },
+      {
+        "text": "day!",
+        "start": 1.1195,
+        "end": 1.5083
+      }
+    ],
+    "rawBoundaries": [
+      {
+        "text": "Let's",
+        "offset": 1055410,
+        "duration": 3194580
+      },
+      {
+        "text": "have",
+        "offset": 4388750,
+        "duration": 1805410
+      },
+      {
+        "text": "a",
+        "offset": 6333330,
+        "duration": 555410
+      },
+      {
+        "text": "happy",
+        "offset": 7027910,
+        "duration": 4027910
+      },
+      {
+        "text": "day",
+        "offset": 11194580,
+        "duration": 3888750
+      }
+    ],
+    "purpose": "Short spoken expression practice associated with textbook Get ready; not a song performance or official recording."
+  }
+}

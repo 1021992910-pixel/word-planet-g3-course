@@ -1743,7 +1743,7 @@ Object.assign(GUIDED_DATA,{
     "isolatedPhonemeMethod": "Only isolated phoneme PCM replaced; original cues, continuous blends, whole words and response gap retained. Highlight windows shifted by actual new sample lengths."
   }
 });
-LESSONS['unit1-01']={course:{...LESSONS['welcome-02'].course,number:1,unitId:'unit1',section:'Unit 1 · Let’s be friends!',lessonId:'unit1-01',lessonTitle:'认识朋友，一起玩',page:'课本第7页 · Get ready 词汇巩固',estimated:'三个情境，可分次完成',description:'见面问好 · 邀请玩耍 · 表达快乐',heroScene:'u1-meet',source:'https://www.yeyulingfeng.com/wendang/91243522.html',reusedExperience:true,adventure:{chapter:'第六章 · 新朋友街区',title:'新朋友街区',subtitle:'把学过的问候，带到新的街区。',intro:'听清七个词的声音，再用句子认识朋友、邀请玩耍。',message:'Welcome 的导航任务完成，新的朋友发来了消息。沿着熟悉的六站路线继续出发，旧星光和营地都留着。',end:'本课新朋友任务完成啦！回营地可以兑换友谊纪念画，其他 Unit 1 内容继续按课加入。'}},words:[
+LESSONS['unit1-01']={course:{...LESSONS['welcome-02'].course,number:1,unitId:'unit1',section:'Unit 1 · Let’s be friends!',lessonId:'unit1-01',lessonTitle:'认识朋友，一起玩',page:'课本第6—7页 · Get ready 巩固',estimated:'情境、认词、课本小任务可分次完成',description:'见面问好 · 邀请玩耍 · 表达快乐',heroScene:'u1-meet',source:'https://www.yeyulingfeng.com/wendang/91243522.html',reusedExperience:true,adventure:{chapter:'第六章 · 新朋友街区',title:'新朋友街区',subtitle:'把学过的问候，带到新的街区。',intro:'听清七个词的声音，再用句子认识朋友、邀请玩耍。',message:'Welcome 的导航任务完成，新的朋友发来了消息。沿着熟悉的六站路线继续出发，旧星光和营地都留着。',end:'本课新朋友任务完成啦！回营地可以兑换友谊纪念画，其他 Unit 1 内容继续按课加入。'}},words:[
   {
     "id": "friend",
     "word": "friend",

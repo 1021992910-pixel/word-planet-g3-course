@@ -1,5 +1,5 @@
 {
-  "version": "unit1-reused-experience-w22",
+  "version": "get-ready-textbook-coverage-w23",
   "files": [
     {
       "file": "action-lesson.css",
@@ -43,8 +43,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 28434,
-      "sha256": "69cdb473df7fe6ec83fad9f1162707af8c8ed4bcc96f3ba2b614cbb462ce41f2"
+      "bytes": 28531,
+      "sha256": "b0fa6e24fae6e8cb4aa1674bc0cf0d487f6c4d74505477868837ceace618aad3"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -500,6 +500,11 @@
       "file": "assets/audio/friend.mp3",
       "bytes": 11232,
       "sha256": "72ac44f90aad879d4b610597adff756c9546f41c5b7140b57d5e2dfb0c78e856"
+    },
+    {
+      "file": "assets/audio/get-ready-speech-provenance.json",
+      "bytes": 1336,
+      "sha256": "c72d42ef7656fcd4c40151cf2e772e87155c615602b97f41fe421d21eecea514"
     },
     {
       "file": "assets/audio/good-morning.mp3",
@@ -1252,6 +1257,11 @@
       "sha256": "ca598f286357ca5f0dfd6d9c484c1be5e8a6e7f09189e7b4c6031b5a9ebe8aa8"
     },
     {
+      "file": "assets/audio/u1-happy-day.mp3",
+      "bytes": 11232,
+      "sha256": "7f0eb6ba4fd8b4f710a7704fb4479fb02acdd7e17b9e849285f59f8b0afc82aa"
+    },
+    {
       "file": "assets/audio/unit1-reuse/clear-phonics-provenance.json",
       "bytes": 19048,
       "sha256": "daaee56c9a9ca9b3cc8c2124e21cd1e920fcee899a237beb85b521411e5d0119"
@@ -1457,14 +1467,24 @@
       "sha256": "7ccc01a679725b4e30fd63493095379454e43a146438b2469c445b9afd0f9869"
     },
     {
+      "file": "get-ready-support.css",
+      "bytes": 1807,
+      "sha256": "faee56158d4cbe3d58d17bd6e9cf73056434d9660c495c8b6fb775aad97800e9"
+    },
+    {
+      "file": "get-ready-support.js",
+      "bytes": 6847,
+      "sha256": "e9532f324430f002738474a009392ecff7b8e3a7f06dfe89e2b67ea1cb153b1d"
+    },
+    {
       "file": "guided-data.js",
       "bytes": 77157,
       "sha256": "76c84c2517d5a55dae4e3f328047e1f5bd43fe40ee8cf326eb11d95a5f800208"
     },
     {
       "file": "index.html",
-      "bytes": 7351,
-      "sha256": "d6a288cfd8fbddd8a36091443007b4bf319cc244dfc9b914fed67c553df58244"
+      "bytes": 7721,
+      "sha256": "c1c5aca6161f6f7831bc5f71cfd0433c8374f73ca00785e38159f7977cae1b5a"
     },
     {
       "file": "learning-sky.css",
@@ -1503,8 +1523,8 @@
     },
     {
       "file": "model.js",
-      "bytes": 7003,
-      "sha256": "f34a90cb879e1e12d04984ec7a240052f404869b1a8c6d42538f91e5cd72efb3"
+      "bytes": 7195,
+      "sha256": "9512ca8469412217a77067076373a66d819a44f4283a4c2a05a1992b21b49156"
     },
     {
       "file": "people-lesson.css",
@@ -1543,8 +1563,8 @@
     },
     {
       "file": "unit1-content.js",
-      "bytes": 54121,
-      "sha256": "a45ebb7c616962cda7b59188c270b073578528cb9d55f64421cc227383830fb9"
+      "bytes": 54137,
+      "sha256": "0bdc6b12272eda94123e6a74e5f7addf2492d39a658ec076a319758855c25092"
     },
     {
       "file": "制作规范与验收标准.md",
