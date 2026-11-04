@@ -1,5 +1,5 @@
 {
-  "version": "startup-w24",
+  "version": "audio-start-w25",
   "files": [
     {
       "file": "action-lesson.css",
@@ -38,13 +38,13 @@
     },
     {
       "file": "alphabet-lesson.js",
-      "bytes": 6181,
-      "sha256": "81f3741a1b8d4428319160dfabdbe4b536a6c6ad244c4f5b10b0f55e4e785fbc"
+      "bytes": 6197,
+      "sha256": "74990b58881453c81bba77a6e0920a7610604ea3b714380b5ecb301f7487bb94"
     },
     {
       "file": "app.js",
-      "bytes": 28729,
-      "sha256": "322c1c3c36f31b2ba12a4bad55d075e590b70fdf4c3d88ab16222a892c300bf2"
+      "bytes": 28874,
+      "sha256": "132d5d87101e372916c9c2d77193ca1487383a979cf359aebc1374d7190ecb03"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -1769,7 +1769,7 @@
     {
       "file": "index.html",
       "bytes": 8161,
-      "sha256": "9a673b28e4daa4aad7d814870a7082b5c80b73e514faa3bad7023a1a93561440"
+      "sha256": "a1f2d914392ac70b27240f0a64be3efe399416ec6b052e7c8381b22412f41f57"
     },
     {
       "file": "learning-sky.css",
