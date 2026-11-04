@@ -1,0 +1,338 @@
+{
+  "clips": {
+    "pen": {
+      "text": "pen.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "pen.mp3",
+      "words": [
+        {
+          "text": "pen",
+          "start": 0.152958,
+          "end": 0.667666
+        }
+      ]
+    },
+    "pencil": {
+      "text": "pencil.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "pencil.mp3",
+      "words": [
+        {
+          "text": "pencil",
+          "start": 0.152958,
+          "end": 0.932374
+        }
+      ]
+    },
+    "pencil-case": {
+      "text": "pencil case.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "pencil-case.mp3",
+      "words": [
+        {
+          "text": "pencil",
+          "start": 0.104416,
+          "end": 0.722082
+        },
+        {
+          "text": "case",
+          "start": 0.73675,
+          "end": 1.3985
+        }
+      ]
+    },
+    "bag": {
+      "text": "bag.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "bag.mp3",
+      "words": [
+        {
+          "text": "bag",
+          "start": 0.123541,
+          "end": 0.638249
+        }
+      ]
+    },
+    "ruler": {
+      "text": "ruler.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "ruler.mp3",
+      "words": [
+        {
+          "text": "ruler",
+          "start": 0.152958,
+          "end": 0.814708
+        }
+      ]
+    },
+    "eraser": {
+      "text": "eraser.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "eraser.mp3",
+      "words": [
+        {
+          "text": "eraser",
+          "start": 0.102208,
+          "end": 1.013958
+        }
+      ]
+    },
+    "pack": {
+      "text": "pack.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "pack.mp3",
+      "words": [
+        {
+          "text": "pack",
+          "start": 0.123541,
+          "end": 0.697082
+        }
+      ]
+    },
+    "school": {
+      "text": "school.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "school.mp3",
+      "words": [
+        {
+          "text": "school",
+          "start": 0.123541,
+          "end": 0.829416
+        }
+      ]
+    },
+    "thing": {
+      "text": "thing.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "thing.mp3",
+      "words": [
+        {
+          "text": "thing",
+          "start": 0.104416,
+          "end": 0.692666
+        }
+      ]
+    },
+    "for": {
+      "text": "for.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "for.mp3",
+      "words": [
+        {
+          "text": "for",
+          "start": 0.102208,
+          "end": 0.719874
+        }
+      ]
+    },
+    "u21-pen": {
+      "text": "Pack my pen.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-pen.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "my",
+          "start": 0.476458,
+          "end": 0.667624
+        },
+        {
+          "text": "pen",
+          "start": 0.682333,
+          "end": 1.255874
+        }
+      ]
+    },
+    "u21-pencil": {
+      "text": "Pack my pencil.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-pencil.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "my",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "pencil",
+          "start": 0.667666,
+          "end": 1.447082
+        }
+      ]
+    },
+    "u21-pencil-case": {
+      "text": "Pack my pencil case.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-pencil-case.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.104416,
+          "end": 0.472082
+        },
+        {
+          "text": "my",
+          "start": 0.48675,
+          "end": 0.663208
+        },
+        {
+          "text": "pencil",
+          "start": 0.677958,
+          "end": 1.222083
+        },
+        {
+          "text": "case",
+          "start": 1.23675,
+          "end": 1.869083
+        }
+      ]
+    },
+    "u21-bag": {
+      "text": "Pack my bag for school.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-bag.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.123541,
+          "end": 0.417666
+        },
+        {
+          "text": "my",
+          "start": 0.432333,
+          "end": 0.608791
+        },
+        {
+          "text": "bag",
+          "start": 0.623541,
+          "end": 1.005874
+        },
+        {
+          "text": "for",
+          "start": 1.020583,
+          "end": 1.167624
+        },
+        {
+          "text": "school",
+          "start": 1.182333,
+          "end": 1.814666
+        }
+      ]
+    },
+    "u21-book": {
+      "text": "Pack my book.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-book.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "my",
+          "start": 0.46175,
+          "end": 0.652916
+        },
+        {
+          "text": "book",
+          "start": 0.667666,
+          "end": 1.241207
+        }
+      ]
+    },
+    "u21-ruler": {
+      "text": "Pack my ruler.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-ruler.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.123541,
+          "end": 0.447082
+        },
+        {
+          "text": "my",
+          "start": 0.46175,
+          "end": 0.667625
+        },
+        {
+          "text": "ruler",
+          "start": 0.682333,
+          "end": 1.329374
+        }
+      ]
+    },
+    "u21-eraser": {
+      "text": "Pack my eraser.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-eraser.mp3",
+      "words": [
+        {
+          "text": "Pack",
+          "start": 0.104416,
+          "end": 0.486749
+        },
+        {
+          "text": "my",
+          "start": 0.501458,
+          "end": 0.707333
+        },
+        {
+          "text": "eraser",
+          "start": 0.722041,
+          "end": 1.545582
+        }
+      ]
+    },
+    "u21-school": {
+      "text": "My school things.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u21-school.mp3",
+      "words": [
+        {
+          "text": "My",
+          "start": 0.102208,
+          "end": 0.411041
+        },
+        {
+          "text": "school",
+          "start": 0.42575,
+          "end": 0.852208
+        },
+        {
+          "text": "things",
+          "start": 0.866916,
+          "end": 1.528666
+        }
+      ]
+    }
+  }
+}
