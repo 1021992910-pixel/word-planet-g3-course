@@ -1,0 +1,625 @@
+{
+  "clips": {
+    "back": {
+      "text": "back.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "back.mp3",
+      "words": [
+        {
+          "text": "back",
+          "start": 0.123541,
+          "end": 0.652957
+        }
+      ]
+    },
+    "look": {
+      "text": "look.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "look.mp3",
+      "words": [
+        {
+          "text": "look",
+          "start": 0.106625,
+          "end": 0.694875
+        }
+      ]
+    },
+    "please": {
+      "text": "please.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "please.mp3",
+      "words": [
+        {
+          "text": "please",
+          "start": 0.104416,
+          "end": 0.824999
+        }
+      ]
+    },
+    "there": {
+      "text": "there.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "there.mp3",
+      "words": [
+        {
+          "text": "there",
+          "start": 0.102208,
+          "end": 0.661041
+        }
+      ]
+    },
+    "u24-sam": {
+      "text": "Sam.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-sam.mp3",
+      "words": [
+        {
+          "text": "Sam",
+          "start": 0.123541,
+          "end": 0.755874
+        }
+      ]
+    },
+    "u24-at": {
+      "text": "At.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-at.mp3",
+      "words": [
+        {
+          "text": "At",
+          "start": 0.152958,
+          "end": 0.682374
+        }
+      ]
+    },
+    "u24-ruler-here": {
+      "text": "The ruler is here.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-ruler-here.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "ruler",
+          "start": 0.3,
+          "end": 0.829416
+        },
+        {
+          "text": "is",
+          "start": 0.844125,
+          "end": 1.079416
+        },
+        {
+          "text": "here",
+          "start": 1.094125,
+          "end": 1.608833
+        }
+      ]
+    },
+    "u24-pencil-there": {
+      "text": "The pencil is there.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-pencil-there.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "pencil",
+          "start": 0.3,
+          "end": 0.917666
+        },
+        {
+          "text": "is",
+          "start": 0.932333,
+          "end": 1.123499
+        },
+        {
+          "text": "there",
+          "start": 1.13825,
+          "end": 1.579416
+        }
+      ]
+    },
+    "u24-back": {
+      "text": "Sam, come back, please!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-back.mp3",
+      "words": [
+        {
+          "text": "Sam",
+          "start": 0.123541,
+          "end": 0.697082
+        },
+        {
+          "text": "come",
+          "start": 0.947041,
+          "end": 1.197041
+        },
+        {
+          "text": "back",
+          "start": 1.21175,
+          "end": 1.667625
+        },
+        {
+          "text": "please",
+          "start": 1.917666,
+          "end": 2.491207
+        }
+      ]
+    },
+    "u24-look": {
+      "text": "Look at the schoolbag!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-look.mp3",
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.102208,
+          "end": 0.440458
+        },
+        {
+          "text": "at",
+          "start": 0.455166,
+          "end": 0.602207
+        },
+        {
+          "text": "the",
+          "start": 0.616916,
+          "end": 0.734582
+        },
+        {
+          "text": "schoolbag",
+          "start": 0.74925,
+          "end": 1.631583
+        }
+      ]
+    },
+    "u24-found-ruler": {
+      "text": "I found a ruler.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-found-ruler.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "found",
+          "start": 0.314708,
+          "end": 0.726458
+        },
+        {
+          "text": "a",
+          "start": 0.741166,
+          "end": 0.799999
+        },
+        {
+          "text": "ruler",
+          "start": 0.814708,
+          "end": 1.461749
+        }
+      ]
+    },
+    "u24-found-pencil": {
+      "text": "I found a pencil.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-found-pencil.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "found",
+          "start": 0.314708,
+          "end": 0.711749
+        },
+        {
+          "text": "a",
+          "start": 0.726458,
+          "end": 0.799999
+        },
+        {
+          "text": "pencil",
+          "start": 0.814708,
+          "end": 1.564708
+        }
+      ]
+    },
+    "u24-found-eraser": {
+      "text": "I found an eraser.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-found-eraser.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "found",
+          "start": 0.314708,
+          "end": 0.785291
+        },
+        {
+          "text": "an",
+          "start": 0.8,
+          "end": 0.902958
+        },
+        {
+          "text": "eraser",
+          "start": 0.917666,
+          "end": 1.697082
+        }
+      ]
+    },
+    "u24-guess": {
+      "text": "What is it? Guess!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-guess.mp3",
+      "words": [
+        {
+          "text": "What",
+          "start": 0.13825,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.608832
+        },
+        {
+          "text": "it",
+          "start": 0.623541,
+          "end": 1.079416
+        },
+        {
+          "text": "Guess",
+          "start": 1.529416,
+          "end": 1.999999
+        }
+      ]
+    },
+    "u24-is-ruler": {
+      "text": "Is it a ruler?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u24-is-ruler.mp3",
+      "words": [
+        {
+          "text": "Is",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "it",
+          "start": 0.3,
+          "end": 0.46175
+        },
+        {
+          "text": "a",
+          "start": 0.476458,
+          "end": 0.564708
+        },
+        {
+          "text": "ruler",
+          "start": 0.579416,
+          "end": 1.241166
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "back": [
+        [
+          "b",
+          "a",
+          "ck"
+        ],
+        [
+          "clear-b",
+          "clear-a",
+          "clear-k"
+        ],
+        "a 在 back 里发短音 /æ/，ck 合起来只发一个 /k/。"
+      ],
+      "look": [
+        [
+          "l",
+          "oo",
+          "k"
+        ],
+        [
+          "clear-l",
+          "clear-short-oo",
+          "clear-k"
+        ],
+        "oo 在 look 里发短音 /ʊ/，和 book 里的 oo 一样。"
+      ],
+      "please": [
+        [
+          "p",
+          "l",
+          "ea",
+          "s",
+          "e"
+        ],
+        [
+          "clear-p",
+          "clear-l",
+          "sound-ee",
+          "clear-z",
+          null
+        ],
+        "ea 在 please 里发 /iː/，s 读 /z/，最后的 e 不另发音。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "back": {
+        "audio": "guided-back",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "a",
+          "ck"
+        ],
+        "sounds": [
+          "clear-b",
+          "clear-a",
+          "clear-k"
+        ],
+        "hint": "a 在 back 里发短音 /æ/，ck 合起来只发一个 /k/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.177,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-a"
+          },
+          {
+            "start": 0.177,
+            "end": 0.242,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.242,
+            "end": 0.962,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.242,
+                "end": 0.40620833333333334
+              },
+              {
+                "index": 1,
+                "start": 0.40620833333333334,
+                "end": 0.7851666666666667
+              },
+              {
+                "index": 2,
+                "start": 0.7851666666666667,
+                "end": 0.962
+              }
+            ]
+          },
+          {
+            "start": 0.962,
+            "end": 1.442,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.442
+      },
+      "look": {
+        "audio": "guided-look",
+        "kind": "phonics",
+        "parts": [
+          "l",
+          "oo",
+          "k"
+        ],
+        "sounds": [
+          "clear-l",
+          "clear-short-oo",
+          "clear-k"
+        ],
+        "hint": "oo 在 look 里发短音 /ʊ/，和 book 里的 oo 一样。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.085,
+            "end": 0.24,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-short-oo"
+          },
+          {
+            "start": 0.24,
+            "end": 0.305,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.305,
+            "end": 1.055,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.305,
+                "end": 0.52275
+              },
+              {
+                "index": 1,
+                "start": 0.52275,
+                "end": 0.885625
+              },
+              {
+                "index": 2,
+                "start": 0.885625,
+                "end": 1.055
+              }
+            ]
+          },
+          {
+            "start": 1.055,
+            "end": 1.555,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.555
+      },
+      "please": {
+        "audio": "guided-please",
+        "kind": "phonics",
+        "parts": [
+          "p",
+          "l",
+          "ea",
+          "s",
+          "e"
+        ],
+        "sounds": [
+          "clear-p",
+          "clear-l",
+          "sound-ee",
+          "clear-z",
+          null
+        ],
+        "hint": "ea 在 please 里发 /iː/，s 读 /z/，最后的 e 不另发音。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.04,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-p"
+          },
+          {
+            "start": 0.04,
+            "end": 0.125,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.125,
+            "end": 0.455,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "sound-ee"
+          },
+          {
+            "start": 0.455,
+            "end": 0.605,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-z"
+          },
+          {
+            "start": 0.605,
+            "end": 1.525,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.605,
+                "end": 0.7304583333333333
+              },
+              {
+                "index": 1,
+                "start": 0.7304583333333333,
+                "end": 0.8872916666666667
+              },
+              {
+                "index": 2,
+                "start": 0.8872916666666667,
+                "end": 1.263625
+              },
+              {
+                "index": 3,
+                "start": 1.263625,
+                "end": 1.525
+              }
+            ]
+          },
+          {
+            "start": 1.525,
+            "end": 2.145,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.145
+      },
+      "there": {
+        "audio": "guided-there",
+        "kind": "context-word",
+        "parts": [
+          "there"
+        ],
+        "hint": "there 在这里表示“在那儿”。用手指一指较远的物品，再和 here 对比。",
+        "duration": 5.44,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.49,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 0.99,
+            "end": 2.44,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  }
+}

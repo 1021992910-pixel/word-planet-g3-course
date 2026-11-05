@@ -12,6 +12,7 @@ CAMP_SOUVENIRS.push({id:'friendship-star',name:'友谊星徽章',icon:'✦',cost
 CAMP_SOUVENIRS.push({id:'school-supply-memory',name:'收纳纪念画',icon:'▣',cost:60,unlockLesson:'unit2-01',description:'把认真收好学习用品的时刻挂进营地',scene:'u2-packing',lessonLabel:'Unit 2 第1课'});
 CAMP_SOUVENIRS.push({id:'guessing-memory',name:'猜物纪念画',icon:'?',cost:60,unlockLesson:'unit2-02',description:'把画一画、猜一猜的快乐时刻留在共同营地',scene:'u2-portrait',lessonLabel:'Unit 2 第2课'});
 CAMP_SOUVENIRS.push({id:'lost-return-memory',name:'归还纪念画',icon:'✦',cost:60,unlockLesson:'unit2-03',description:'把海底招领站归还学习用品的时刻挂进共同营地',scene:'u2-lost-return',lessonLabel:'Unit 2 第3课'});
+CAMP_SOUVENIRS.push({id:'schoolbag-memory',name:'书包纪念画',icon:'✦',cost:60,unlockLesson:'unit2-04',description:'记下和伙伴找回用品的校园小路',scene:'u2-bag-fuel',lessonLabel:'Unit 2 第4课'});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},
