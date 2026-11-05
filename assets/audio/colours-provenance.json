@@ -1,0 +1,1424 @@
+{
+  "clips": {
+    "red": {
+      "text": "red.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "red.mp3",
+      "words": [
+        {
+          "text": "red",
+          "start": 0.106625,
+          "end": 0.65075
+        }
+      ]
+    },
+    "pink": {
+      "text": "pink.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "pink.mp3",
+      "words": [
+        {
+          "text": "pink",
+          "start": 0.152958,
+          "end": 0.726499
+        }
+      ]
+    },
+    "green": {
+      "text": "green.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "green.mp3",
+      "words": [
+        {
+          "text": "green",
+          "start": 0.102208,
+          "end": 0.749249
+        }
+      ]
+    },
+    "yellow": {
+      "text": "yellow.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "yellow.mp3",
+      "words": [
+        {
+          "text": "yellow",
+          "start": 0.104416,
+          "end": 0.766166
+        }
+      ]
+    },
+    "orange": {
+      "text": "orange.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "orange.mp3",
+      "words": [
+        {
+          "text": "orange",
+          "start": 0.152958,
+          "end": 0.888249
+        }
+      ]
+    },
+    "blue": {
+      "text": "blue.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "blue.mp3",
+      "words": [
+        {
+          "text": "blue",
+          "start": 0.102208,
+          "end": 0.705166
+        }
+      ]
+    },
+    "purple": {
+      "text": "purple.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "purple.mp3",
+      "words": [
+        {
+          "text": "purple",
+          "start": 0.123541,
+          "end": 0.888249
+        }
+      ]
+    },
+    "colourful": {
+      "text": "colourful.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "colourful.mp3",
+      "words": [
+        {
+          "text": "colourful",
+          "start": 0.152958,
+          "end": 1.005916
+        }
+      ]
+    },
+    "world": {
+      "text": "world.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "world.mp3",
+      "words": [
+        {
+          "text": "world",
+          "start": 0.152958,
+          "end": 0.858833
+        }
+      ]
+    },
+    "hooray": {
+      "text": "hooray.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "hooray.mp3",
+      "words": [
+        {
+          "text": "hooray",
+          "start": 0.13825,
+          "end": 0.785291
+        }
+      ]
+    },
+    "umbrella": {
+      "text": "umbrella.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "umbrella.mp3",
+      "words": [
+        {
+          "text": "umbrella",
+          "start": 0.123541,
+          "end": 1.005874
+        }
+      ]
+    },
+    "clothes": {
+      "text": "clothes.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "clothes.mp3",
+      "words": [
+        {
+          "text": "clothes",
+          "start": 0.102208,
+          "end": 0.955166
+        }
+      ]
+    },
+    "rainbow": {
+      "text": "rainbow.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "rainbow.mp3",
+      "words": [
+        {
+          "text": "rainbow",
+          "start": 0.104416,
+          "end": 0.972082
+        }
+      ]
+    },
+    "u31-title": {
+      "text": "It's a colourful world!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-title.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.123541,
+          "end": 0.358832
+        },
+        {
+          "text": "a",
+          "start": 0.373541,
+          "end": 0.447082
+        },
+        {
+          "text": "colourful",
+          "start": 0.46175,
+          "end": 1.138208
+        },
+        {
+          "text": "world",
+          "start": 1.152958,
+          "end": 1.755916
+        }
+      ]
+    },
+    "u31-hooray": {
+      "text": "Hooray! The rain has stopped!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-hooray.mp3",
+      "words": [
+        {
+          "text": "Hooray",
+          "start": 0.108833,
+          "end": 0.608833
+        },
+        {
+          "text": "The",
+          "start": 1.073541,
+          "end": 1.205874
+        },
+        {
+          "text": "rain",
+          "start": 1.220583,
+          "end": 1.617624
+        },
+        {
+          "text": "has",
+          "start": 1.632333,
+          "end": 1.867624
+        },
+        {
+          "text": "stopped",
+          "start": 1.882333,
+          "end": 2.514666
+        }
+      ]
+    },
+    "u31-umbrellas": {
+      "text": "I can see four umbrellas.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-umbrellas.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.270624
+        },
+        {
+          "text": "can",
+          "start": 0.285291,
+          "end": 0.520582
+        },
+        {
+          "text": "see",
+          "start": 0.535291,
+          "end": 0.844124
+        },
+        {
+          "text": "four",
+          "start": 0.858833,
+          "end": 1.197083
+        },
+        {
+          "text": "umbrellas",
+          "start": 1.21175,
+          "end": 2.108791
+        }
+      ]
+    },
+    "u31-clothes": {
+      "text": "Our clothes are colourful.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-clothes.mp3",
+      "words": [
+        {
+          "text": "Our",
+          "start": 0.13825,
+          "end": 0.373541
+        },
+        {
+          "text": "clothes",
+          "start": 0.38825,
+          "end": 0.991208
+        },
+        {
+          "text": "are",
+          "start": 1.005875,
+          "end": 1.079416
+        },
+        {
+          "text": "colourful",
+          "start": 1.094125,
+          "end": 1.917666
+        }
+      ]
+    },
+    "u31-rainbow": {
+      "text": "There is a rainbow in the sky.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-rainbow.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "is",
+          "start": 0.314708,
+          "end": 0.491166
+        },
+        {
+          "text": "a",
+          "start": 0.505875,
+          "end": 0.594125
+        },
+        {
+          "text": "rainbow",
+          "start": 0.608833,
+          "end": 1.197083
+        },
+        {
+          "text": "in",
+          "start": 1.21175,
+          "end": 1.344083
+        },
+        {
+          "text": "the",
+          "start": 1.358833,
+          "end": 1.476499
+        },
+        {
+          "text": "sky",
+          "start": 1.491166,
+          "end": 2.108832
+        }
+      ]
+    },
+    "u31-red": {
+      "text": "This umbrella is red.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-red.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.102208,
+          "end": 0.499249
+        },
+        {
+          "text": "umbrella",
+          "start": 0.513958,
+          "end": 1.219833
+        },
+        {
+          "text": "is",
+          "start": 1.234541,
+          "end": 1.469832
+        },
+        {
+          "text": "red",
+          "start": 1.484541,
+          "end": 2.043374
+        }
+      ]
+    },
+    "u31-pink": {
+      "text": "This umbrella is pink.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-pink.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.432374
+        },
+        {
+          "text": "umbrella",
+          "start": 0.447041,
+          "end": 1.123499
+        },
+        {
+          "text": "is",
+          "start": 1.13825,
+          "end": 1.373541
+        },
+        {
+          "text": "pink",
+          "start": 1.38825,
+          "end": 2.020583
+        }
+      ]
+    },
+    "u31-green": {
+      "text": "This umbrella is green.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-green.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.102208,
+          "end": 0.484541
+        },
+        {
+          "text": "umbrella",
+          "start": 0.49925,
+          "end": 1.161
+        },
+        {
+          "text": "is",
+          "start": 1.17575,
+          "end": 1.396333
+        },
+        {
+          "text": "green",
+          "start": 1.411041,
+          "end": 1.999291
+        }
+      ]
+    },
+    "u31-yellow": {
+      "text": "This umbrella is yellow.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-yellow.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.123541,
+          "end": 0.461791
+        },
+        {
+          "text": "umbrella",
+          "start": 0.476458,
+          "end": 1.197041
+        },
+        {
+          "text": "is",
+          "start": 1.21175,
+          "end": 1.432333
+        },
+        {
+          "text": "yellow",
+          "start": 1.447041,
+          "end": 2.020582
+        }
+      ]
+    },
+    "u31-orange": {
+      "text": "The raincoat is orange.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-orange.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.102208,
+          "end": 0.308083
+        },
+        {
+          "text": "raincoat",
+          "start": 0.322791,
+          "end": 1.013957
+        },
+        {
+          "text": "is",
+          "start": 1.028666,
+          "end": 1.205124
+        },
+        {
+          "text": "orange",
+          "start": 1.219833,
+          "end": 1.881583
+        }
+      ]
+    },
+    "u31-blue": {
+      "text": "The jumper is blue.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-blue.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.102208,
+          "end": 0.322791
+        },
+        {
+          "text": "jumper",
+          "start": 0.3375,
+          "end": 0.866916
+        },
+        {
+          "text": "is",
+          "start": 0.881625,
+          "end": 1.116916
+        },
+        {
+          "text": "blue",
+          "start": 1.131625,
+          "end": 1.67575
+        }
+      ]
+    },
+    "u31-purple": {
+      "text": "The scarf is purple.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-purple.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "scarf",
+          "start": 0.3,
+          "end": 0.829416
+        },
+        {
+          "text": "is",
+          "start": 0.844125,
+          "end": 1.020583
+        },
+        {
+          "text": "purple",
+          "start": 1.035291,
+          "end": 1.755874
+        }
+      ]
+    },
+    "u31-point": {
+      "text": "Look! I can see green.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u31-point.mp3",
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.13825,
+          "end": 0.579416
+        },
+        {
+          "text": "I",
+          "start": 1.044125,
+          "end": 1.176458
+        },
+        {
+          "text": "can",
+          "start": 1.191166,
+          "end": 1.441166
+        },
+        {
+          "text": "see",
+          "start": 1.455875,
+          "end": 1.720583
+        },
+        {
+          "text": "green",
+          "start": 1.735291,
+          "end": 2.338249
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "red": [
+        [
+          "r",
+          "e",
+          "d"
+        ],
+        [
+          "clear-r",
+          "clear-e",
+          "clear-d"
+        ],
+        "e 在 red 里发短音 /e/。"
+      ],
+      "pink": [
+        [
+          "p",
+          "i",
+          "n",
+          "k"
+        ],
+        [
+          "clear-p",
+          "clear-ih",
+          "clear-ng",
+          "clear-k"
+        ],
+        "n 在 pink 里和后面的 k 连读，发 /ŋ/，再轻轻收在 /k/。"
+      ],
+      "green": [
+        [
+          "g",
+          "r",
+          "ee",
+          "n"
+        ],
+        [
+          "clear-g",
+          "clear-r",
+          "sound-ee",
+          "clear-n"
+        ],
+        "ee 合读长音 /iː/。"
+      ],
+      "yellow": [
+        [
+          "y",
+          "e",
+          "ll",
+          "ow"
+        ],
+        [
+          "clear-j",
+          "clear-e",
+          "clear-l",
+          "clear-oh"
+        ],
+        "先听 yel 和 low 两拍。ll 对应一个 /l/，ow 在这里读 /əʊ/。"
+      ],
+      "orange": [
+        [
+          "o",
+          "r",
+          "a",
+          "n",
+          "ge"
+        ],
+        [
+          "startup-short-o",
+          "clear-r",
+          "clear-ih",
+          "clear-n",
+          "colour-j"
+        ],
+        "orange 前一拍重，结尾 ge 在这个词里读 /dʒ/。"
+      ],
+      "blue": [
+        [
+          "b",
+          "l",
+          "ue"
+        ],
+        [
+          "clear-b",
+          "clear-l",
+          "clear-u"
+        ],
+        "b 和 l 连起来，ue 在这个词里读长音 /uː/。"
+      ],
+      "purple": [
+        [
+          "p",
+          "ur",
+          "p",
+          "le"
+        ],
+        [
+          "clear-p",
+          "colour-er",
+          "clear-p",
+          "colour-le"
+        ],
+        "先听 pur 和 ple 两拍。ur 读 /ɜː/，le 在词尾轻读 /əl/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "red": {
+        "audio": "guided-red",
+        "kind": "phonics",
+        "parts": [
+          "r",
+          "e",
+          "d"
+        ],
+        "sounds": [
+          "clear-r",
+          "clear-e",
+          "clear-d"
+        ],
+        "hint": "e 在 red 里发短音 /e/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.085,
+            "end": 0.275,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-e"
+          },
+          {
+            "start": 0.275,
+            "end": 0.3009583333333333,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-d"
+          },
+          {
+            "start": 0.3009583333333333,
+            "end": 1.0309583333333334,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.3009583333333333,
+                "end": 0.47791666666666666
+              },
+              {
+                "index": 1,
+                "start": 0.47791666666666666,
+                "end": 0.876125
+              },
+              {
+                "index": 2,
+                "start": 0.876125,
+                "end": 1.0309583333333334
+              }
+            ]
+          },
+          {
+            "start": 1.0309583333333334,
+            "end": 1.5309583333333334,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.5309583333333334
+      },
+      "pink": {
+        "audio": "guided-pink",
+        "kind": "phonics",
+        "parts": [
+          "p",
+          "i",
+          "n",
+          "k"
+        ],
+        "sounds": [
+          "clear-p",
+          "clear-ih",
+          "clear-ng",
+          "clear-k"
+        ],
+        "hint": "n 在 pink 里和后面的 k 连读，发 /ŋ/，再轻轻收在 /k/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.04,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-p"
+          },
+          {
+            "start": 0.04,
+            "end": 0.15,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.15,
+            "end": 0.305,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-ng"
+          },
+          {
+            "start": 0.305,
+            "end": 0.37,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.37,
+            "end": 1.14,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.37,
+                "end": 0.4769583333333333
+              },
+              {
+                "index": 1,
+                "start": 0.4769583333333333,
+                "end": 0.829875
+              },
+              {
+                "index": 2,
+                "start": 0.829875,
+                "end": 1.0116666666666667
+              },
+              {
+                "index": 3,
+                "start": 1.0116666666666667,
+                "end": 1.14
+              }
+            ]
+          },
+          {
+            "start": 1.14,
+            "end": 1.65,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.65
+      },
+      "green": {
+        "audio": "guided-green",
+        "kind": "phonics",
+        "parts": [
+          "g",
+          "r",
+          "ee",
+          "n"
+        ],
+        "sounds": [
+          "clear-g",
+          "clear-r",
+          "sound-ee",
+          "clear-n"
+        ],
+        "hint": "ee 合读长音 /iː/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.027,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-g"
+          },
+          {
+            "start": 0.027,
+            "end": 0.112,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.112,
+            "end": 0.442,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "sound-ee"
+          },
+          {
+            "start": 0.442,
+            "end": 0.547,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.547,
+            "end": 1.337,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.547,
+                "end": 0.6655
+              },
+              {
+                "index": 1,
+                "start": 0.6655,
+                "end": 0.80375
+              },
+              {
+                "index": 2,
+                "start": 0.80375,
+                "end": 1.179
+              },
+              {
+                "index": 3,
+                "start": 1.179,
+                "end": 1.337
+              }
+            ]
+          },
+          {
+            "start": 1.337,
+            "end": 1.857,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.857
+      },
+      "yellow": {
+        "audio": "guided-yellow",
+        "kind": "phonics",
+        "parts": [
+          "y",
+          "e",
+          "ll",
+          "ow"
+        ],
+        "sounds": [
+          "clear-j",
+          "clear-e",
+          "clear-l",
+          "clear-oh"
+        ],
+        "hint": "先听 yel 和 low 两拍。ll 对应一个 /l/，ow 在这里读 /əʊ/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.08,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-j"
+          },
+          {
+            "start": 0.08,
+            "end": 0.27,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-e"
+          },
+          {
+            "start": 0.27,
+            "end": 0.355,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.355,
+            "end": 0.695,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-oh"
+          },
+          {
+            "start": 0.695,
+            "end": 1.585,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.695,
+                "end": 0.795
+              },
+              {
+                "index": 1,
+                "start": 0.795,
+                "end": 1.0
+              },
+              {
+                "index": 2,
+                "start": 1.0,
+                "end": 1.066
+              },
+              {
+                "index": 3,
+                "start": 1.066,
+                "end": 1.585
+              }
+            ]
+          },
+          {
+            "start": 1.585,
+            "end": 2.175,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.175,
+        "syllables": [
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "orange": {
+        "audio": "guided-orange",
+        "kind": "phonics",
+        "parts": [
+          "o",
+          "r",
+          "a",
+          "n",
+          "ge"
+        ],
+        "sounds": [
+          "startup-short-o",
+          "clear-r",
+          "clear-ih",
+          "clear-n",
+          "colour-j"
+        ],
+        "hint": "orange 前一拍重，结尾 ge 在这个词里读 /dʒ/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.18,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "startup-short-o"
+          },
+          {
+            "start": 0.18,
+            "end": 0.265,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.265,
+            "end": 0.375,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.375,
+            "end": 0.48,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.48,
+            "end": 0.698,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "colour-j"
+          },
+          {
+            "start": 0.698,
+            "end": 1.778,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.698,
+                "end": 0.893
+              },
+              {
+                "index": 1,
+                "start": 0.893,
+                "end": 1.008
+              },
+              {
+                "index": 2,
+                "start": 1.008,
+                "end": 1.176
+              },
+              {
+                "index": 3,
+                "start": 1.176,
+                "end": 1.456
+              },
+              {
+                "index": 4,
+                "start": 1.456,
+                "end": 1.778
+              }
+            ]
+          },
+          {
+            "start": 1.778,
+            "end": 2.488,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.488,
+        "syllables": [
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "blue": {
+        "audio": "guided-blue",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "l",
+          "ue"
+        ],
+        "sounds": [
+          "clear-b",
+          "clear-l",
+          "clear-u"
+        ],
+        "hint": "b 和 l 连起来，ue 在这个词里读长音 /uː/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.107,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.107,
+            "end": 0.457,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-u"
+          },
+          {
+            "start": 0.457,
+            "end": 1.187,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.457,
+                "end": 0.59175
+              },
+              {
+                "index": 1,
+                "start": 0.59175,
+                "end": 0.73775
+              },
+              {
+                "index": 2,
+                "start": 0.73775,
+                "end": 1.187
+              }
+            ]
+          },
+          {
+            "start": 1.187,
+            "end": 1.667,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.667
+      },
+      "purple": {
+        "audio": "guided-purple",
+        "kind": "phonics",
+        "parts": [
+          "p",
+          "ur",
+          "p",
+          "le"
+        ],
+        "sounds": [
+          "clear-p",
+          "colour-er",
+          "clear-p",
+          "colour-le"
+        ],
+        "hint": "先听 pur 和 ple 两拍。ur 读 /ɜː/，le 在词尾轻读 /əl/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.04,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-p"
+          },
+          {
+            "start": 0.04,
+            "end": 0.482,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "colour-er"
+          },
+          {
+            "start": 0.482,
+            "end": 0.522,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-p"
+          },
+          {
+            "start": 0.522,
+            "end": 0.849,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "colour-le"
+          },
+          {
+            "start": 0.849,
+            "end": 1.829,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.849,
+                "end": 0.949
+              },
+              {
+                "index": 1,
+                "start": 0.949,
+                "end": 1.309
+              },
+              {
+                "index": 2,
+                "start": 1.309,
+                "end": 1.429
+              },
+              {
+                "index": 3,
+                "start": 1.429,
+                "end": 1.829
+              }
+            ]
+          },
+          {
+            "start": 1.829,
+            "end": 2.479,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.479,
+        "syllables": [
+          [
+            3,
+            1
+          ]
+        ]
+      },
+      "colourful": {
+        "audio": "guided-colourful",
+        "kind": "context-word",
+        "parts": [
+          "colourful"
+        ],
+        "hint": "colourful 表示色彩丰富。看看画面里有哪些颜色。",
+        "duration": 5.89,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.78,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.28,
+            "end": 2.89,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "world": {
+        "audio": "guided-world",
+        "kind": "context-word",
+        "parts": [
+          "world"
+        ],
+        "hint": "world 指我们生活的世界。和 colourful 放在一起听。",
+        "duration": 5.78,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.67,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.17,
+            "end": 2.78,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "hooray": {
+        "audio": "guided-hooray",
+        "kind": "context-word",
+        "parts": [
+          "hooray"
+        ],
+        "hint": "开心、庆祝时可以喊 Hooray!",
+        "duration": 6.4,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.58,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.08,
+            "end": 3.4,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "umbrella": {
+        "audio": "guided-umbrella",
+        "kind": "context-word",
+        "parts": [
+          "umbrella"
+        ],
+        "hint": "umbrella 是一把伞。看到好几把伞时，会听到 umbrellas。",
+        "duration": 6.24,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.81,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.31,
+            "end": 3.24,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "clothes": {
+        "audio": "guided-clothes",
+        "kind": "context-word",
+        "parts": [
+          "clothes"
+        ],
+        "hint": "clothes 表示衣服。听整词，再看看图里的衣服。",
+        "duration": 5.94,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.74,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.24,
+            "end": 2.94,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "rainbow": {
+        "audio": "guided-rainbow",
+        "kind": "context-word",
+        "parts": [
+          "rainbow"
+        ],
+        "hint": "rainbow 是彩虹。试着指一指窗外的彩虹。",
+        "duration": 6.21,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.77,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.27,
+            "end": 3.21,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  },
+  "isolatedClips": {
+    "colour-er": {
+      "voice": "en-GB-LibbyNeural",
+      "carrier": "Bird.",
+      "ipa": "ɜː",
+      "startMs": 305,
+      "endMs": 747
+    },
+    "colour-j": {
+      "voice": "en-GB-LibbyNeural",
+      "carrier": "Age.",
+      "ipa": "dʒ",
+      "startMs": 675,
+      "endMs": 893
+    },
+    "colour-le": {
+      "voice": "en-GB-LibbyNeural",
+      "carrier": "Purple.",
+      "ipa": "əl",
+      "startMs": 721,
+      "endMs": 1048
+    }
+  },
+  "syllablePreviews": {
+    "yellow": {
+      "letterBoundary": 3,
+      "approximateTrimmedModelMs": 371
+    },
+    "orange": {
+      "letterBoundary": 2,
+      "approximateTrimmedModelMs": 310
+    },
+    "purple": {
+      "letterBoundary": 3,
+      "approximateTrimmedModelMs": 460
+    }
+  }
+}

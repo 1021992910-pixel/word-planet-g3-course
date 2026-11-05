@@ -15,6 +15,7 @@ CAMP_SOUVENIRS.push({id:'lost-return-memory',name:'归还纪念画',icon:'✦',c
 CAMP_SOUVENIRS.push({id:'schoolbag-memory',name:'书包纪念画',icon:'✦',cost:60,unlockLesson:'unit2-04',description:'记下和伙伴找回用品的校园小路',scene:'u2-bag-fuel',lessonLabel:'Unit 2 第4课'});
 CAMP_SOUVENIRS.push({id:'design-studio-memory',name:'文具设计纪念画',icon:'✦',cost:60,unlockLesson:'unit2-05',description:'记下和伙伴展示设计的时刻',scene:'u2-design-studio',lessonLabel:'Unit 2 第5课'});
 CAMP_SOUVENIRS.push({id:'writing-tools-memory',name:'书写工具纪念画',icon:'✦',cost:60,unlockLesson:'unit2-06',description:'把三种书写工具的对照图挂到营地',scene:'u2-writing-tools',lessonLabel:'Unit 2 第6课'});
+CAMP_SOUVENIRS.push({id:"rainbow-window-memory",name:"彩虹窗景纪念画",icon:"✦",cost:60,unlockLesson:"unit3-01",description:"把雨后窗外的彩虹挂进营地",scene:"u3-clothes",lessonLabel:"Unit 3 第1课"});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},
