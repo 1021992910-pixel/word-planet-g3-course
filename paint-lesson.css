@@ -1,0 +1,14 @@
+.paint-listening {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: .75rem;
+  margin-block: .75rem;
+}
+.paint-listening article {
+  padding: .75rem;
+  border: 1px solid #182c3b30;
+  border-radius: .75rem;
+}
+.paint-listening details {
+  margin-block-start: .65rem;
+}
