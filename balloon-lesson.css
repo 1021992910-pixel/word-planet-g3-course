@@ -1,0 +1,39 @@
+.balloon-patterns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: .75rem;
+}
+.balloon-patterns article {
+  padding: .75rem;
+  border: 1px solid #182c3b30;
+  border-radius: .75rem;
+}
+.balloon-pattern-row,
+.balloon-letters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-block: .6rem;
+  padding: 0;
+  list-style: none;
+}
+.balloon-pattern-row li,
+.balloon-letters li {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .25rem;
+  min-width: 1.55rem;
+  min-height: 1.55rem;
+  padding-inline: .2rem;
+}
+.balloon-pattern-missing,
+.balloon-letters li {
+  border: 1px solid #182c3b30;
+  border-radius: .35rem;
+}
+.balloon-letters b {
+  color: var(--letter-colour);
+  font-size: 1.25rem;
+  -webkit-text-stroke: .5px #182c3b;
+}
