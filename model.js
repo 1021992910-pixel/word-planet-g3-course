@@ -6,7 +6,7 @@ const CourseModel=(()=>{
   const s=lessonBlank();if(!raw||typeof raw!=='object')return s;
   if(COURSE.lessonId==='unit1-01')s.getReady=GetReadyModel.sanitize(raw.getReady);
   if(COURSE.poster)s.poster=PosterModel.sanitize(raw.poster);
-  if(COURSE.wrap)s.wrap=WrapModel.sanitize(raw.wrap);
+  if(COURSE.wrap||COURSE.schoolWrap)s.wrap=WrapModel.sanitize(raw.wrap,COURSE.schoolWrap?SCHOOL_WRAP_CHECKS:undefined);
   if(COURSE.design)s.design=DesignModel.sanitize(raw.design);
   for(const key of ['scene','coach','stage','atlasGroup']){const max=key==='scene'?SCENES.length-1:key==='coach'?LearningSky.catalog().length-1:key==='atlasGroup'?(COURSE.wordGroups?.length||1)-1:3;s[key]=Number.isInteger(raw[key])?Math.max(0,Math.min(max,raw[key])):0;}
   s.heard=Array.isArray(raw.heard)?[...new Set(raw.heard.filter(x=>SCENES.some(t=>t.audio===x)))]:[];
@@ -62,7 +62,7 @@ const CourseModel=(()=>{
    if((l.run?.index||0)>(r.run?.index||0))r.run=l.run;
    r.getReady=GetReadyModel.merge(l.getReady,r.getReady);
    r.poster=PosterModel.merge(l.poster,r.poster);
-   r.wrap=WrapModel.merge(l.wrap,r.wrap);
+   r.wrap=WrapModel.merge(l.wrap,r.wrap,COURSE.schoolWrap?SCHOOL_WRAP_CHECKS:undefined);
    r.design=DesignModel.merge(l.design,r.design);
    r.heard=[...new Set([...l.heard,...r.heard])];r.guided=[...new Set([...l.guided,...r.guided])];
   }

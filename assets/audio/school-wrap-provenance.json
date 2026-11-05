@@ -1,0 +1,363 @@
+{
+  "clips": {
+    "brush": {
+      "text": "Brush.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "brush.mp3",
+      "words": [
+        {
+          "text": "Brush",
+          "start": 0.102208,
+          "end": 0.778666
+        }
+      ]
+    },
+    "quill": {
+      "text": "Quill.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "quill.mp3",
+      "words": [
+        {
+          "text": "Quill",
+          "start": 0.123541,
+          "end": 0.726499
+        }
+      ]
+    },
+    "u26-brush": {
+      "text": "It's a brush.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-brush.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.152958,
+          "end": 0.373541
+        },
+        {
+          "text": "a",
+          "start": 0.38825,
+          "end": 0.4765
+        },
+        {
+          "text": "brush",
+          "start": 0.491166,
+          "end": 1.138207
+        }
+      ]
+    },
+    "u26-quill": {
+      "text": "It's a quill.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-quill.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.152958,
+          "end": 0.373541
+        },
+        {
+          "text": "a",
+          "start": 0.38825,
+          "end": 0.4765
+        },
+        {
+          "text": "quill",
+          "start": 0.491166,
+          "end": 1.064707
+        }
+      ]
+    },
+    "u26-schoolbag": {
+      "text": "It's a schoolbag.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-schoolbag.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.104416,
+          "end": 0.383832
+        },
+        {
+          "text": "a",
+          "start": 0.398541,
+          "end": 0.486791
+        },
+        {
+          "text": "schoolbag",
+          "start": 0.501458,
+          "end": 1.442624
+        }
+      ]
+    },
+    "u26-is-book": {
+      "text": "Is it a book?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-is-book.mp3",
+      "words": [
+        {
+          "text": "Is",
+          "start": 0.123541,
+          "end": 0.285291
+        },
+        {
+          "text": "it",
+          "start": 0.3,
+          "end": 0.46175
+        },
+        {
+          "text": "a",
+          "start": 0.476458,
+          "end": 0.579416
+        },
+        {
+          "text": "book",
+          "start": 0.594125,
+          "end": 1.182375
+        }
+      ]
+    },
+    "u26-use": {
+      "text": "What do they use?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-use.mp3",
+      "words": [
+        {
+          "text": "What",
+          "start": 0.123541,
+          "end": 0.388249
+        },
+        {
+          "text": "do",
+          "start": 0.402958,
+          "end": 0.549999
+        },
+        {
+          "text": "they",
+          "start": 0.564708,
+          "end": 0.741166
+        },
+        {
+          "text": "use",
+          "start": 0.755875,
+          "end": 1.476458
+        }
+      ]
+    },
+    "u26-my-pen": {
+      "text": "This is my pen.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-my-pen.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.432374
+        },
+        {
+          "text": "is",
+          "start": 0.447041,
+          "end": 0.608791
+        },
+        {
+          "text": "my",
+          "start": 0.623541,
+          "end": 0.829416
+        },
+        {
+          "text": "pen",
+          "start": 0.844125,
+          "end": 1.432375
+        }
+      ]
+    },
+    "u26-list": {
+      "text": "I have a pen, a ruler and an eraser.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u26-list.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.255916
+        },
+        {
+          "text": "have",
+          "start": 0.270583,
+          "end": 0.520583
+        },
+        {
+          "text": "a",
+          "start": 0.535291,
+          "end": 0.638249
+        },
+        {
+          "text": "pen",
+          "start": 0.652958,
+          "end": 1.167666
+        },
+        {
+          "text": "a",
+          "start": 1.520583,
+          "end": 1.564708
+        },
+        {
+          "text": "ruler",
+          "start": 1.579416,
+          "end": 2.167666
+        },
+        {
+          "text": "and",
+          "start": 2.270583,
+          "end": 2.447041
+        },
+        {
+          "text": "an",
+          "start": 2.46175,
+          "end": 2.564708
+        },
+        {
+          "text": "eraser",
+          "start": 2.579416,
+          "end": 3.299999
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "brush": [
+        [
+          "b",
+          "r",
+          "u",
+          "sh"
+        ],
+        [
+          "clear-b",
+          "clear-r",
+          "startup-uh",
+          "startup-sh"
+        ],
+        "b 和 r 连着读。u 在 brush 里发 /ʌ/，最后 sh 合成 /ʃ/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "brush": {
+        "audio": "guided-brush",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "r",
+          "u",
+          "sh"
+        ],
+        "sounds": [
+          "clear-b",
+          "clear-r",
+          "startup-uh",
+          "startup-sh"
+        ],
+        "hint": "b 和 r 连着读。u 在 brush 里发 /ʌ/，最后 sh 合成 /ʃ/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.107,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.107,
+            "end": 0.262,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "startup-uh"
+          },
+          {
+            "start": 0.262,
+            "end": 0.442,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "startup-sh"
+          },
+          {
+            "start": 0.442,
+            "end": 1.312,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.442,
+                "end": 0.5725
+              },
+              {
+                "index": 1,
+                "start": 0.5725,
+                "end": 0.7465
+              },
+              {
+                "index": 2,
+                "start": 0.7465,
+                "end": 1.07275
+              },
+              {
+                "index": 3,
+                "start": 1.07275,
+                "end": 1.312
+              }
+            ]
+          },
+          {
+            "start": 1.312,
+            "end": 1.892,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.892
+      },
+      "quill": {
+        "audio": "guided-quill",
+        "kind": "context-word",
+        "parts": [
+          "quill"
+        ],
+        "hint": "quill 是用羽毛做的笔。先听完整词，再听一句介绍。",
+        "duration": 4.88,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.5,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.0,
+            "end": 1.88,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  }
+}

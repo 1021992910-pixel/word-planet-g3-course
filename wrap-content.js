@@ -7,9 +7,9 @@ const WRAP_CHECKS=[
 ];
 const WrapModel={
  blank:()=>({checks:[],updated:0}),
- sanitize(raw){return {checks:[...new Set((Array.isArray(raw?.checks)?raw.checks:[]).filter(id=>WRAP_CHECKS.some(item=>item.id===id)))],updated:Number.isFinite(raw?.updated)?Math.max(0,raw.updated):0};},
- toggle(data,id){if(!WRAP_CHECKS.some(item=>item.id===id))return false;data.checks=data.checks.includes(id)?data.checks.filter(value=>value!==id):[...data.checks,id];data.updated=Date.now();return true;},
- merge(left,right){return this.sanitize((left?.updated||0)>(right?.updated||0)?left:right);}
+ sanitize(raw,items=WRAP_CHECKS){return {checks:[...new Set((Array.isArray(raw?.checks)?raw.checks:[]).filter(id=>items.some(item=>item.id===id)))],updated:Number.isFinite(raw?.updated)?Math.max(0,raw.updated):0};},
+ toggle(data,id,items=WRAP_CHECKS){if(!items.some(item=>item.id===id))return false;data.checks=data.checks.includes(id)?data.checks.filter(value=>value!==id):[...data.checks,id];data.updated=Date.now();return true;},
+ merge(left,right,items=WRAP_CHECKS){return this.sanitize((left?.updated||0)>(right?.updated||0)?left:right,items);}
 };
 const WRAP_ACTIONS=[
  {audio:'u16-listens',text:'A good friend listens.',zh:'好朋友会倾听。',example:'朋友讲话时，先认真听完。'},

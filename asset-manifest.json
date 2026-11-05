@@ -1,10 +1,10 @@
 {
-  "version": "w34",
+  "version": "w35",
   "files": [
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 19600,
-      "sha256": "09067047b5bbc61dbbe97387db76d59a5c65ea1748db0351b814ca185ba9c04f"
+      "bytes": 19594,
+      "sha256": "b849d37eb2712cb42931938af1ec72e275606d5e580d25505a51c5a88b931028"
     },
     {
       "file": "action-lesson.css",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 30355,
-      "sha256": "77390d3faaee6bd4065fda8983fd0ce5adc5b2213b24dcd11f6a87018698c465"
+      "bytes": 30546,
+      "sha256": "02992911081da8736283bf2ca90ab7c836d1b7115e5657037b8edb57db08a245"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -275,6 +275,11 @@
       "file": "assets/audio/book.mp3",
       "bytes": 6336,
       "sha256": "37d6d3c9b298c504e244d952e73554ff0598cb2ab0567c2b44c9d4c089b7d5b3"
+    },
+    {
+      "file": "assets/audio/brush.mp3",
+      "bytes": 11232,
+      "sha256": "d6c5e6a61196592681e14193afdd39b99fa0986a3cfc195c163a2e67e5520bfb"
     },
     {
       "file": "assets/audio/bye-bobo.mp3",
@@ -662,6 +667,11 @@
       "sha256": "9ad7a517d17db2cfb4285e6fd52a773cfda4433b7683c9bd1fbe28f4937567a1"
     },
     {
+      "file": "assets/audio/guided-brush.mp3",
+      "bytes": 17061,
+      "sha256": "d8a82051f96ca1b1b94f281847a780e07db0b7e24f0a05f934fe06073c640a6a"
+    },
+    {
       "file": "assets/audio/guided-bye.mp3",
       "bytes": 12525,
       "sha256": "25b57b6a27c763742b49f21a7ff673ec872132f51acc96dc7e86aac65d0713fe"
@@ -1045,6 +1055,11 @@
       "file": "assets/audio/guided-provenance.json",
       "bytes": 5179,
       "sha256": "cf5e9ef55deaef9e1516f5033c6223d3aed7d2e10ef0a7f5e9125c122c60ab90"
+    },
+    {
+      "file": "assets/audio/guided-quill.mp3",
+      "bytes": 15597,
+      "sha256": "e2d5ef48bf1c3aafadf641cb8ae056e5c51fc30fdcadcd3d70edfabce659acaa"
     },
     {
       "file": "assets/audio/guided-read.mp3",
@@ -1622,6 +1637,11 @@
       "sha256": "594409cdd8c00c6411a2a29dfd7c8e8b877017bda8aa34d922e7ea65293a56b4"
     },
     {
+      "file": "assets/audio/paced-brush.mp3",
+      "bytes": 30429,
+      "sha256": "34e17df12253d79a387d53541605ec9d4826cec93091bd088bb614b9c2ff4f26"
+    },
+    {
       "file": "assets/audio/paced-bye.mp3",
       "bytes": 21597,
       "sha256": "b2cec9debdff6e970c912cc22e4c1a31f2b92991d38cb275ab02c1ad138373b3"
@@ -2027,6 +2047,11 @@
       "sha256": "be0114de5ff0ece8b6493fa561a4667a2300deaa0959685b6f415f0e9937cac6"
     },
     {
+      "file": "assets/audio/quill.mp3",
+      "bytes": 11232,
+      "sha256": "78fa8bfee54be16e061195f46f4fee3f8812493dd9fadce7ea1458b68d4332f3"
+    },
+    {
       "file": "assets/audio/read.mp3",
       "bytes": 4749,
       "sha256": "64c12a951d3544f1eb1e140eae98aafbdbd5877d784cc2cd42ee492d2e250357"
@@ -2050,6 +2075,11 @@
       "file": "assets/audio/say.mp3",
       "bytes": 6624,
       "sha256": "7f26390c8f2327705cc55708356095da97e54d9f7f40b4d3a7260123146de5eb"
+    },
+    {
+      "file": "assets/audio/school-wrap-provenance.json",
+      "bytes": 7769,
+      "sha256": "0a8e80e6b563048dc03caa34a84afa8d8150ce91648ffcb8bb3e395eee1bee50"
     },
     {
       "file": "assets/audio/school.mp3",
@@ -2952,6 +2982,41 @@
       "sha256": "330cf820deb2a806226fd646fb8f800d2ecfc2411bb5c92f70d736adb3b76e31"
     },
     {
+      "file": "assets/audio/u26-brush.mp3",
+      "bytes": 11232,
+      "sha256": "973f25e3658a3d265bd5bd7f3c69d111fcc143853ded21488eb8d6fdbfb57ea0"
+    },
+    {
+      "file": "assets/audio/u26-is-book.mp3",
+      "bytes": 11232,
+      "sha256": "f0d3949d079540bd80b166fa6369ca60fde4f86ce48ddbd089bd2e6520f352b0"
+    },
+    {
+      "file": "assets/audio/u26-list.mp3",
+      "bytes": 22464,
+      "sha256": "5e5af6fec56ad0ff1dbef49ddda29ac156aace45d2cfc23bcb7d19c8274bc673"
+    },
+    {
+      "file": "assets/audio/u26-my-pen.mp3",
+      "bytes": 11232,
+      "sha256": "bf2fd1eef3a1522301e32a536883ce8d19d51c5f8e5366c429f6824d3857196b"
+    },
+    {
+      "file": "assets/audio/u26-quill.mp3",
+      "bytes": 11232,
+      "sha256": "e83c2c1d82d0f035811aec96cdac80fde0cb246a1125382a89fc8192767d433b"
+    },
+    {
+      "file": "assets/audio/u26-schoolbag.mp3",
+      "bytes": 11232,
+      "sha256": "1c03b0a2de08cf6d1c68eea211a42d19d2f01b3df239b383d49736d1f443071c"
+    },
+    {
+      "file": "assets/audio/u26-use.mp3",
+      "bytes": 11520,
+      "sha256": "89ead65bf58f8297fe2106671605aae9754cc04edd283137768c698e68efa990"
+    },
+    {
       "file": "assets/audio/unit1-reuse/clear-phonics-provenance.json",
       "bytes": 19048,
       "sha256": "daaee56c9a9ca9b3cc8c2124e21cd1e920fcee899a237beb85b521411e5d0119"
@@ -3222,6 +3287,11 @@
       "sha256": "a7db000f745b7c58541fec035660ce9bb610b4aaf6a43ffaf9cd2f1b1580513e"
     },
     {
+      "file": "assets/scenes/u2-writing-tools.webp",
+      "bytes": 38944,
+      "sha256": "14af87bb7a750204a00c80ff5a56ba8d39135ce81d78673f3669c1e36ba38bc3"
+    },
+    {
       "file": "assets/scenes/u2-writing.webp",
       "bytes": 122782,
       "sha256": "2cf091d9b98b3f58189f8ab24e8cb2d81db0b18b978c2320b1ae8365750fa7e2"
@@ -3268,8 +3338,8 @@
     },
     {
       "file": "camp-growth.js",
-      "bytes": 7782,
-      "sha256": "9d8ed00e3a9edfdf56d09bf325f2eb846a57538bb4e91ee1a4e98ae90ba198cb"
+      "bytes": 8018,
+      "sha256": "b7fe0092968cc5e15edcd65797f38ed120709952159bcef8037f3dd957e47f59"
     },
     {
       "file": "course-data.js",
@@ -3323,8 +3393,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 10909,
-      "sha256": "ee25b51d5a6ad094650493b0ce5281d1a4a0bbfa3069d19cd308e77dfa02d48e"
+      "bytes": 11231,
+      "sha256": "e9a10614e7b7f1b8c164619cc2f25842b5cf1e80bbf21827fa376a8fe4af5fb2"
     },
     {
       "file": "learning-sky.css",
@@ -3333,8 +3403,8 @@
     },
     {
       "file": "learning-sky.js",
-      "bytes": 12510,
-      "sha256": "cea36c902677c8a1c0e20cf69c7282d55214e77739c7b5a76c40a0d7eb8e1d9a"
+      "bytes": 12507,
+      "sha256": "0edf55aaee7c258130172a028fb5cdad1dc7c035957b33f492cbf3ccff9de32c"
     },
     {
       "file": "lesson-course.css",
@@ -3383,8 +3453,8 @@
     },
     {
       "file": "model.js",
-      "bytes": 7636,
-      "sha256": "2c47e55db289e218b4e57977671be54b1d326e9ff4293c13ea832d20b4028db2"
+      "bytes": 7749,
+      "sha256": "64e46ee01c4edf0c09515a92694908520215672b6b11fe064df5472949251d73"
     },
     {
       "file": "objects-audio-data.js",
@@ -3472,6 +3542,26 @@
       "sha256": "69ee2dad255b200743f62693622e55a6b097ae736f0dc2a42a7c80a1c7b3dd06"
     },
     {
+      "file": "school-wrap-audio-data.js",
+      "bytes": 2828,
+      "sha256": "c2636997ccb0e7c76dfc9f769b3ad086b14c2fadf43bd9f9bb6fdaf372b18c03"
+    },
+    {
+      "file": "school-wrap-content.js",
+      "bytes": 8367,
+      "sha256": "2e0e8634cab24a655d2197be4be5388c53fd0a4337939e2131a1918e7b6cbc1c"
+    },
+    {
+      "file": "school-wrap-guided-data.js",
+      "bytes": 2181,
+      "sha256": "cac1c2cbb34b70331647f8483dce93f4c729be837cc66004ad8adf4cc17f1a0f"
+    },
+    {
+      "file": "school-wrap-lesson.js",
+      "bytes": 4749,
+      "sha256": "bdf165fa1f7f255f8ae29a9b170cb15c228b0d709c69ac5c78bb709666dcaae1"
+    },
+    {
       "file": "speedup-audio-data.js",
       "bytes": 24584,
       "sha256": "4ffab9b67724c2cac290e711dc1c432e57c29393b10be48051acb96164b5a141"
@@ -3538,8 +3628,8 @@
     },
     {
       "file": "wrap-content.js",
-      "bytes": 7063,
-      "sha256": "22cf5f6142a36886db5b2f48de5018e57e95a0b8ac7e5c02ad8cb031bbae3cbe"
+      "bytes": 7111,
+      "sha256": "366a6c6dafade1b9ed85fe9db3fb44e73200e83361437963e4e439996ba82afa"
     },
     {
       "file": "wrap-lesson.css",
