@@ -1,0 +1,151 @@
+{
+  "clips": {
+    "chameleon": {
+      "text": "Chameleon.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "chameleon.mp3",
+      "words": [
+        {
+          "text": "Chameleon",
+          "start": 0.102208,
+          "end": 1.072791
+        }
+      ]
+    },
+    "u36-chameleon": {
+      "text": "Look at the chameleon.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u36-chameleon.mp3",
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "at",
+          "start": 0.476458,
+          "end": 0.623499
+        },
+        {
+          "text": "the",
+          "start": 0.63825,
+          "end": 0.755916
+        },
+        {
+          "text": "chameleon",
+          "start": 0.770583,
+          "end": 1.638249
+        }
+      ]
+    },
+    "u36-panda": {
+      "text": "It's black and white.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u36-panda.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.123541,
+          "end": 0.358832
+        },
+        {
+          "text": "black",
+          "start": 0.373541,
+          "end": 0.726499
+        },
+        {
+          "text": "and",
+          "start": 0.741166,
+          "end": 0.858832
+        },
+        {
+          "text": "white",
+          "start": 0.873541,
+          "end": 1.491207
+        }
+      ]
+    },
+    "u36-say-colour": {
+      "text": "Say the colour.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u36-say-colour.mp3",
+      "words": [
+        {
+          "text": "Say",
+          "start": 0.13825,
+          "end": 0.4765
+        },
+        {
+          "text": "the",
+          "start": 0.491166,
+          "end": 0.638207
+        },
+        {
+          "text": "colour",
+          "start": 0.652958,
+          "end": 1.226499
+        }
+      ]
+    },
+    "u36-say-it": {
+      "text": "Say it.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u36-say-it.mp3",
+      "words": [
+        {
+          "text": "Say",
+          "start": 0.123541,
+          "end": 0.505874
+        },
+        {
+          "text": "it",
+          "start": 0.520583,
+          "end": 0.917624
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {},
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "chameleon": {
+        "audio": "guided-chameleon",
+        "kind": "context-word",
+        "parts": [
+          "chameleon"
+        ],
+        "hint": "chameleon 是变色龙的名字。本课先听懂、跟读，不要求一下记住拼写。",
+        "duration": 5.76,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.81,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.31,
+            "end": 2.76,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  },
+  "pronunciationReference": {
+    "word": "chameleon",
+    "ukIPA": "/kəˈmiː.li.ən/",
+    "url": "https://dictionary.cambridge.org/pronunciation/english/chameleon",
+    "checked": "2026-11-05",
+    "use": "IPA reference only; all new recordings remain Sonia en-GB, not dictionary or textbook audio."
+  }
+}
