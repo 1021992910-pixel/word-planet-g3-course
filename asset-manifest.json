@@ -1,10 +1,10 @@
 {
-  "version": "w39",
+  "version": "w40",
   "files": [
     {
       "file": "制作规范与验收标准.md",
       "bytes": 19598,
-      "sha256": "cdab98ae7a69936cf5bf4340df0e9dd0102d2b5d9d7c9520caf92e88c9ed5933"
+      "sha256": "3b2a3e978e06e9247d3a2e8752b29f821dcbefadc37fc09028039e0e5197ac58"
     },
     {
       "file": "action-lesson.css",
@@ -33,8 +33,8 @@
     },
     {
       "file": "adventure.js",
-      "bytes": 27122,
-      "sha256": "1aa5d2e4619d832c77960143fece7ec458aec1d2ca89d44fd45ffcaf6345b865"
+      "bytes": 27246,
+      "sha256": "0cce04e7c61973bf3961b28d84d7263fc25573f240ee600e491021abddd241df"
     },
     {
       "file": "alphabet-lesson.css",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 31204,
-      "sha256": "336aecbead4f25a437e1389095c5418581db69c9010d08cc1baf775dabd01c4d"
+      "bytes": 31392,
+      "sha256": "a1c14632a4a6576f0505f1d5c0c63b89e0c2ebc62dc24059e3f099023c6db7a7"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -4052,6 +4052,16 @@
       "sha256": "1a12f1507cf9bfb0d7da41c26adf0f0289ab2416157d091e7b12fe1cdffd6c2c"
     },
     {
+      "file": "assets/scenes/u3-colour-share.webp",
+      "bytes": 111350,
+      "sha256": "f68b2ee9adcba7e7315e207e781c9951de77c6216c139aa5e73d7e15c355da6a"
+    },
+    {
+      "file": "assets/scenes/u3-colour-street.webp",
+      "bytes": 91726,
+      "sha256": "0395d9f627a4fc0d53faa5449e92dd2729ea358e7f1e87feeba2d0de0c39af0c"
+    },
+    {
       "file": "assets/scenes/u3-mix-friends.webp",
       "bytes": 79020,
       "sha256": "9cb24f4f7494644c494888ac8107edc27376070fa1c3b0de6e6e1b88d46134bf"
@@ -4143,8 +4153,8 @@
     },
     {
       "file": "camp-growth.js",
-      "bytes": 8941,
-      "sha256": "3f7e0e13b9a475de5de3b3943392c3c2deb39922159847694c166ce7232ca570"
+      "bytes": 9185,
+      "sha256": "fe0443837d0df91cb0e8f4877e071d1a213cbb3d645a9ac7d3d1435d24029505"
     },
     {
       "file": "colours-audio-data.js",
@@ -4197,6 +4207,21 @@
       "sha256": "043687ad7462da4d20a4b2827bb0af94f248cdc445b08356b482a311e3ef9f4f"
     },
     {
+      "file": "discover-content.js",
+      "bytes": 7543,
+      "sha256": "9d7f6909299acf3fd537b2f5d261a818778e4a9e377ef6d9753c4bbfcd87ac86"
+    },
+    {
+      "file": "discover-lesson.css",
+      "bytes": 388,
+      "sha256": "b87698eb241045706d829d9e0dc2985ed9fdcd329bd544785199734f77349d26"
+    },
+    {
+      "file": "discover-lesson.js",
+      "bytes": 3999,
+      "sha256": "11aae293770dca7234a05128c8877d82c83b6856ce6f3ad257f7d054c70b1fa0"
+    },
+    {
       "file": "fuelup-audio-data.js",
       "bytes": 26072,
       "sha256": "30c24b6893b2d762f8d4e0b6a08ed72cc52ee7557692bfb375640f68b89b4717"
@@ -4223,8 +4248,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 12725,
-      "sha256": "4f43f6f0cb8c6a50bfb5dee35567ecb841c390a289c6731f582996329a1d6e35"
+      "bytes": 12970,
+      "sha256": "a4fb451942a52dc1ca4bcdd18b2600a1365a605d0e39bd0c4d37c8bf5d9fd1c0"
     },
     {
       "file": "learning-sky.css",
@@ -4234,7 +4259,7 @@
     {
       "file": "learning-sky.js",
       "bytes": 12477,
-      "sha256": "2b48dd77cec6616a290e9f9b00fc0fb02ca5d1c2afb774ff0314c06476ec8d10"
+      "sha256": "614dbdf334bea4f5ecd3c011d2c34b521324432646d827b31f8d05651d31ab90"
     },
     {
       "file": "lesson-course.css",

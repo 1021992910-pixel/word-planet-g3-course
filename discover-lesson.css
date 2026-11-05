@@ -1,0 +1,20 @@
+.discover-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+  gap: .75rem;
+}
+.discover-grid article {
+  padding: .75rem;
+  border: 1px solid #182c3b30;
+  border-radius: .75rem;
+}
+.adv-task-picture {
+  max-width: 34rem;
+  margin: 1rem auto;
+}
+.adv-task-picture img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+}

@@ -19,6 +19,7 @@ CAMP_SOUVENIRS.push({id:"rainbow-window-memory",name:"彩虹窗景纪念画",ico
 CAMP_SOUVENIRS.push({id:"red-balloon-memory",name:"红气球纪念画",icon:"✦",cost:60,unlockLesson:"unit3-02",description:"把波波猜中的第一只气球挂进营地",scene:"u3-red-balloon",lessonLabel:"Unit 3 第2课"});
 CAMP_SOUVENIRS.push({id:"colour-trampoline-memory",name:"颜色蹦床纪念画",icon:"✦",cost:60,unlockLesson:"unit3-03",description:"把颜色朋友一起跳的故事挂进营地",scene:"u3-mix-green",lessonLabel:"Unit 3 第3课"});
 CAMP_SOUVENIRS.push({id:"flower-painting-memory",name:"红花画作纪念画",icon:"✦",cost:60,unlockLesson:"unit3-04",description:"把和伙伴一起画红花的时刻挂进营地",scene:"u3-painting",lessonLabel:"Unit 3 第4课"});
+CAMP_SOUVENIRS.push({id:"colour-discovery-memory",name:"找色分享纪念画",icon:"✦",cost:60,unlockLesson:"unit3-05",description:"把和伙伴问答画中颜色的时刻挂进营地",scene:"u3-colour-share",lessonLabel:"Unit 3 第5课"});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},
