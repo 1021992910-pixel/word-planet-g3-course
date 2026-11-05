@@ -1,10 +1,10 @@
 {
-  "version": "w37",
+  "version": "w38",
   "files": [
     {
       "file": "制作规范与验收标准.md",
       "bytes": 19598,
-      "sha256": "e200cd6f1ab67640ff457c46c6579280a9c37705ed8185676376a1edee47c65c"
+      "sha256": "142999012788aeb67762f14940642325c5f10cac79ce3b115c0e8cfd8f79a39e"
     },
     {
       "file": "action-lesson.css",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 30879,
-      "sha256": "b08c6b900d0a56f1d9f000a6f78385ad66c856361dd0827f2a155324fc3327bf"
+      "bytes": 31031,
+      "sha256": "418e6003d56916fe7d39dd98311b3c7cc0d9398276f68f435496b346a5cef120"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -235,6 +235,11 @@
       "file": "assets/audio/balloon.mp3",
       "bytes": 11232,
       "sha256": "6d5c92a21ea442aec3f2e072623ab3ddb46d3e8806e08e9e7b44ba2122e3179b"
+    },
+    {
+      "file": "assets/audio/black.mp3",
+      "bytes": 11232,
+      "sha256": "5a47fca68a47699be967deb6c696a03a5ccfee573fbe1c0e65e440923dfe7ad3"
     },
     {
       "file": "assets/audio/blue.mp3",
@@ -672,6 +677,11 @@
       "sha256": "d554b78340d3990c531390a99187848159a1a654083740e44396d8bd087be603"
     },
     {
+      "file": "assets/audio/fun.mp3",
+      "bytes": 11232,
+      "sha256": "fe4f8d6ea0a21cfc8616d3a9a0b9c7b7fae6ba3dbd7aeb83a1fe4c2bc67265a9"
+    },
+    {
       "file": "assets/audio/get-ready-speech-provenance.json",
       "bytes": 1336,
       "sha256": "c72d42ef7656fcd4c40151cf2e772e87155c615602b97f41fe421d21eecea514"
@@ -730,6 +740,11 @@
       "file": "assets/audio/guided-balloon.mp3",
       "bytes": 18213,
       "sha256": "571df1103df574c48684ac1e35dfbf6e8ceaec4e19e4de4c5e55ece0d185992e"
+    },
+    {
+      "file": "assets/audio/guided-black.mp3",
+      "bytes": 14901,
+      "sha256": "68207c316354da27122895a6fcd13ffd2e0bff9e8d97877185b3a01386e4368f"
     },
     {
       "file": "assets/audio/guided-blue.mp3",
@@ -830,6 +845,11 @@
       "file": "assets/audio/guided-from.mp3",
       "bytes": 134469,
       "sha256": "2756e78e674e27b66b1f176a22c1dd51799f76c24f21e6cb64157c58fd3d985a"
+    },
+    {
+      "file": "assets/audio/guided-fun.mp3",
+      "bytes": 14445,
+      "sha256": "05ee00705f22e08dc30e734b560ffc92279ee0844ffadee4dfa686898d5586db"
     },
     {
       "file": "assets/audio/guided-good.mp3",
@@ -1062,6 +1082,16 @@
       "sha256": "879e2720604a36eec6371c4b23be76ac56980a5ff5f96ef78139e99acc328d2d"
     },
     {
+      "file": "assets/audio/guided-magical.mp3",
+      "bytes": 26469,
+      "sha256": "2ea63714656e8af2196fcccadf8c83d814b20aaf1bc581b813347a96fb895f43"
+    },
+    {
+      "file": "assets/audio/guided-many.mp3",
+      "bytes": 15141,
+      "sha256": "d47e21d7dd75c22cbf94be7d2e7b5f17c1143a3af4c8bbe17db89d64ce172053"
+    },
+    {
       "file": "assets/audio/guided-me.mp3",
       "bytes": 101205,
       "sha256": "e91494f2d0145216f34ff860c6fb5baa24f7306c636b0d0b0bff4cdb53662e64"
@@ -1245,6 +1275,11 @@
       "file": "assets/audio/guided-sit.mp3",
       "bytes": 109029,
       "sha256": "6e79ceca75886d6f9492188650ca68dcbf436b8b5b6573a078eea4baec8a1531"
+    },
+    {
+      "file": "assets/audio/guided-so.mp3",
+      "bytes": 16509,
+      "sha256": "ab375b4906ba079c94114395482ec3b4b77910e235797aff918c50f3b5d927b2"
     },
     {
       "file": "assets/audio/guided-song.mp3",
@@ -1652,6 +1687,16 @@
       "sha256": "a588de83fdf62380fca4dea515e8fa61c9686e08174b56dfa741689f83774d95"
     },
     {
+      "file": "assets/audio/magical.mp3",
+      "bytes": 11232,
+      "sha256": "7237448ce8870409c93a3fe134d83b2991c31c54dfb867bada93017397613ae7"
+    },
+    {
+      "file": "assets/audio/many.mp3",
+      "bytes": 11232,
+      "sha256": "73aa42b04e608738f075e8e18bda7f1194e0f8ccc4fe2f945755df93c712f950"
+    },
+    {
       "file": "assets/audio/me.mp3",
       "bytes": 5904,
       "sha256": "ed66aea7caa5b353d56060b754b5aeee4eb73ebc8255ae6622604484c60f9193"
@@ -1665,6 +1710,11 @@
       "file": "assets/audio/meet.mp3",
       "bytes": 11232,
       "sha256": "53d2dd2d25f909764c943f6d562b151d7ec412530bd62373bfa598927be2fd34"
+    },
+    {
+      "file": "assets/audio/mix-provenance.json",
+      "bytes": 19761,
+      "sha256": "ab8ac1aa7326aed04af69d9f1867ade3a12b0e94032802584be0c0fce8a469f4"
     },
     {
       "file": "assets/audio/model-boy.mp3",
@@ -1812,6 +1862,11 @@
       "sha256": "196ac90547205caeb98eb97d0a069152d870a4fd143e331dadd963da349f2fc7"
     },
     {
+      "file": "assets/audio/paced-black.mp3",
+      "bytes": 28533,
+      "sha256": "0bd99b2397c70093860a7fee1c61b5bf9eb3eced4e28e8f45457448ccf9aa43c"
+    },
+    {
       "file": "assets/audio/paced-blue.mp3",
       "bytes": 23733,
       "sha256": "524f920b746ba7763be5cff7e50b091e8439631bfa48ea208ab27ed70366d0d8"
@@ -1880,6 +1935,11 @@
       "file": "assets/audio/paced-from.mp3",
       "bytes": 26733,
       "sha256": "13ed371923290a4db8c94e856a6571d66c0effa183fdb874fd8caa4cc341e05d"
+    },
+    {
+      "file": "assets/audio/paced-fun.mp3",
+      "bytes": 25965,
+      "sha256": "195bac4f39f320b632a69aa7d536b5506cf4d7f40787f93db4627ef8fb0dab65"
     },
     {
       "file": "assets/audio/paced-good.mp3",
@@ -1970,6 +2030,16 @@
       "file": "assets/audio/paced-look.mp3",
       "bytes": 25941,
       "sha256": "deb38dd4e9b961e86380fd3cd35762978185475dc190a35b46968d34a3c89e1a"
+    },
+    {
+      "file": "assets/audio/paced-magical.mp3",
+      "bytes": 58557,
+      "sha256": "61559145e37a4339deb614b2b6ee8730ab1210d3b0688cba9827089736df64a8"
+    },
+    {
+      "file": "assets/audio/paced-many.mp3",
+      "bytes": 35445,
+      "sha256": "fbdab880968e7b1b8ef506e2b7b2009ae6676efa53fad042c7d389c7f8de526d"
     },
     {
       "file": "assets/audio/paced-me.mp3",
@@ -2120,6 +2190,11 @@
       "file": "assets/audio/paced-sit.mp3",
       "bytes": 27861,
       "sha256": "6f22beac5529b8dec73def5d3d5b4efb2451d32c66fcaa20c5b035f6a85c757e"
+    },
+    {
+      "file": "assets/audio/paced-so.mp3",
+      "bytes": 25725,
+      "sha256": "eb6dc2ab3801cbcf5f82d314b366b8e9a615050c6ec783a74306b60a9091d839"
     },
     {
       "file": "assets/audio/paced-song.mp3",
@@ -2380,6 +2455,11 @@
       "file": "assets/audio/sit.mp3",
       "bytes": 6768,
       "sha256": "fc49eaf489d6f1d158b93b00f210d114cd3ca711a04982d0dc0e7df76c50b9b8"
+    },
+    {
+      "file": "assets/audio/so.mp3",
+      "bytes": 11232,
+      "sha256": "0483898db14121bad2340ed7573c3e838b6fd2113a9396a2861438fa69a34d56"
     },
     {
       "file": "assets/audio/song.mp3",
@@ -3467,6 +3547,71 @@
       "sha256": "43abb1a17653873580fcffc9c9e00540aff97ae93647a0a958ed5134f7610720"
     },
     {
+      "file": "assets/audio/u33-black.mp3",
+      "bytes": 11232,
+      "sha256": "a3ac1ed5c2d353e05d620ecc3b1141c1e67383995d380ef1daeb768791198cd3"
+    },
+    {
+      "file": "assets/audio/u33-blue.mp3",
+      "bytes": 14544,
+      "sha256": "76f70471a7f6e315191ac22e493845e62f7323da53b26d9b88c6fc29eaaa0c9a"
+    },
+    {
+      "file": "assets/audio/u33-fun.mp3",
+      "bytes": 11232,
+      "sha256": "349ab17ee807df39f00d2c81c614d4bf02414092818e5ab0cdb8ebbfc19b7a32"
+    },
+    {
+      "file": "assets/audio/u33-green.mp3",
+      "bytes": 15552,
+      "sha256": "34202ec1bb68acb20164cfb46971fe9ed78c9639f1cc89ea842ec79b507f38cf"
+    },
+    {
+      "file": "assets/audio/u33-guess.mp3",
+      "bytes": 13392,
+      "sha256": "06fcc30e6aa2582a6cc8c3bc64035de0c3650b30f24665f1d2b57b99bbbd7c90"
+    },
+    {
+      "file": "assets/audio/u33-last.mp3",
+      "bytes": 17568,
+      "sha256": "2b86723b380551c2840c8795ce4f983255f56db599e47c05d8fc8467ca136ae1"
+    },
+    {
+      "file": "assets/audio/u33-many.mp3",
+      "bytes": 11520,
+      "sha256": "e5b85738c1ebe29c323f6a5223947cc3c40236720047aac770d771a6d83ed704"
+    },
+    {
+      "file": "assets/audio/u33-orange.mp3",
+      "bytes": 16128,
+      "sha256": "b3d9f19f3226d64032281fcb68e0f6857cacfb2eba2d3a32859590ae63db8675"
+    },
+    {
+      "file": "assets/audio/u33-play.mp3",
+      "bytes": 11232,
+      "sha256": "8010e4f171448d4ac4560d89be4871dce7ef00535915a1b309dd4768f4b46f4e"
+    },
+    {
+      "file": "assets/audio/u33-purple.mp3",
+      "bytes": 14688,
+      "sha256": "59a52b46f6ef2c118a568983f8196015d57e79a96af195d569c2a30ad144d689"
+    },
+    {
+      "file": "assets/audio/u33-red.mp3",
+      "bytes": 13968,
+      "sha256": "9689c8e23d4e33efdf86f0acd51899635c705f37d376d1bdbf03ba85ccc1c1a1"
+    },
+    {
+      "file": "assets/audio/u33-title.mp3",
+      "bytes": 12240,
+      "sha256": "4b47acb1969f7acb11c63817c5e4abd018deeda72e4b905107e032aa57122619"
+    },
+    {
+      "file": "assets/audio/u33-yellow.mp3",
+      "bytes": 14688,
+      "sha256": "2fbe350f08922c6f2ee330f57c181fbcaa39a5ad6e4af0d8bfc7c6e397420ef1"
+    },
+    {
       "file": "assets/audio/umbrella.mp3",
       "bytes": 11232,
       "sha256": "0d879f492425bd6402bf916506db8136c638ea82c5fa82e59b6176a09b209b6c"
@@ -3777,6 +3922,16 @@
       "sha256": "1a12f1507cf9bfb0d7da41c26adf0f0289ab2416157d091e7b12fe1cdffd6c2c"
     },
     {
+      "file": "assets/scenes/u3-mix-friends.webp",
+      "bytes": 79020,
+      "sha256": "9cb24f4f7494644c494888ac8107edc27376070fa1c3b0de6e6e1b88d46134bf"
+    },
+    {
+      "file": "assets/scenes/u3-mix-green.webp",
+      "bytes": 74908,
+      "sha256": "1c8cb480fc5ac0b2c44088ec1ad1f7c4280fd5647ef7e2db181e403d372bab75"
+    },
+    {
       "file": "assets/scenes/u3-red-balloon.webp",
       "bytes": 147256,
       "sha256": "562254b90faca62231b0bafe8b0146a140f5410ba3ae03b346c538c8ecac5dbf"
@@ -3853,8 +4008,8 @@
     },
     {
       "file": "camp-growth.js",
-      "bytes": 8469,
-      "sha256": "88a1c5e461f1e1a4173fe214390672abba8c1e12ecc005ed88a7f1ed341b4228"
+      "bytes": 8705,
+      "sha256": "4c8c7da9f9bb46643b515c5fc303902db5ba724c67c1a4dfea851b94cc9c2f8d"
     },
     {
       "file": "colours-audio-data.js",
@@ -3933,8 +4088,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 12023,
-      "sha256": "02bfc6786fec3009495927d0336004c916aaf663823815183b3ed8268fdab666"
+      "bytes": 12364,
+      "sha256": "1b0bf969a30903cd4a2a3434741002d48a86bb2faa228717018db531cdec19c2"
     },
     {
       "file": "learning-sky.css",
@@ -3944,7 +4099,7 @@
     {
       "file": "learning-sky.js",
       "bytes": 12477,
-      "sha256": "bc1fefcd9a0af7c29aefdeca303205c4d34aadf4cfb231e9cbfa2808479a4e29"
+      "sha256": "a4133d5ba12d272047346fe5af3c3ec29a47627a2d75cf516ad23baf1778da8a"
     },
     {
       "file": "lesson-course.css",
@@ -3990,6 +4145,31 @@
       "file": "lost-lesson.js",
       "bytes": 2354,
       "sha256": "ebc215c01db5efa5f121df915042e42ff997adb55ef3f5cbd3022e407c7c9669"
+    },
+    {
+      "file": "mix-audio-data.js",
+      "bytes": 5162,
+      "sha256": "4e19654a92a98c643c734e4bf6889cd3eb7cc1c3e7cbf898867458f4e67aae9d"
+    },
+    {
+      "file": "mix-content.js",
+      "bytes": 8457,
+      "sha256": "f1ceb96cc0ac07301a102a95f54edef79fddb33e9785f082f5fcf93dc27632b4"
+    },
+    {
+      "file": "mix-guided-data.js",
+      "bytes": 9066,
+      "sha256": "b82343ecd2b2ca4024934c56a886c5e7120c7543fb3d3059db139d1d3e2d7bab"
+    },
+    {
+      "file": "mix-lesson.css",
+      "bytes": 462,
+      "sha256": "eeb657134aad6b676f746f1c2c5f2d1a40125a1e1a5df462e8f970fa5cb2441d"
+    },
+    {
+      "file": "mix-lesson.js",
+      "bytes": 3702,
+      "sha256": "e2274f2e2e3b44c95826515c043727f8f0bbaf724db0967e85e761744b27ef98"
     },
     {
       "file": "model.js",

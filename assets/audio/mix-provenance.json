@@ -1,0 +1,911 @@
+{
+  "clips": {
+    "black": {
+      "text": "black.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "black.mp3",
+      "words": [
+        {
+          "text": "black",
+          "start": 0.123541,
+          "end": 0.755874
+        }
+      ]
+    },
+    "fun": {
+      "text": "fun.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "fun.mp3",
+      "words": [
+        {
+          "text": "fun",
+          "start": 0.106625,
+          "end": 0.694875
+        }
+      ]
+    },
+    "so": {
+      "text": "so.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "so.mp3",
+      "words": [
+        {
+          "text": "so",
+          "start": 0.123541,
+          "end": 0.711791
+        }
+      ]
+    },
+    "many": {
+      "text": "many.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "many.mp3",
+      "words": [
+        {
+          "text": "many",
+          "start": 0.123541,
+          "end": 0.682374
+        }
+      ]
+    },
+    "magical": {
+      "text": "magical.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "magical.mp3",
+      "words": [
+        {
+          "text": "magical",
+          "start": 0.123541,
+          "end": 1.079416
+        }
+      ]
+    },
+    "u33-title": {
+      "text": "Magical colours.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-title.mp3",
+      "words": [
+        {
+          "text": "Magical",
+          "start": 0.123541,
+          "end": 0.844124
+        },
+        {
+          "text": "colours",
+          "start": 0.858833,
+          "end": 1.594124
+        }
+      ]
+    },
+    "u33-red": {
+      "text": "Hello! I'm red.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-red.mp3",
+      "words": [
+        {
+          "text": "Hello",
+          "start": 0.13825,
+          "end": 0.697083
+        },
+        {
+          "text": "I'm",
+          "start": 1.147041,
+          "end": 1.411749
+        },
+        {
+          "text": "red",
+          "start": 1.426458,
+          "end": 1.911749
+        }
+      ]
+    },
+    "u33-yellow": {
+      "text": "Hello! I'm yellow.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-yellow.mp3",
+      "words": [
+        {
+          "text": "Hello",
+          "start": 0.13825,
+          "end": 0.697083
+        },
+        {
+          "text": "I'm",
+          "start": 1.132333,
+          "end": 1.397041
+        },
+        {
+          "text": "yellow",
+          "start": 1.41175,
+          "end": 2.029416
+        }
+      ]
+    },
+    "u33-blue": {
+      "text": "Hello! I'm blue.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-blue.mp3",
+      "words": [
+        {
+          "text": "Hello",
+          "start": 0.13825,
+          "end": 0.697083
+        },
+        {
+          "text": "I'm",
+          "start": 1.16175,
+          "end": 1.41175
+        },
+        {
+          "text": "blue",
+          "start": 1.426458,
+          "end": 1.985291
+        }
+      ]
+    },
+    "u33-play": {
+      "text": "Come and play with me!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-play.mp3",
+      "words": [
+        {
+          "text": "Come",
+          "start": 0.102208,
+          "end": 0.411041
+        },
+        {
+          "text": "and",
+          "start": 0.42575,
+          "end": 0.572791
+        },
+        {
+          "text": "play",
+          "start": 0.5875,
+          "end": 0.866916
+        },
+        {
+          "text": "with",
+          "start": 0.881625,
+          "end": 1.116916
+        },
+        {
+          "text": "me",
+          "start": 1.131625,
+          "end": 1.42575
+        }
+      ]
+    },
+    "u33-fun": {
+      "text": "This is fun!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-fun.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.102208,
+          "end": 0.411041
+        },
+        {
+          "text": "is",
+          "start": 0.42575,
+          "end": 0.646333
+        },
+        {
+          "text": "fun",
+          "start": 0.661041,
+          "end": 1.146332
+        }
+      ]
+    },
+    "u33-black": {
+      "text": "It's black.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-black.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "black",
+          "start": 0.417666,
+          "end": 1.049999
+        }
+      ]
+    },
+    "u33-many": {
+      "text": "So many colours!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-many.mp3",
+      "words": [
+        {
+          "text": "So",
+          "start": 0.13825,
+          "end": 0.461791
+        },
+        {
+          "text": "many",
+          "start": 0.476458,
+          "end": 0.814708
+        },
+        {
+          "text": "colours",
+          "start": 0.829416,
+          "end": 1.491166
+        }
+      ]
+    },
+    "u33-green": {
+      "text": "Yellow and blue make green.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-green.mp3",
+      "words": [
+        {
+          "text": "Yellow",
+          "start": 0.152958,
+          "end": 0.667666
+        },
+        {
+          "text": "and",
+          "start": 0.682333,
+          "end": 0.888208
+        },
+        {
+          "text": "blue",
+          "start": 0.902958,
+          "end": 1.241208
+        },
+        {
+          "text": "make",
+          "start": 1.255875,
+          "end": 1.564708
+        },
+        {
+          "text": "green",
+          "start": 1.579416,
+          "end": 2.152957
+        }
+      ]
+    },
+    "u33-purple": {
+      "text": "Red and blue make purple.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-purple.mp3",
+      "words": [
+        {
+          "text": "Red",
+          "start": 0.13825,
+          "end": 0.447083
+        },
+        {
+          "text": "and",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "blue",
+          "start": 0.63825,
+          "end": 0.991208
+        },
+        {
+          "text": "make",
+          "start": 1.005875,
+          "end": 1.3
+        },
+        {
+          "text": "purple",
+          "start": 1.314708,
+          "end": 2.005874
+        }
+      ]
+    },
+    "u33-orange": {
+      "text": "Yellow and red make orange.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-orange.mp3",
+      "words": [
+        {
+          "text": "Yellow",
+          "start": 0.152958,
+          "end": 0.667666
+        },
+        {
+          "text": "and",
+          "start": 0.682333,
+          "end": 0.888208
+        },
+        {
+          "text": "red",
+          "start": 0.902958,
+          "end": 1.255916
+        },
+        {
+          "text": "make",
+          "start": 1.270583,
+          "end": 1.564708
+        },
+        {
+          "text": "orange",
+          "start": 1.579416,
+          "end": 2.255874
+        }
+      ]
+    },
+    "u33-last": {
+      "text": "In the story, they make black.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-last.mp3",
+      "words": [
+        {
+          "text": "In",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "the",
+          "start": 0.314708,
+          "end": 0.432374
+        },
+        {
+          "text": "story",
+          "start": 0.447041,
+          "end": 1.108791
+        },
+        {
+          "text": "they",
+          "start": 1.38825,
+          "end": 1.535291
+        },
+        {
+          "text": "make",
+          "start": 1.55,
+          "end": 1.873541
+        },
+        {
+          "text": "black",
+          "start": 1.88825,
+          "end": 2.491208
+        }
+      ]
+    },
+    "u33-guess": {
+      "text": "What colour will you see?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u33-guess.mp3",
+      "words": [
+        {
+          "text": "What",
+          "start": 0.13825,
+          "end": 0.417666
+        },
+        {
+          "text": "colour",
+          "start": 0.432333,
+          "end": 0.814666
+        },
+        {
+          "text": "will",
+          "start": 0.829416,
+          "end": 1.035291
+        },
+        {
+          "text": "you",
+          "start": 1.05,
+          "end": 1.21175
+        },
+        {
+          "text": "see",
+          "start": 1.226458,
+          "end": 1.785291
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "black": [
+        [
+          "b",
+          "l",
+          "a",
+          "ck"
+        ],
+        [
+          "clear-b",
+          "clear-l",
+          "clear-a",
+          "clear-k"
+        ],
+        "b 和 l 连起来。a 发短音 /æ/，ck 一起收在一个 /k/。"
+      ],
+      "fun": [
+        [
+          "f",
+          "u",
+          "n"
+        ],
+        [
+          "clear-f",
+          "startup-uh",
+          "clear-n"
+        ],
+        "u 在 fun 里发短音 /ʌ/，最后轻轻接上 /n/。"
+      ],
+      "so": [
+        [
+          "s",
+          "o"
+        ],
+        [
+          "clear-s",
+          "clear-oh"
+        ],
+        "o 在 so 里读 /əʊ/。和 many 连起来，表示“这么多”。"
+      ],
+      "many": [
+        [
+          "m",
+          "a",
+          "n",
+          "y"
+        ],
+        [
+          "clear-m",
+          "clear-e",
+          "clear-n",
+          "clear-i-short"
+        ],
+        "先听两拍，前一拍重。a 在 many 里读 /e/，词尾 y 轻读 /i/。"
+      ],
+      "magical": [
+        [
+          "m",
+          "a",
+          "g",
+          "i",
+          "c",
+          "al"
+        ],
+        [
+          "clear-m",
+          "clear-a",
+          "colour-j",
+          "clear-ih",
+          "clear-k",
+          "colour-le"
+        ],
+        "先听三拍，第一拍重。g 在这里读 /dʒ/，c 读 /k/，词尾 al 轻读 /əl/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "black": {
+        "audio": "guided-black",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "l",
+          "a",
+          "ck"
+        ],
+        "sounds": [
+          "clear-b",
+          "clear-l",
+          "clear-a",
+          "clear-k"
+        ],
+        "hint": "b 和 l 连起来。a 发短音 /æ/，ck 一起收在一个 /k/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.107,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.107,
+            "end": 0.262,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-a"
+          },
+          {
+            "start": 0.262,
+            "end": 0.327,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.327,
+            "end": 1.177,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.327,
+                "end": 0.466875
+              },
+              {
+                "index": 1,
+                "start": 0.466875,
+                "end": 0.596
+              },
+              {
+                "index": 2,
+                "start": 0.596,
+                "end": 1.0048333333333332
+              },
+              {
+                "index": 3,
+                "start": 1.0048333333333332,
+                "end": 1.177
+              }
+            ]
+          },
+          {
+            "start": 1.177,
+            "end": 1.737,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.737
+      },
+      "fun": {
+        "audio": "guided-fun",
+        "kind": "phonics",
+        "parts": [
+          "f",
+          "u",
+          "n"
+        ],
+        "sounds": [
+          "clear-f",
+          "startup-uh",
+          "clear-n"
+        ],
+        "hint": "u 在 fun 里发短音 /ʌ/，最后轻轻接上 /n/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.14595833333333333,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-f"
+          },
+          {
+            "start": 0.14595833333333333,
+            "end": 0.3009583333333333,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "startup-uh"
+          },
+          {
+            "start": 0.3009583333333333,
+            "end": 0.4059583333333333,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.4059583333333333,
+            "end": 1.2159583333333333,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.4059583333333333,
+                "end": 0.6084583333333333
+              },
+              {
+                "index": 1,
+                "start": 0.6084583333333333,
+                "end": 1.0134583333333333
+              },
+              {
+                "index": 2,
+                "start": 1.0134583333333333,
+                "end": 1.2159583333333333
+              }
+            ]
+          },
+          {
+            "start": 1.2159583333333333,
+            "end": 1.7559583333333333,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.7559583333333333
+      },
+      "so": {
+        "audio": "guided-so",
+        "kind": "phonics",
+        "parts": [
+          "s",
+          "o"
+        ],
+        "sounds": [
+          "clear-s",
+          "clear-oh"
+        ],
+        "hint": "o 在 so 里读 /əʊ/。和 many 连起来，表示“这么多”。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.165,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-s"
+          },
+          {
+            "start": 0.165,
+            "end": 0.505,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-oh"
+          },
+          {
+            "start": 0.505,
+            "end": 1.345,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.505,
+                "end": 0.745
+              },
+              {
+                "index": 1,
+                "start": 0.745,
+                "end": 1.345
+              }
+            ]
+          },
+          {
+            "start": 1.345,
+            "end": 1.895,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.895
+      },
+      "many": {
+        "audio": "guided-many",
+        "kind": "phonics",
+        "parts": [
+          "m",
+          "a",
+          "n",
+          "y"
+        ],
+        "sounds": [
+          "clear-m",
+          "clear-e",
+          "clear-n",
+          "clear-i-short"
+        ],
+        "hint": "先听两拍，前一拍重。a 在 many 里读 /e/，词尾 y 轻读 /i/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-m"
+          },
+          {
+            "start": 0.085,
+            "end": 0.275,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-e"
+          },
+          {
+            "start": 0.275,
+            "end": 0.38,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.38,
+            "end": 0.545,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-i-short"
+          },
+          {
+            "start": 0.545,
+            "end": 1.325,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.545,
+                "end": 0.677
+              },
+              {
+                "index": 1,
+                "start": 0.677,
+                "end": 0.858
+              },
+              {
+                "index": 2,
+                "start": 0.858,
+                "end": 0.985
+              },
+              {
+                "index": 3,
+                "start": 0.985,
+                "end": 1.325
+              }
+            ]
+          },
+          {
+            "start": 1.325,
+            "end": 1.835,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.835,
+        "syllables": [
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "magical": {
+        "audio": "guided-magical",
+        "kind": "phonics",
+        "parts": [
+          "m",
+          "a",
+          "g",
+          "i",
+          "c",
+          "al"
+        ],
+        "sounds": [
+          "clear-m",
+          "clear-a",
+          "colour-j",
+          "clear-ih",
+          "clear-k",
+          "colour-le"
+        ],
+        "hint": "先听三拍，第一拍重。g 在这里读 /dʒ/，c 读 /k/，词尾 al 轻读 /əl/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-m"
+          },
+          {
+            "start": 0.085,
+            "end": 0.24,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-a"
+          },
+          {
+            "start": 0.24,
+            "end": 0.458,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "colour-j"
+          },
+          {
+            "start": 0.458,
+            "end": 0.568,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.568,
+            "end": 0.633,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.633,
+            "end": 0.96,
+            "phase": "phoneme",
+            "index": 5,
+            "clip": "colour-le"
+          },
+          {
+            "start": 0.96,
+            "end": 2.26,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.96,
+                "end": 1.095
+              },
+              {
+                "index": 1,
+                "start": 1.095,
+                "end": 1.34
+              },
+              {
+                "index": 2,
+                "start": 1.34,
+                "end": 1.508
+              },
+              {
+                "index": 3,
+                "start": 1.508,
+                "end": 1.648
+              },
+              {
+                "index": 4,
+                "start": 1.648,
+                "end": 1.844
+              },
+              {
+                "index": 5,
+                "start": 1.844,
+                "end": 2.26
+              }
+            ]
+          },
+          {
+            "start": 2.26,
+            "end": 3.11,
+            "phase": "word"
+          }
+        ],
+        "duration": 3.11,
+        "syllables": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  }
+}
