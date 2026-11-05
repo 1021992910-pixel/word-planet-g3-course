@@ -10,6 +10,7 @@ const CAMP_SOUVENIRS=[{id:'friend-telescope',name:'友谊观星镜',icon:'✦',c
 CAMP_SOUVENIRS.push({id:'friend-poster',name:'海报展纪念画',icon:'♡',cost:60,unlockLesson:'unit1-05',description:'把一起展示朋友海报的时刻挂进营地',scene:'poster-w28',lessonLabel:'Unit 1 第5课'});
 CAMP_SOUVENIRS.push({id:'friendship-star',name:'友谊星徽章',icon:'✦',cost:60,unlockLesson:'unit1-06',description:'把倾听、分享和帮助朋友的心意留在营地',asset:'./assets/adventure/friendship-star-w29.webp',lessonLabel:'Unit 1 第6课',object:true,buyLabel:'60 金币布置友谊星徽章'});
 CAMP_SOUVENIRS.push({id:'school-supply-memory',name:'收纳纪念画',icon:'▣',cost:60,unlockLesson:'unit2-01',description:'把认真收好学习用品的时刻挂进营地',scene:'u2-packing',lessonLabel:'Unit 2 第1课'});
+CAMP_SOUVENIRS.push({id:'guessing-memory',name:'猜物纪念画',icon:'?',cost:60,unlockLesson:'unit2-02',description:'把画一画、猜一猜的快乐时刻留在共同营地',scene:'u2-portrait',lessonLabel:'Unit 2 第2课'});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},
