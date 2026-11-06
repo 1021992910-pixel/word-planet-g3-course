@@ -21,6 +21,7 @@ CAMP_SOUVENIRS.push({id:"colour-trampoline-memory",name:"颜色蹦床纪念画",
 CAMP_SOUVENIRS.push({id:"flower-painting-memory",name:"红花画作纪念画",icon:"✦",cost:60,unlockLesson:"unit3-04",description:"把和伙伴一起画红花的时刻挂进营地",scene:"u3-painting",lessonLabel:"Unit 3 第4课"});
 CAMP_SOUVENIRS.push({id:"colour-discovery-memory",name:"找色分享纪念画",icon:"✦",cost:60,unlockLesson:"unit3-05",description:"把和伙伴问答画中颜色的时刻挂进营地",scene:"u3-colour-share",lessonLabel:"Unit 3 第5课"});
 CAMP_SOUVENIRS.push({id:'chameleon-memory',name:'变色龙观察纪念画',icon:'✦',cost:60,unlockLesson:'unit3-06',description:'把自然观察站的绿色朋友挂进共同营地',scene:'u3-chameleon',lessonLabel:'Unit 3 第6课'});
+CAMP_SOUVENIRS.push({id:'counting-birds-memory',name:'三只小鸟纪念画',icon:'✦',cost:60,unlockLesson:'unit4-01',description:'把数鸟竹林的新发现挂进共同营地',scene:'u4-three-birds',lessonLabel:'Unit 4 第1课'});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},
