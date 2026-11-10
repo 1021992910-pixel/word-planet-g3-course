@@ -1,0 +1,2 @@
+.chick-picture { background:#f3f0d8; gap:clamp(4px,1vw,12px); padding:clamp(8px,2vw,20px); }
+.chick-picture > span { display:grid; place-items:center; width:100%; aspect-ratio:1; border-radius:22%; background:#fff9e7; font-size:clamp(1.25rem,4vw,3rem); }
