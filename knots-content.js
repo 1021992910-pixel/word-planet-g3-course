@@ -42,10 +42,10 @@ const KNOT_SCENES=[
   summary:'到第45页，换成数中国结。每个结数一次，再换成桌上的文具问一问。',
   lines:[KNOT_ASK]},
 ];
-function knotSpelling(ids){
- return ids.map(id=>{
+function knotSpelling(entries){
+ return entries.map(([id,distractor])=>{
   const word=KNOT_NEW.find(item=>item.id===id);
-  return {id:'u42-spell-'+id,type:'spell',word:id,audio:id,tilesOnly:true,
+  return {id:'u42-spell-'+id,type:'spell',word:id,audio:id,tilesOnly:true,extra:[distractor],
    prompt:'听单词，点字母拼出来',answer:word.word,hint:'再听一遍，从第一个字母开始。'};
  });
 }
@@ -55,9 +55,9 @@ const KNOT_MISSIONS=[
   {id:'u42-hear-one',type:'choice',word:'only',audio:'u42-one-rope',prompt:'这个结用了几根绳？',options:['六根','一根','十二根'],answer:'一根',hint:'再听一遍数量词。'},
  ]},
  {id:'sound',title:'给三个词拼好字母',skill:'听单词 · 点字母',icon:'🔧',story:'先听完整单词，再从左到右点字母。',done:'三个词拼好啦，再给工坊写标签。',previousTotal:2,
-  tasks:knotSpelling(['only','show','who'])},
+  tasks:knotSpelling([['only','i'],['show','a'],['who','u']])},
  {id:'supply',title:'拼好四张工坊标签',skill:'听单词 · 点字母',icon:'🎒',story:'每次听一个词，把字母排成正确的顺序。',done:'四张标签拼好了，去接句子。',previousTotal:2,
-  tasks:knotSpelling(['rope','make','amazing','beautiful'])},
+  tasks:knotSpelling([['rope','a'],['make','i'],['amazing','e'],['beautiful','o']])},
  {id:'bridge',title:'把工坊里的话连成句',skill:'听句子 · 排顺序 · 找词',icon:'🌉',story:'先问数量，再把看到的东西说给伙伴听。',done:'句子接好了，拿上数数卡。',tasks:[
   {id:'u42-gap-who',type:'gap',word:'who',audio:'u42-who',prompt:'问“谁会编中国结？”，句首填什么？',sentence:'___ can make a Chinese knot?',zh:'谁会编中国结？',options:['Who','How','One'],answer:'Who',hint:'问题想知道的是一个人。'},
   {id:'u42-order-knot',type:'order',word:'chinese-knot',audio:'u42-knot',prompt:'排成一句“这是一个中国结。”',parts:['This','is','a','Chinese knot.'],answer:'This is a Chinese knot.',hint:'先从 This 开始介绍。'},
