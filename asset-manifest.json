@@ -1,5 +1,5 @@
 {
-  "version": "spell3",
+  "version": "spell4",
   "files": [
     {
       "file": "制作规范与验收标准.md",
@@ -33,8 +33,8 @@
     },
     {
       "file": "adventure.js",
-      "bytes": 29446,
-      "sha256": "2dadfabc331e3fb19dff6696363f20390897b3bc926fad63087bb8fb72230b35"
+      "bytes": 29499,
+      "sha256": "fca8403db9c09a1f005fa3d65540efa59fee62eec73665bd58b960611c95d30b"
     },
     {
       "file": "alphabet-lesson.css",
@@ -49,7 +49,7 @@
     {
       "file": "app.js",
       "bytes": 32689,
-      "sha256": "c5e84c2cd0dcd108bad0ac69cbf40f1a529f06552a8f5c92e54d92a20f7af733"
+      "sha256": "53cabbb7ee80dbcf30a1a431a25a623949065e3f882b8fc868420ad9e394411a"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -4868,8 +4868,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 13950,
-      "sha256": "00f365d569444bf869726baed6f66af88bcccf36d3c6b240412b8b28649fa0f7"
+      "bytes": 14011,
+      "sha256": "c2745a2675c561c0fd1d44ff3ea090f2be4f501f1e9421f4967f855b0f89cfbb"
     },
     {
       "file": "knots-audio-data.js",
@@ -5140,6 +5140,11 @@
       "file": "speedup-content.js",
       "bytes": 10810,
       "sha256": "51f6eb3559341882cfd4af248a5b3edf69613d9be08f8fb21c1cff48bb1f3efe"
+    },
+    {
+      "file": "spelling-practice.js",
+      "bytes": 2906,
+      "sha256": "56f8590a9282989639908f23d8180c22c6a187bea7d7560e02c47da52194c9c3"
     },
     {
       "file": "star-sky.css",

@@ -91,9 +91,10 @@ function adventureWriting(q,solved){
 function adventureRenderTask(){
  const current=adventureCurrent();if(!current)return renderAdventure();
  const {mission:m,run,task:q}=current;adventureCleanup();
- const selected=[],bank=shuffle(q.parts||[...String(q.answer),...(q.extra||[])]);
+ const selected=[],required=q.parts||[...String(q.answer)];
+ const bank=shuffle([...required,...(q.extra||[])]);
  if(q.type==='order'&&!q.letterOrder&&bank.length>1&&bank.join(' ')===q.answer)bank.push(bank.shift());
- if(q.type==='spell'&&q.tilesOnly&&bank.length>1&&bank.slice(0,q.answer.length).join('')===q.answer)bank.push(bank.shift());
+ if((q.type==='build'||q.type==='spell'&&q.tilesOnly)&&q.extra?.length&&bank.slice(0,required.length).join('')===q.answer)bank.push(bank.shift());
  adventureSession={task:q.id,selected,bank,heard:adventureHeard.has(q.id),modelEnded:false,followAlong:false,recorded:false};
  const solved=!!run.answers[q.id];
  const questionAudio=q.audio?`<button type="button" class="adv-listen" data-adv-listen aria-label="${['build','spell'].includes(q.type)?'听完整单词':'听本题英式发音'}"><span aria-hidden="true">▶</span>${['build','spell'].includes(q.type)?'听单词':q.type==='speak'?(COURSE.alphabet?'先听老师读字母':'先听老师读一句'):'听一听'}</button>`:'';
