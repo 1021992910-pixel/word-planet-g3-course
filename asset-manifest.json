@@ -1,10 +1,10 @@
 {
-  "version": "write1",
+  "version": "spell2",
   "files": [
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 20350,
-      "sha256": "8bfdb67b3b9bf81dc9b842ed527591db772a65bc35507d1c820e68d505d800de"
+      "bytes": 20390,
+      "sha256": "5ddf8ec2a159000a7b6310513b42d0e9b8d26da718b4f74337d7e0d400601fcb"
     },
     {
       "file": "action-lesson.css",
@@ -33,8 +33,8 @@
     },
     {
       "file": "adventure.js",
-      "bytes": 29173,
-      "sha256": "c72d87b0df330a90163dfe796cdd3d0f48d2eced868f49b2f562ccfd66be4961"
+      "bytes": 29421,
+      "sha256": "149f4cfb2cf12668319827c266d6c1191b0994c5df01dbad8c80d859ff94a6f2"
     },
     {
       "file": "alphabet-lesson.css",
@@ -49,7 +49,7 @@
     {
       "file": "app.js",
       "bytes": 32689,
-      "sha256": "4ec479eafca181d0cc9fbd9a345fc0dfc52709e3649e7aa51cdce73994315cfe"
+      "sha256": "4bf6074818bd0f247bcedaa1d1f8b889d30911e5405784ee84d2ae8e84ad6189"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -4869,7 +4869,7 @@
     {
       "file": "index.html",
       "bytes": 13950,
-      "sha256": "02557afc3cf5f2c8f7069438826384f7dc92a63a169670272125f65de8198814"
+      "sha256": "13bddca4d31738b5920e048dd590238a2a7a71121e5def04cc78f2fa84e7d900"
     },
     {
       "file": "knots-audio-data.js",
@@ -4878,8 +4878,8 @@
     },
     {
       "file": "knots-content.js",
-      "bytes": 9414,
-      "sha256": "ba1a146993270e44209f311698fea5194425d9f13ed91649a792cdbe116315ac"
+      "bytes": 9054,
+      "sha256": "aa86fcbffec53122ebcab8dd6b02ba1fa2d2962f3ab66bf0bfb660d077efd622"
     },
     {
       "file": "knots-guided-data.js",

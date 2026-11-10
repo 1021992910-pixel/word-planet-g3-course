@@ -7,7 +7,8 @@ const AdventureModel = {
   const out=this.blank();if(!input||typeof input!=='object')return out;
   for(const m of ADVENTURE_MISSIONS){
    const r=input.completed?.[m.id];if(!r)break;
-   const total=m.tasks.filter(t=>t.type!=='speak').length;
+   const currentTotal=m.tasks.filter(t=>t.type!=='speak').length;
+   const total=m.previousTotal===r.total&&Number.isInteger(r.total)?r.total:currentTotal;
    if(!Number.isInteger(r.correct)||r.correct<0||r.correct>total)break;
    out.completed[m.id]={correct:r.correct,total,stars:this.stars(r.correct,total),attempts:Number.isInteger(r.attempts)?Math.min(9999,Math.max(1,r.attempts)):1,last:Number.isFinite(r.last)?Math.max(0,r.last):0};
   }
@@ -23,18 +24,23 @@ const AdventureModel = {
   return out;
  },
  stars(correct,total){return correct===total?3:correct>=Math.ceil(total/2)?2:1;},
+ bestScore(a,b){
+  if(!a||b.stars>a.stars||b.stars===a.stars&&b.correct>=a.correct)return b;
+  return a;
+ },
  begin(data,id){const index=ADVENTURE_MISSIONS.findIndex(m=>m.id===id);if(index<0||!this.unlocked(data,index))return false;if(data.run?.mission!==id)data.run={mission:id,index:0,answers:{},misses:[],wordResults:{},updated:Date.now()};return true;},
  finish(data){
   const run=data.run,m=ADVENTURE_MISSIONS.find(x=>x.id===run?.mission);if(!m||!m.tasks.every(t=>run.answers[t.id]))return null;
   const total=m.tasks.filter(t=>t.type!=='speak').length,correct=m.tasks.filter(t=>t.type!=='speak'&&run.answers[t.id]==='first').length;
   const old=data.completed[m.id],stars=this.stars(correct,total),reward=old?0:15;
-  data.completed[m.id]={correct:Math.max(old?.correct||0,correct),total,stars:Math.max(old?.stars||0,stars),attempts:(old?.attempts||0)+1,last:Date.now()};
+  const best=this.bestScore(old,{correct,total,stars});
+  data.completed[m.id]={...best,attempts:(old?.attempts||0)+1,last:Date.now()};
   data.run=null;return {mission:m.id,correct,total,stars,reward,wordResults:run.wordResults};
  },
  buy(data,id){const item=ADVENTURE_DECORATIONS.find(x=>x.id===id);if(!item||item.unlockLesson&&!data.unlockedDecorations?.includes(id)||data.decorations.includes(id)||this.balance(data)<item.cost)return false;data.decorations.push(id);return true;},
  merge(a,b){
   const left=this.sanitize(a),right=this.sanitize(b),result=this.blank();
-  for(const m of ADVENTURE_MISSIONS){const x=left.completed[m.id],y=right.completed[m.id];if(!x&&!y)break;result.completed[m.id]=!x?y:!y?x:{...x,correct:Math.max(x.correct,y.correct),stars:Math.max(x.stars,y.stars),attempts:Math.max(x.attempts,y.attempts),last:Math.max(x.last,y.last)};}
+  for(const m of ADVENTURE_MISSIONS){const x=left.completed[m.id],y=right.completed[m.id];if(!x&&!y)break;result.completed[m.id]=!x?y:!y?x:{...this.bestScore(x,y),attempts:Math.max(x.attempts,y.attempts),last:Math.max(x.last,y.last)};}
   result.decorations=[...new Set([...left.decorations,...right.decorations])];
   result.run=(right.run?.updated||0)>(left.run?.updated||0)?right.run:left.run;
   return this.sanitize(result);
@@ -87,6 +93,7 @@ function adventureRenderTask(){
  const {mission:m,run,task:q}=current;adventureCleanup();
  const selected=[],bank=shuffle(q.parts||[...String(q.answer),...(q.extra||[])]);
  if(q.type==='order'&&!q.letterOrder&&bank.length>1&&bank.join(' ')===q.answer)bank.push(bank.shift());
+ if(q.type==='spell'&&q.tilesOnly&&bank.length>1&&bank.join('')===q.answer)bank.push(bank.shift());
  adventureSession={task:q.id,selected,bank,heard:adventureHeard.has(q.id),modelEnded:false,followAlong:false,recorded:false};
  const solved=!!run.answers[q.id];
  const questionAudio=q.audio?`<button type="button" class="adv-listen" data-adv-listen aria-label="${['build','spell'].includes(q.type)?'听完整单词':'听本题英式发音'}"><span aria-hidden="true">▶</span>${['build','spell'].includes(q.type)?'听单词':q.type==='speak'?(COURSE.alphabet?'先听老师读字母':'先听老师读一句'):'听一听'}</button>`:'';
@@ -95,7 +102,7 @@ function adventureRenderTask(){
  if(q.type==='picture')body=`<div class="adv-picture-options">${shuffle(q.options).map(id=>`<button class="adv-picture-choice" data-adv-choice="${id}" ${solved?'disabled':''}>${adventureScene(id)}<span>${escapeHTML(ADVENTURE_WORD_SCENES[id].caption)}</span></button>`).join('')}</div>`;
  if(['choice','dialogue','gap'].includes(q.type))body=`${q.context?`<p class="adv-dialogue">${escapeHTML(q.context)}</p>`:''}${q.sentence?`<div class="adv-sentence">${escapeHTML(q.sentence).replace('___','<span class="adv-blank">?</span>')}</div><p class="adv-translation">${escapeHTML(q.zh)}</p>`:''}<div class="adv-choices">${shuffle(q.options).map((text,i)=>`<button data-adv-choice="${escapeHTML(text)}" ${solved?'disabled':''}><span>${i+1}</span>${escapeHTML(text)}</button>`).join('')}</div>`;
  if(q.type==='find')body=`<div class="adv-find-line">${q.parts.map(text=>`<button data-adv-choice="${escapeHTML(text)}" ${solved?'disabled':''}>${escapeHTML(text)}</button>`).join('')}</div><p class="adv-translation">${escapeHTML(q.zh)}</p>`;
- if(['spell','build','order'].includes(q.type))body=`${q.type==='spell'?`<p class="adv-spell-context">${escapeHTML(WORDS.find(w=>w.id===q.word).meaning)}</p>`:''}<div class="adv-assembly" aria-label="你的${q.type==='order'?(q.letterOrder?'字母队伍':'句子'):'拼写'}" data-adv-assembly><span>点下面的零件，把它们放到这里</span></div><div class="adv-bank" aria-label="点选${q.type==='order'&&!q.letterOrder?'单词':'字母'}">${bank.map((text,i)=>`<button data-adv-tile="${i}" aria-label="加入 ${escapeHTML(text)}" ${solved?'disabled':''}>${escapeHTML(text)}</button>`).join('')}</div><div class="adv-build-actions"><button class="secondary" data-adv-clear ${solved?'disabled':''}>重新排</button><button class="adv-primary" data-adv-check ${solved?'disabled':''}>检查${q.type==='order'?(q.letterOrder?'顺序':'句子'):'拼写'} ✓</button></div>${q.type==='spell'?'<details class="adv-keyboard"><summary>也可以用键盘拼写</summary><form id="adv-spell-form"><input name="spelling" aria-label="键盘输入单词" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="30"><button class="secondary" type="submit">检查</button></form></details>':''}`;
+ if(['spell','build','order'].includes(q.type))body=`${q.type==='spell'?`<p class="adv-spell-context">${escapeHTML(WORDS.find(w=>w.id===q.word).meaning)}</p>`:''}<div class="adv-assembly" aria-label="你的${q.type==='order'?(q.letterOrder?'字母队伍':'句子'):'拼写'}" data-adv-assembly><span>点下面的零件，把它们放到这里</span></div><div class="adv-bank" aria-label="点选${q.type==='order'&&!q.letterOrder?'单词':'字母'}">${bank.map((text,i)=>`<button data-adv-tile="${i}" aria-label="加入 ${escapeHTML(text)}" ${solved?'disabled':''}>${escapeHTML(text)}</button>`).join('')}</div><div class="adv-build-actions"><button class="secondary" data-adv-clear ${solved?'disabled':''}>重新排</button><button class="adv-primary" data-adv-check ${solved?'disabled':''}>检查${q.type==='order'?(q.letterOrder?'顺序':'句子'):'拼写'} ✓</button></div>${q.type==='spell'&&!q.tilesOnly?'<details class="adv-keyboard"><summary>也可以用键盘拼写</summary><form id="adv-spell-form"><input name="spelling" aria-label="键盘输入单词" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="30"><button class="secondary" type="submit">检查</button></form></details>':''}`;
  if(q.type==='write')body=adventureWriting(q,solved);
  if(q.type==='speak')body=`<div class="adv-speak-line">${timedText(q.audio,q.sentence)}</div><p class="adv-translation">${q.zh}</p><div class="adv-speech-box"><p>听老师 → ${COURSE.alphabet?'读字母名':'读一句'} → 听听自己的声音</p><button class="adv-record" data-adv-record ${solved?'disabled':''}>● 录下我的声音</button><p class="adv-note">点录音后才会申请麦克风。声音留在本页，离开这道题就清除。</p><div data-adv-recording></div><p data-adv-record-status role="status"></p><button class="adv-follow" data-adv-follow ${solved?'disabled':''}>不用录音，我跟着读一遍</button><p class="adv-note">这是朗读练习，不自动判断发音对错。</p><button class="adv-primary" data-adv-spoken ${solved?'disabled':''}>我已经开口练过了 ✓</button></div>`;
  root.innerHTML=`<div class="adv adv-game"><div class="adv-game-top"><button class="adv-back" data-adv-map>← 回冒险地图</button>${adventureWallet()}</div><div class="adv-task-progress"><span>${m.icon} ${m.title}</span><span>第 ${run.index+1} / ${m.tasks.length} 步</span></div><progress class="adv-progress" max="${m.tasks.length}" value="${run.index+(solved?1:0)}" aria-label="本关任务进度"></progress><section class="adv-task-card"><div class="adv-story-card">${adventureDestination(m.id)}<p><span>来自友谊星的任务</span>${escapeHTML(run.index===0?m.story:'离目的地又近了一步，继续帮帮新朋友吧！')}</p></div><h1 tabindex="-1">${escapeHTML(q.prompt)}</h1>${questionAudio}${taskPicture}${['picture','choice'].includes(q.type)?'<p class="adv-note adv-center">先听消息，再选答案。可以重复听。</p>':''}${body}<div class="adv-feedback ${solved?'success':''}" role="status" aria-live="polite" data-adv-feedback>${solved?(q.type==='write'?'这一步已经完成。 '+escapeHTML(q.answer):'这一步已经完成，继续向前走吧！'):''}</div><div class="adv-task-footer"><button class="adv-hint-button" data-adv-hint>需要一点提示？</button><button class="adv-primary" data-adv-next ${!solved?'hidden':''}>${run.index===m.tasks.length-1?'完成任务，领徽章 →':'接着走 →'}</button></div><p class="adv-hint" data-adv-hint-text hidden>${escapeHTML(q.hint)}</p></section><p class="adv-note adv-center">答错可以重试，不会扣金币。退出后会记住已经走到哪一步。</p></div>`;
