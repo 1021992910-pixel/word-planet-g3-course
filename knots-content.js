@@ -53,12 +53,12 @@ const KNOT_MISSIONS=[
  ]},
  {id:'supply',title:'写好手工材料标签',skill:'听整词 · 独立拼写',icon:'🎒',story:'听完整词，再给手工材料和动作写标签。',done:'标签写好了，去接句子。',tasks:[
   {id:'u42-spell-rope',type:'spell',word:'rope',audio:'rope',prompt:'听单词，再用字母拼写',extra:['a'],answer:'rope',hint:'注意长元音的拼写，最后有一个不单独发音的 e。'},
-  {id:'u42-spell-make',type:'spell',word:'make',audio:'make',prompt:'听单词，再用字母拼写',extra:['i'],answer:'make',hint:'把开头、中间、结尾的声音听清楚，最后有静音 e。'},
+  {id:'u42-write-make',type:'write',word:'make',audio:'make',prompt:'听单词，再自己拼写',zh:'制作；编做',answer:'make',hint:'听中间的长元音，想想词尾有没有一个静音字母。'},
  ]},
- {id:'bridge',title:'把工坊里的话连成句',skill:'填词 · 组句 · 找词',icon:'🌉',story:'先问数量，再把看到的东西说给伙伴听。',done:'句子接好了，拿上数数卡。',tasks:[
-  {id:'u42-gap-how',type:'gap',word:'how',audio:'u42-ropes',prompt:'想问“有几根绳？”，句首填什么？',sentence:'___ many ropes?',zh:'有几根绳？',options:['How','Who','What'],answer:'How',hint:'和 many 连起来问数量。'},
+ {id:'bridge',title:'把工坊里的话连成句',skill:'排序 · 写句子 · 找词',icon:'🌉',story:'先问数量，再把看到的东西说给伙伴听。',done:'句子接好了，拿上数数卡。',tasks:[
   {id:'u42-gap-who',type:'gap',word:'who',audio:'u42-who',prompt:'问“谁会编中国结？”，句首填什么？',sentence:'___ can make a Chinese knot?',zh:'谁会编中国结？',options:['Who','How','One'],answer:'Who',hint:'问题想知道的是一个人。'},
   {id:'u42-order-knot',type:'order',word:'chinese-knot',audio:'u42-knot',prompt:'排成一句“这是一个中国结。”',parts:['This','is','a','Chinese knot.'],answer:'This is a Chinese knot.',hint:'先从 This 开始介绍。'},
+  {id:'u42-write-one-rope',type:'write',audio:'u42-one-rope',prompt:'听一听，把整句话写出来',zh:'只有一根绳！',answer:'Only one rope!',hint:'先写“只有”，再写数量，最后写材料。'},
   {id:'u42-find-beautiful',type:'find',word:'beautiful',audio:'u42-beautiful',prompt:'句子里哪个词表示“美丽的”？',parts:['What','a','beautiful','knot!'],answer:'beautiful',zh:'多漂亮的结呀！',hint:'它在 knot 前面，描述这个结好看。'},
  ]},
  {id:'friends',title:'数清中国结，再回答',skill:'看图 · 听问句 · 说数量',icon:'🤝',story:'一张卡上有几个中国结？先看图数，再回答。',done:'三张卡数清啦，去和伙伴交换角色。',tasks:KNOT_COUNTS.map(([count,,answer])=>({
@@ -69,8 +69,8 @@ const KNOT_MISSIONS=[
  }))},
  {id:'party',title:'当一回工坊小讲解员',skill:'听懂 · 迁移 · 自愿开口',icon:'🎉',story:'数完中国结，换成文具问伙伴，再说一说你的发现。',done:'手工桌上的数字任务完成！可以兑换中国结纪念画。',tasks:[
   {id:'u42-amazing',type:'choice',word:'amazing',audio:'u42-amazing',prompt:'听到的最后一个词表示什么？',options:['令人惊讶的','仅仅','制作'],answer:'令人惊讶的',hint:'伙伴听到一根绳，觉得很神奇。'},
-  {id:'u42-hear-pencils',type:'choice',word:'pencil',audio:'u42-pencils',prompt:'这个问题在数哪种文具？',options:['铅笔','橡皮','尺子'],answer:'铅笔',hint:'听问句最后一个词。'},
-  {id:'u42-hear-eraser',type:'choice',word:'eraser',audio:'u42-one-eraser',prompt:'这句回答说有多少块橡皮？',options:['一块','三块','六块'],answer:'一块',hint:'先听橡皮前面的数量。'},
+  {id:'u42-write-pencils',type:'write',audio:'u42-pencils',prompt:'把这句问话写出来',zh:'有几支铅笔？',answer:'How many pencils?',hint:'先想询问数量的两个词，最后写要数的东西。'},
+  {id:'u42-contrast-show',type:'gap',word:'show',audio:'u42-show',prompt:'哪个词能放进这句话？',sentence:'Let me ___ you.',zh:'让我做给你看。',options:['show','how'],answer:'show',hint:'这里要填“给……看”。留意开头的字母和听到的元音。'},
   {id:'u42-speak',type:'speak',audio:'u42-knots',scene:'knot-count-3',sceneAlt:'一组分开的中国结。',
    prompt:'先问有几个中国结，再自己回答',sentence:'How many Chinese knots?',zh:'有几个中国结？数完说出英文数字。也可以把 Chinese knots 换成 pencils，和伙伴互相问。',hint:'可以先听示范，自愿录音。'},
  ]},
