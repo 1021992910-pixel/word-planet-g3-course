@@ -1,5 +1,5 @@
 {
-  "version": "w45",
+  "version": "packfix",
   "files": [
     {
       "file": "制作规范与验收标准.md",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 33173,
-      "sha256": "138f993e813166016ef124e5184580b9fad41baf3a32c8a5be87b83e0595c2d4"
+      "bytes": 33177,
+      "sha256": "8afe513e623bc4118ae3d7fff7cdce0250c015db0681cc248163c50f882547f2"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -1018,8 +1018,8 @@
     },
     {
       "file": "assets/audio/guided-for.mp3",
-      "bytes": 22125,
-      "sha256": "480e7224aab4c140e1b3f237bc7e7d557f4f5666b2cb9cbf95051707d9662b79"
+      "bytes": 15477,
+      "sha256": "4652b379694c4a49d906cf2c420075c5ad23c4d806cdd71ea0da9ef8df41c46f"
     },
     {
       "file": "assets/audio/guided-four.mp3",
@@ -1493,8 +1493,8 @@
     },
     {
       "file": "assets/audio/guided-school.mp3",
-      "bytes": 21093,
-      "sha256": "62efe2e8d077a7add2fb2857eb10797c04d259672377813e226cd09818aba587"
+      "bytes": 19509,
+      "sha256": "894e4882a8d52a09491e3e9c27096a86d9439e8fd7448bcfe2350d88ab37e8f3"
     },
     {
       "file": "assets/audio/guided-schoolbag.mp3",
@@ -1588,8 +1588,8 @@
     },
     {
       "file": "assets/audio/guided-thing.mp3",
-      "bytes": 19269,
-      "sha256": "2d28a3732efb1ccf08da5c694294a6d7c7a3c91d92398ed3a34f1b03f90fead5"
+      "bytes": 12933,
+      "sha256": "f55a5bab60cbe00e0e92e83b572b8eda3f0bd48be35e667f03ea1266839d4ced"
     },
     {
       "file": "assets/audio/guided-this.mp3",
@@ -2362,6 +2362,11 @@
       "sha256": "36254013a93d4e345889e804e2ba80fde79576e4c0ed2102e86083cf88b70d35"
     },
     {
+      "file": "assets/audio/paced-for.mp3",
+      "bytes": 26085,
+      "sha256": "3078b1b8b1d5980ea23386ad71e1e6a8ed1991a0525f157738207553a0c5749e"
+    },
+    {
       "file": "assets/audio/paced-four.mp3",
       "bytes": 25605,
       "sha256": "95c0bb10170a414fa6762db212713ee1cabf53dc85c97d167d45b04fad2a65c0"
@@ -2652,6 +2657,11 @@
       "sha256": "947fc03fdbe81476c1caeaeeb1142817ff8e9b2499246210c1d4096dfdc96002"
     },
     {
+      "file": "assets/audio/paced-school.mp3",
+      "bytes": 34605,
+      "sha256": "4f0980b6378520616904fda25e239a062cd5c79d4407b2de4fa8c6f8b6655caf"
+    },
+    {
       "file": "assets/audio/paced-schoolbag.mp3",
       "bytes": 66189,
       "sha256": "eb28868fa5a090cdb6bab2fe966b33ff36ba041e631ddd5f41b1a160e93b6e32"
@@ -2720,6 +2730,11 @@
       "file": "assets/audio/paced-that.mp3",
       "bytes": 26517,
       "sha256": "5fa5b32101b9fb77922707e12a291ba5fbabe4aad914839a7d99857347606bd7"
+    },
+    {
+      "file": "assets/audio/paced-thing.mp3",
+      "bytes": 24333,
+      "sha256": "d180b7cef58919a7fa3c491eb83f858fd0625ef3d763eac7776291e5cd081f28"
     },
     {
       "file": "assets/audio/paced-this.mp3",
@@ -5178,8 +5193,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 14603,
-      "sha256": "69f4488899f4cf554ce75db58df13db757e3d6c6e3afbb77dc8aba0ab7196d52"
+      "bytes": 14617,
+      "sha256": "f6a1e43599cdfa6fbd6a58ab4cb3462a4b28e6418e1085c0e31a07cb7f1cfc74"
     },
     {
       "file": "knots-audio-data.js",
@@ -5378,18 +5393,18 @@
     },
     {
       "file": "pack-content.js",
-      "bytes": 8191,
-      "sha256": "e30a3f285ba91098c3f4e3158a6cde6ab3f4a237bef56e2e066b4c86ec666b1d"
+      "bytes": 8229,
+      "sha256": "ddae576e628ba651323938c063470e7a4e8adc09a925b05d938bcb0a6f6113a3"
     },
     {
       "file": "pack-guided-data.js",
-      "bytes": 15486,
-      "sha256": "fe0a86eb95b432577d328b5eb85db856ef86b6c823b57dc676b16a41c6343d40"
+      "bytes": 19043,
+      "sha256": "e68f5cdda6293e0b953dddb7e986f6671399273ca80aec69b8aa94f66be2afc8"
     },
     {
       "file": "pack-lesson.js",
-      "bytes": 2662,
-      "sha256": "ff1cf34591cae64ef72240d394938776fbff8af5390ea81be6909a1f9e4f737c"
+      "bytes": 2409,
+      "sha256": "9598848211dc79a3a510190712d57784a2fb93929d9c5015239e13fedb46487d"
     },
     {
       "file": "paint-audio-data.js",
