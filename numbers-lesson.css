@@ -17,3 +17,6 @@
 .count-mark{position:absolute;right:5px;top:5px;background:#376344;color:white;border-radius:50%;min-width:26px;line-height:26px;font-weight:700}
 .count-mark:empty{display:none}
 @media(max-width:600px){.number-listening{grid-template-columns:repeat(2,minmax(0,1fr))}.number-count-grid{gap:6px;padding:8px}.count-bird{padding:2px}.count-mark{min-width:22px;line-height:22px;font-size:.8rem}.number-picture{border-radius:12px}}
+
+.knot-picture{background:#f8eee3}
+.knot-picture img{max-height:100%;width:100%;object-fit:contain}

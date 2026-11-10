@@ -1,0 +1,1216 @@
+{
+  "clips": {
+    "rope": {
+      "text": "rope.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "rope.mp3",
+      "words": [
+        {
+          "text": "rope",
+          "start": 0.123541,
+          "end": 0.741207
+        }
+      ]
+    },
+    "make": {
+      "text": "make.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "make.mp3",
+      "words": [
+        {
+          "text": "make",
+          "start": 0.108833,
+          "end": 0.711791
+        }
+      ]
+    },
+    "only": {
+      "text": "only.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "only.mp3",
+      "words": [
+        {
+          "text": "only",
+          "start": 0.108833,
+          "end": 0.726499
+        }
+      ]
+    },
+    "show": {
+      "text": "show.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "show.mp3",
+      "words": [
+        {
+          "text": "show",
+          "start": 0.102208,
+          "end": 0.705166
+        }
+      ]
+    },
+    "beautiful": {
+      "text": "beautiful.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "beautiful.mp3",
+      "words": [
+        {
+          "text": "beautiful",
+          "start": 0.102208,
+          "end": 1.102208
+        }
+      ]
+    },
+    "amazing": {
+      "text": "amazing.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "amazing.mp3",
+      "words": [
+        {
+          "text": "amazing",
+          "start": 0.123541,
+          "end": 1.005874
+        }
+      ]
+    },
+    "who": {
+      "text": "Who?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "who.mp3",
+      "words": [
+        {
+          "text": "Who",
+          "start": 0.13825,
+          "end": 0.63825
+        }
+      ]
+    },
+    "chinese-knot": {
+      "text": "Chinese knot.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "chinese-knot.mp3",
+      "words": [
+        {
+          "text": "Chinese",
+          "start": 0.102208,
+          "end": 0.793374
+        },
+        {
+          "text": "knot",
+          "start": 0.808083,
+          "end": 1.381624
+        }
+      ]
+    },
+    "u42-knot": {
+      "text": "This is a Chinese knot.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-knot.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.102208,
+          "end": 0.440458
+        },
+        {
+          "text": "is",
+          "start": 0.455166,
+          "end": 0.572832
+        },
+        {
+          "text": "a",
+          "start": 0.5875,
+          "end": 0.67575
+        },
+        {
+          "text": "Chinese",
+          "start": 0.690458,
+          "end": 1.352208
+        },
+        {
+          "text": "knot",
+          "start": 1.366916,
+          "end": 1.925749
+        }
+      ]
+    },
+    "u42-beautiful": {
+      "text": "What a beautiful knot!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-beautiful.mp3",
+      "words": [
+        {
+          "text": "What",
+          "start": 0.13825,
+          "end": 0.38825
+        },
+        {
+          "text": "a",
+          "start": 0.402958,
+          "end": 0.505916
+        },
+        {
+          "text": "beautiful",
+          "start": 0.520583,
+          "end": 1.211749
+        },
+        {
+          "text": "knot",
+          "start": 1.226458,
+          "end": 1.726458
+        }
+      ]
+    },
+    "u42-who": {
+      "text": "Who can make a Chinese knot?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-who.mp3",
+      "words": [
+        {
+          "text": "Who",
+          "start": 0.13825,
+          "end": 0.314708
+        },
+        {
+          "text": "can",
+          "start": 0.329416,
+          "end": 0.505874
+        },
+        {
+          "text": "make",
+          "start": 0.520583,
+          "end": 0.785291
+        },
+        {
+          "text": "a",
+          "start": 0.8,
+          "end": 0.88825
+        },
+        {
+          "text": "Chinese",
+          "start": 0.902958,
+          "end": 1.535291
+        },
+        {
+          "text": "knot",
+          "start": 1.55,
+          "end": 2.094125
+        }
+      ]
+    },
+    "u42-ropes": {
+      "text": "How many ropes?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-ropes.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.123541,
+          "end": 0.329416
+        },
+        {
+          "text": "many",
+          "start": 0.344125,
+          "end": 0.623541
+        },
+        {
+          "text": "ropes",
+          "start": 0.63825,
+          "end": 1.417666
+        }
+      ]
+    },
+    "u42-one-rope": {
+      "text": "Only one rope!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-one-rope.mp3",
+      "words": [
+        {
+          "text": "Only",
+          "start": 0.108833,
+          "end": 0.491166
+        },
+        {
+          "text": "one",
+          "start": 0.505875,
+          "end": 0.888208
+        },
+        {
+          "text": "rope",
+          "start": 0.902958,
+          "end": 1.388249
+        }
+      ]
+    },
+    "u42-amazing": {
+      "text": "One rope? Amazing!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-amazing.mp3",
+      "words": [
+        {
+          "text": "One",
+          "start": 0.13825,
+          "end": 0.461791
+        },
+        {
+          "text": "rope",
+          "start": 0.476458,
+          "end": 1.079416
+        },
+        {
+          "text": "Amazing",
+          "start": 1.529416,
+          "end": 2.338249
+        }
+      ]
+    },
+    "u42-make": {
+      "text": "I can make a Chinese knot.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-make.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.123541,
+          "end": 0.270582
+        },
+        {
+          "text": "can",
+          "start": 0.285291,
+          "end": 0.476457
+        },
+        {
+          "text": "make",
+          "start": 0.491166,
+          "end": 0.741166
+        },
+        {
+          "text": "a",
+          "start": 0.755875,
+          "end": 0.844125
+        },
+        {
+          "text": "Chinese",
+          "start": 0.858833,
+          "end": 1.491166
+        },
+        {
+          "text": "knot",
+          "start": 1.505875,
+          "end": 2.064708
+        }
+      ]
+    },
+    "u42-show": {
+      "text": "Let me show you.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-show.mp3",
+      "words": [
+        {
+          "text": "Let",
+          "start": 0.102208,
+          "end": 0.469874
+        },
+        {
+          "text": "me",
+          "start": 0.484541,
+          "end": 0.631582
+        },
+        {
+          "text": "show",
+          "start": 0.646333,
+          "end": 0.955166
+        },
+        {
+          "text": "you",
+          "start": 0.969833,
+          "end": 1.425708
+        }
+      ]
+    },
+    "u42-knots": {
+      "text": "How many Chinese knots?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-knots.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.667666
+        },
+        {
+          "text": "Chinese",
+          "start": 0.682333,
+          "end": 1.314666
+        },
+        {
+          "text": "knots",
+          "start": 1.329416,
+          "end": 2.005874
+        }
+      ]
+    },
+    "u42-pencils": {
+      "text": "How many pencils?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-pencils.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.358833
+        },
+        {
+          "text": "many",
+          "start": 0.373541,
+          "end": 0.682374
+        },
+        {
+          "text": "pencils",
+          "start": 0.697041,
+          "end": 1.638207
+        }
+      ]
+    },
+    "u42-erasers": {
+      "text": "How many erasers?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-erasers.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.711791
+        },
+        {
+          "text": "erasers",
+          "start": 0.726458,
+          "end": 1.682333
+        }
+      ]
+    },
+    "u42-three-pencils": {
+      "text": "Three pencils.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-three-pencils.mp3",
+      "words": [
+        {
+          "text": "Three",
+          "start": 0.123541,
+          "end": 0.505874
+        },
+        {
+          "text": "pencils",
+          "start": 0.520583,
+          "end": 1.491166
+        }
+      ]
+    },
+    "u42-one-eraser": {
+      "text": "One eraser.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-one-eraser.mp3",
+      "words": [
+        {
+          "text": "One",
+          "start": 0.123541,
+          "end": 0.461791
+        },
+        {
+          "text": "eraser",
+          "start": 0.476458,
+          "end": 1.299999
+        }
+      ]
+    },
+    "u42-four-knots": {
+      "text": "Four Chinese knots.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-four-knots.mp3",
+      "words": [
+        {
+          "text": "Four",
+          "start": 0.123541,
+          "end": 0.447082
+        },
+        {
+          "text": "Chinese",
+          "start": 0.46175,
+          "end": 1.1235
+        },
+        {
+          "text": "knots",
+          "start": 1.13825,
+          "end": 1.814708
+        }
+      ]
+    },
+    "u42-three-knots": {
+      "text": "Three Chinese knots.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-three-knots.mp3",
+      "words": [
+        {
+          "text": "Three",
+          "start": 0.102208,
+          "end": 0.528666
+        },
+        {
+          "text": "Chinese",
+          "start": 0.543375,
+          "end": 1.190416
+        },
+        {
+          "text": "knots",
+          "start": 1.205166,
+          "end": 1.881624
+        }
+      ]
+    },
+    "u42-two-knots": {
+      "text": "Two Chinese knots.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-two-knots.mp3",
+      "words": [
+        {
+          "text": "Two",
+          "start": 0.102208,
+          "end": 0.425749
+        },
+        {
+          "text": "Chinese",
+          "start": 0.440458,
+          "end": 1.072791
+        },
+        {
+          "text": "knots",
+          "start": 1.0875,
+          "end": 1.763958
+        }
+      ]
+    },
+    "u42-two-ropes": {
+      "text": "Two ropes.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u42-two-ropes.mp3",
+      "words": [
+        {
+          "text": "Two",
+          "start": 0.123541,
+          "end": 0.402957
+        },
+        {
+          "text": "ropes",
+          "start": 0.417666,
+          "end": 1.138249
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "rope": [
+        [
+          "r",
+          "o_e",
+          "p"
+        ],
+        [
+          "clear-r",
+          "clear-oh",
+          "clear-p"
+        ],
+        "o 和词尾 e 一起提示 /əʊ/，e 不单独出声。"
+      ],
+      "make": [
+        [
+          "m",
+          "a_e",
+          "k"
+        ],
+        [
+          "clear-m",
+          "clear-ay",
+          "clear-k"
+        ],
+        "a 和词尾 e 一起提示 /eɪ/，e 不单独出声。"
+      ],
+      "only": [
+        [
+          "o",
+          "n",
+          "l",
+          "y"
+        ],
+        [
+          "clear-oh",
+          "clear-n",
+          "clear-l",
+          "clear-i-short"
+        ],
+        "先听 on 和 ly 两拍，o 在这里读 /əʊ/，词尾 y 读轻短的 /i/。"
+      ],
+      "show": [
+        [
+          "sh",
+          "ow"
+        ],
+        [
+          "startup-sh",
+          "clear-oh"
+        ],
+        "sh 合读 /ʃ/；ow 在 show 里读 /əʊ/，和 how 里的 ow 不一样。"
+      ],
+      "beautiful": [
+        [
+          "b",
+          "eau",
+          "t",
+          "i",
+          "f",
+          "u",
+          "l"
+        ],
+        [
+          "clear-b",
+          "startup-yoo",
+          "clear-t",
+          "clear-ih",
+          "clear-f",
+          "clear-schwa",
+          "clear-l"
+        ],
+        "先听 beau、ti、ful 三拍，第一拍重。eau 在这个词里合读 /juː/，ful 轻轻带过。"
+      ],
+      "amazing": [
+        [
+          "a",
+          "m",
+          "a",
+          "z",
+          "i",
+          "ng"
+        ],
+        [
+          "clear-schwa",
+          "clear-m",
+          "clear-ay",
+          "clear-z",
+          "clear-ih",
+          "clear-ng"
+        ],
+        "先听 a、ma、zing 三拍，中间一拍重。第一个 a 轻读 /ə/，ng 合读 /ŋ/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "rope": {
+        "audio": "guided-rope",
+        "kind": "phonics",
+        "parts": [
+          "r",
+          "o_e",
+          "p"
+        ],
+        "sounds": [
+          "clear-r",
+          "clear-oh",
+          "clear-p"
+        ],
+        "hint": "o 和词尾 e 一起提示 /əʊ/，e 不单独出声。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.085,
+            "end": 0.425,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-oh"
+          },
+          {
+            "start": 0.425,
+            "end": 0.465,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-p"
+          },
+          {
+            "start": 0.465,
+            "end": 1.335,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.465,
+                "end": 0.61175
+              },
+              {
+                "index": 1,
+                "start": 0.61175,
+                "end": 1.19875
+              },
+              {
+                "index": 2,
+                "start": 1.19875,
+                "end": 1.335
+              }
+            ]
+          },
+          {
+            "start": 1.335,
+            "end": 1.895,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.895
+      },
+      "make": {
+        "audio": "guided-make",
+        "kind": "phonics",
+        "parts": [
+          "m",
+          "a_e",
+          "k"
+        ],
+        "sounds": [
+          "clear-m",
+          "clear-ay",
+          "clear-k"
+        ],
+        "hint": "a 和词尾 e 一起提示 /eɪ/，e 不单独出声。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-m"
+          },
+          {
+            "start": 0.085,
+            "end": 0.435,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-ay"
+          },
+          {
+            "start": 0.435,
+            "end": 0.5,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-k"
+          },
+          {
+            "start": 0.5,
+            "end": 1.32,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.5,
+                "end": 0.6435
+              },
+              {
+                "index": 1,
+                "start": 0.6435,
+                "end": 1.1765
+              },
+              {
+                "index": 2,
+                "start": 1.1765,
+                "end": 1.32
+              }
+            ]
+          },
+          {
+            "start": 1.32,
+            "end": 1.87,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.87
+      },
+      "only": {
+        "audio": "guided-only",
+        "kind": "phonics",
+        "parts": [
+          "o",
+          "n",
+          "l",
+          "y"
+        ],
+        "sounds": [
+          "clear-oh",
+          "clear-n",
+          "clear-l",
+          "clear-i-short"
+        ],
+        "hint": "先听 on 和 ly 两拍，o 在这里读 /əʊ/，词尾 y 读轻短的 /i/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.34,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-oh"
+          },
+          {
+            "start": 0.34,
+            "end": 0.445,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.445,
+            "end": 0.53,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.53,
+            "end": 0.695,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-i-short"
+          },
+          {
+            "start": 0.695,
+            "end": 1.575,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.695,
+                "end": 1.065
+              },
+              {
+                "index": 1,
+                "start": 1.065,
+                "end": 1.175
+              },
+              {
+                "index": 2,
+                "start": 1.175,
+                "end": 1.26
+              },
+              {
+                "index": 3,
+                "start": 1.26,
+                "end": 1.575
+              }
+            ]
+          },
+          {
+            "start": 1.575,
+            "end": 2.155,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.155,
+        "syllables": [
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "show": {
+        "audio": "guided-show",
+        "kind": "phonics",
+        "parts": [
+          "sh",
+          "ow"
+        ],
+        "sounds": [
+          "startup-sh",
+          "clear-oh"
+        ],
+        "hint": "sh 合读 /ʃ/；ow 在 show 里读 /əʊ/，和 how 里的 ow 不一样。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.18,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "startup-sh"
+          },
+          {
+            "start": 0.18,
+            "end": 0.52,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-oh"
+          },
+          {
+            "start": 0.52,
+            "end": 1.33,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.52,
+                "end": 0.7272083333333333
+              },
+              {
+                "index": 1,
+                "start": 0.7272083333333333,
+                "end": 1.33
+              }
+            ]
+          },
+          {
+            "start": 1.33,
+            "end": 1.87,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.87
+      },
+      "beautiful": {
+        "audio": "guided-beautiful",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "eau",
+          "t",
+          "i",
+          "f",
+          "u",
+          "l"
+        ],
+        "sounds": [
+          "clear-b",
+          "startup-yoo",
+          "clear-t",
+          "clear-ih",
+          "clear-f",
+          "clear-schwa",
+          "clear-l"
+        ],
+        "hint": "先听 beau、ti、ful 三拍，第一拍重。eau 在这个词里合读 /juː/，ful 轻轻带过。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.422,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "startup-yoo"
+          },
+          {
+            "start": 0.422,
+            "end": 0.502,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-t"
+          },
+          {
+            "start": 0.502,
+            "end": 0.612,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.612,
+            "end": 0.7579583333333333,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "clear-f"
+          },
+          {
+            "start": 0.7579583333333333,
+            "end": 0.8329583333333334,
+            "phase": "phoneme",
+            "index": 5,
+            "clip": "clear-schwa"
+          },
+          {
+            "start": 0.8329583333333334,
+            "end": 0.9179583333333333,
+            "phase": "phoneme",
+            "index": 6,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.9179583333333333,
+            "end": 2.2079583333333335,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.9179583333333333,
+                "end": 0.9629583333333334
+              },
+              {
+                "index": 1,
+                "start": 0.9629583333333334,
+                "end": 1.3329583333333332
+              },
+              {
+                "index": 2,
+                "start": 1.3329583333333332,
+                "end": 1.4679583333333333
+              },
+              {
+                "index": 3,
+                "start": 1.4679583333333333,
+                "end": 1.6379583333333334
+              },
+              {
+                "index": 4,
+                "start": 1.6379583333333334,
+                "end": 1.8329583333333332
+              },
+              {
+                "index": 5,
+                "start": 1.8329583333333332,
+                "end": 1.9829583333333334
+              },
+              {
+                "index": 6,
+                "start": 1.9829583333333334,
+                "end": 2.2079583333333335
+              }
+            ]
+          },
+          {
+            "start": 2.2079583333333335,
+            "end": 3.057958333333333,
+            "phase": "word"
+          }
+        ],
+        "duration": 3.057958333333333,
+        "syllables": [
+          [
+            4,
+            1
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      },
+      "amazing": {
+        "audio": "guided-amazing",
+        "kind": "phonics",
+        "parts": [
+          "a",
+          "m",
+          "a",
+          "z",
+          "i",
+          "ng"
+        ],
+        "sounds": [
+          "clear-schwa",
+          "clear-m",
+          "clear-ay",
+          "clear-z",
+          "clear-ih",
+          "clear-ng"
+        ],
+        "hint": "先听 a、ma、zing 三拍，中间一拍重。第一个 a 轻读 /ə/，ng 合读 /ŋ/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.075,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-schwa"
+          },
+          {
+            "start": 0.075,
+            "end": 0.16,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-m"
+          },
+          {
+            "start": 0.16,
+            "end": 0.51,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-ay"
+          },
+          {
+            "start": 0.51,
+            "end": 0.66,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-z"
+          },
+          {
+            "start": 0.66,
+            "end": 0.77,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.77,
+            "end": 0.925,
+            "phase": "phoneme",
+            "index": 5,
+            "clip": "clear-ng"
+          },
+          {
+            "start": 0.925,
+            "end": 2.145,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.925,
+                "end": 1.065
+              },
+              {
+                "index": 1,
+                "start": 1.065,
+                "end": 1.205
+              },
+              {
+                "index": 2,
+                "start": 1.205,
+                "end": 1.595
+              },
+              {
+                "index": 3,
+                "start": 1.595,
+                "end": 1.74
+              },
+              {
+                "index": 4,
+                "start": 1.74,
+                "end": 1.93
+              },
+              {
+                "index": 5,
+                "start": 1.93,
+                "end": 2.145
+              }
+            ]
+          },
+          {
+            "start": 2.145,
+            "end": 2.945,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.945,
+        "syllables": [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "who": {
+        "audio": "guided-who",
+        "kind": "context-word",
+        "parts": [
+          "who"
+        ],
+        "hint": "who 用来问人。这里 wh 对应 /h/，先听清完整词 /huː/，再听它在问题里怎么说。",
+        "duration": 5.87,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.48,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 0.98,
+            "end": 2.87,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      },
+      "chinese-knot": {
+        "audio": "guided-chinese-knot",
+        "kind": "context-word",
+        "parts": [
+          "chinese knot"
+        ],
+        "hint": "Chinese knot 是中国结。knot 开头的 k 不发音，短语先连起来听和说。",
+        "duration": 6.4,
+        "steps": [
+          {
+            "start": 0,
+            "end": 1.19,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.69,
+            "end": 3.4,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  }
+}
