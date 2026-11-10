@@ -27,6 +27,10 @@ CAMP_SOUVENIRS.push({
  id:'hatching-chick-memory',name:'破壳小鸡纪念画',icon:'✦',cost:60,unlockLesson:'unit4-03',
  description:'把鸡妈妈数小鸡的故事带回营地',scene:'u4-hatch',lessonLabel:'Unit 4 第3课',
 });
+CAMP_SOUVENIRS.push({
+ id:'number-clock-memory',name:'数字钟面纪念画',icon:'✦',cost:60,unlockLesson:'unit4-04',
+ description:'把在校园里找到的数字挂进营地',scene:'u4-numbers-around',lessonLabel:'Unit 4 第4课',
+});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},

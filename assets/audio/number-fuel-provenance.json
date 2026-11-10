@@ -1,0 +1,1060 @@
+{
+  "clips": {
+    "big": {
+      "text": "big.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "big.mp3",
+      "words": [
+        {
+          "text": "big",
+          "start": 0.13825,
+          "end": 0.623541
+        }
+      ]
+    },
+    "little": {
+      "text": "little.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "little.mp3",
+      "words": [
+        {
+          "text": "little",
+          "start": 0.13825,
+          "end": 0.844125
+        }
+      ]
+    },
+    "all": {
+      "text": "all.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "all.mp3",
+      "words": [
+        {
+          "text": "all",
+          "start": 0.102208,
+          "end": 0.661041
+        }
+      ]
+    },
+    "around": {
+      "text": "around.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "around.mp3",
+      "words": [
+        {
+          "text": "around",
+          "start": 0.152958,
+          "end": 0.917666
+        }
+      ]
+    },
+    "everywhere": {
+      "text": "everywhere.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "everywhere.mp3",
+      "words": [
+        {
+          "text": "everywhere",
+          "start": 0.123541,
+          "end": 1.005874
+        }
+      ]
+    },
+    "all-around": {
+      "text": "All around.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "all-around.mp3",
+      "words": [
+        {
+          "text": "All",
+          "start": 0.152958,
+          "end": 0.388249
+        },
+        {
+          "text": "around",
+          "start": 0.402958,
+          "end": 1.123541
+        }
+      ]
+    },
+    "u44-around": {
+      "text": "There are numbers all around us.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-around.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.152958,
+          "end": 0.314708
+        },
+        {
+          "text": "are",
+          "start": 0.329416,
+          "end": 0.447082
+        },
+        {
+          "text": "numbers",
+          "start": 0.46175,
+          "end": 1.05
+        },
+        {
+          "text": "all",
+          "start": 1.064708,
+          "end": 1.285291
+        },
+        {
+          "text": "around",
+          "start": 1.3,
+          "end": 1.755875
+        },
+        {
+          "text": "us",
+          "start": 1.770583,
+          "end": 2.255874
+        }
+      ]
+    },
+    "u44-all": {
+      "text": "Look at all the numbers.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-all.mp3",
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.123541,
+          "end": 0.432374
+        },
+        {
+          "text": "at",
+          "start": 0.447041,
+          "end": 0.623499
+        },
+        {
+          "text": "all",
+          "start": 0.63825,
+          "end": 0.814708
+        },
+        {
+          "text": "the",
+          "start": 0.829416,
+          "end": 0.947082
+        },
+        {
+          "text": "numbers",
+          "start": 0.96175,
+          "end": 1.726458
+        }
+      ]
+    },
+    "u44-big": {
+      "text": "I see a big number.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-big.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.314708
+        },
+        {
+          "text": "see",
+          "start": 0.329416,
+          "end": 0.652957
+        },
+        {
+          "text": "a",
+          "start": 0.667666,
+          "end": 0.770624
+        },
+        {
+          "text": "big",
+          "start": 0.785291,
+          "end": 1.049999
+        },
+        {
+          "text": "number",
+          "start": 1.064708,
+          "end": 1.682374
+        }
+      ]
+    },
+    "u44-little": {
+      "text": "I see a little number.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-little.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.329416
+        },
+        {
+          "text": "see",
+          "start": 0.344125,
+          "end": 0.755875
+        },
+        {
+          "text": "a",
+          "start": 0.770583,
+          "end": 0.844124
+        },
+        {
+          "text": "little",
+          "start": 0.858833,
+          "end": 1.241166
+        },
+        {
+          "text": "number",
+          "start": 1.255875,
+          "end": 1.844125
+        }
+      ]
+    },
+    "u44-everywhere": {
+      "text": "There are numbers everywhere.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-everywhere.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.152958,
+          "end": 0.314708
+        },
+        {
+          "text": "are",
+          "start": 0.329416,
+          "end": 0.447082
+        },
+        {
+          "text": "numbers",
+          "start": 0.46175,
+          "end": 1.05
+        },
+        {
+          "text": "everywhere",
+          "start": 1.064708,
+          "end": 1.829416
+        }
+      ]
+    },
+    "u44-clock": {
+      "text": "I see numbers on a clock.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-clock.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "see",
+          "start": 0.314708,
+          "end": 0.623541
+        },
+        {
+          "text": "numbers",
+          "start": 0.63825,
+          "end": 1.211791
+        },
+        {
+          "text": "on",
+          "start": 1.226458,
+          "end": 1.388208
+        },
+        {
+          "text": "a",
+          "start": 1.402958,
+          "end": 1.476499
+        },
+        {
+          "text": "clock",
+          "start": 1.491166,
+          "end": 2.123499
+        }
+      ]
+    },
+    "u44-plate": {
+      "text": "I see numbers on a number plate.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-plate.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.314708
+        },
+        {
+          "text": "see",
+          "start": 0.329416,
+          "end": 0.638249
+        },
+        {
+          "text": "numbers",
+          "start": 0.652958,
+          "end": 1.270624
+        },
+        {
+          "text": "on",
+          "start": 1.285291,
+          "end": 1.491166
+        },
+        {
+          "text": "a",
+          "start": 1.505875,
+          "end": 1.55
+        },
+        {
+          "text": "number",
+          "start": 1.564708,
+          "end": 1.947041
+        },
+        {
+          "text": "plate",
+          "start": 1.96175,
+          "end": 2.594083
+        }
+      ]
+    },
+    "u44-poem": {
+      "text": "I see numbers in a poem.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-poem.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "see",
+          "start": 0.314708,
+          "end": 0.594124
+        },
+        {
+          "text": "numbers",
+          "start": 0.608833,
+          "end": 1.167666
+        },
+        {
+          "text": "in",
+          "start": 1.182333,
+          "end": 1.314666
+        },
+        {
+          "text": "a",
+          "start": 1.329416,
+          "end": 1.417666
+        },
+        {
+          "text": "poem",
+          "start": 1.432333,
+          "end": 2.049999
+        }
+      ]
+    },
+    "u44-listen-order": {
+      "text": "I see numbers on a clock. I see numbers in a poem. I see numbers on a number plate.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-listen-order.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.299999
+        },
+        {
+          "text": "see",
+          "start": 0.314708,
+          "end": 0.623541
+        },
+        {
+          "text": "numbers",
+          "start": 0.63825,
+          "end": 1.211791
+        },
+        {
+          "text": "on",
+          "start": 1.226458,
+          "end": 1.388208
+        },
+        {
+          "text": "a",
+          "start": 1.402958,
+          "end": 1.476499
+        },
+        {
+          "text": "clock",
+          "start": 1.491166,
+          "end": 2.123499
+        },
+        {
+          "text": "I",
+          "start": 2.602958,
+          "end": 2.749999
+        },
+        {
+          "text": "see",
+          "start": 2.764708,
+          "end": 3.044124
+        },
+        {
+          "text": "numbers",
+          "start": 3.058833,
+          "end": 3.617666
+        },
+        {
+          "text": "in",
+          "start": 3.632333,
+          "end": 3.764666
+        },
+        {
+          "text": "a",
+          "start": 3.779416,
+          "end": 3.867666
+        },
+        {
+          "text": "poem",
+          "start": 3.882333,
+          "end": 4.499999
+        },
+        {
+          "text": "I",
+          "start": 4.970583,
+          "end": 5.132333
+        },
+        {
+          "text": "see",
+          "start": 5.147041,
+          "end": 5.455874
+        },
+        {
+          "text": "numbers",
+          "start": 5.470583,
+          "end": 6.088249
+        },
+        {
+          "text": "on",
+          "start": 6.102958,
+          "end": 6.308833
+        },
+        {
+          "text": "a",
+          "start": 6.323541,
+          "end": 6.367666
+        },
+        {
+          "text": "number",
+          "start": 6.382333,
+          "end": 6.764666
+        },
+        {
+          "text": "plate",
+          "start": 6.779416,
+          "end": 7.411749
+        }
+      ]
+    },
+    "u44-my-number": {
+      "text": "I can see the number six.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u44-my-number.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "can",
+          "start": 0.3,
+          "end": 0.564708
+        },
+        {
+          "text": "see",
+          "start": 0.579416,
+          "end": 0.902957
+        },
+        {
+          "text": "the",
+          "start": 0.917666,
+          "end": 1.049999
+        },
+        {
+          "text": "number",
+          "start": 1.064708,
+          "end": 1.402958
+        },
+        {
+          "text": "six",
+          "start": 1.417666,
+          "end": 2.123541
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "big": [
+        [
+          "b",
+          "i",
+          "g"
+        ],
+        [
+          "clear-b",
+          "clear-ih",
+          "clear-g"
+        ],
+        "i 在 big 里发短音 /ɪ/，末尾的 g 轻轻收住。"
+      ],
+      "little": [
+        [
+          "l",
+          "i",
+          "tt",
+          "le"
+        ],
+        [
+          "clear-l",
+          "clear-ih",
+          "clear-t",
+          "numfuel-le"
+        ],
+        "lit、tle 两拍，i 读短音 /ɪ/。两个 t 只发一次，le 在末尾轻读 /əl/。"
+      ],
+      "all": [
+        [
+          "a",
+          "ll"
+        ],
+        [
+          "clear-or",
+          "clear-l"
+        ],
+        "a 在 all 里读 /ɔː/，两个 l 合起来读一次 /l/。"
+      ],
+      "around": [
+        [
+          "a",
+          "r",
+          "ou",
+          "n",
+          "d"
+        ],
+        [
+          "clear-schwa",
+          "clear-r",
+          "fuel-ow",
+          "clear-n",
+          "clear-d"
+        ],
+        "a、round 两拍，前一拍轻，后一拍重。ou 在这里读 /aʊ/。"
+      ],
+      "everywhere": [
+        [
+          "e",
+          "v",
+          "er",
+          "y",
+          "wh",
+          "ere"
+        ],
+        [
+          "clear-e",
+          "numbers-v",
+          "clear-r",
+          "clear-i-short",
+          "startup-w",
+          "numfuel-air"
+        ],
+        "ev、ery、where 三拍。every 在这里是两拍，where 的开头读 /w/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "big": {
+        "audio": "guided-big",
+        "kind": "phonics",
+        "parts": [
+          "b",
+          "i",
+          "g"
+        ],
+        "sounds": [
+          "clear-b",
+          "clear-ih",
+          "clear-g"
+        ],
+        "hint": "i 在 big 里发短音 /ɪ/，末尾的 g 轻轻收住。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.022,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-b"
+          },
+          {
+            "start": 0.022,
+            "end": 0.132,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.132,
+            "end": 0.159,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-g"
+          },
+          {
+            "start": 0.159,
+            "end": 0.849,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.159,
+                "end": 0.297
+              },
+              {
+                "index": 1,
+                "start": 0.297,
+                "end": 0.711
+              },
+              {
+                "index": 2,
+                "start": 0.711,
+                "end": 0.849
+              }
+            ]
+          },
+          {
+            "start": 0.849,
+            "end": 1.309,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.309
+      },
+      "little": {
+        "audio": "guided-little",
+        "kind": "phonics",
+        "parts": [
+          "l",
+          "i",
+          "tt",
+          "le"
+        ],
+        "sounds": [
+          "clear-l",
+          "clear-ih",
+          "clear-t",
+          "numfuel-le"
+        ],
+        "hint": "lit、tle 两拍，i 读短音 /ɪ/。两个 t 只发一次，le 在末尾轻读 /əl/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.085,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.085,
+            "end": 0.195,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-ih"
+          },
+          {
+            "start": 0.195,
+            "end": 0.275,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-t"
+          },
+          {
+            "start": 0.275,
+            "end": 0.435,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "numfuel-le"
+          },
+          {
+            "start": 0.435,
+            "end": 1.355,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.435,
+                "end": 0.55
+              },
+              {
+                "index": 1,
+                "start": 0.55,
+                "end": 0.895
+              },
+              {
+                "index": 2,
+                "start": 0.895,
+                "end": 1.01
+              },
+              {
+                "index": 3,
+                "start": 1.01,
+                "end": 1.355
+              }
+            ]
+          },
+          {
+            "start": 1.355,
+            "end": 1.965,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.965,
+        "syllables": [
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "all": {
+        "audio": "guided-all",
+        "kind": "phonics",
+        "parts": [
+          "a",
+          "ll"
+        ],
+        "sounds": [
+          "clear-or",
+          "clear-l"
+        ],
+        "hint": "a 在 all 里读 /ɔː/，两个 l 合起来读一次 /l/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.31,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-or"
+          },
+          {
+            "start": 0.31,
+            "end": 0.395,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-l"
+          },
+          {
+            "start": 0.395,
+            "end": 1.065,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.395,
+                "end": 0.8975
+              },
+              {
+                "index": 1,
+                "start": 0.8975,
+                "end": 1.065
+              }
+            ]
+          },
+          {
+            "start": 1.065,
+            "end": 1.515,
+            "phase": "word"
+          }
+        ],
+        "duration": 1.515
+      },
+      "around": {
+        "audio": "guided-around",
+        "kind": "phonics",
+        "parts": [
+          "a",
+          "r",
+          "ou",
+          "n",
+          "d"
+        ],
+        "sounds": [
+          "clear-schwa",
+          "clear-r",
+          "fuel-ow",
+          "clear-n",
+          "clear-d"
+        ],
+        "hint": "a、round 两拍，前一拍轻，后一拍重。ou 在这里读 /aʊ/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.075,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-schwa"
+          },
+          {
+            "start": 0.075,
+            "end": 0.16,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.16,
+            "end": 0.48,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "fuel-ow"
+          },
+          {
+            "start": 0.48,
+            "end": 0.585,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-n"
+          },
+          {
+            "start": 0.585,
+            "end": 0.6109583333333334,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "clear-d"
+          },
+          {
+            "start": 0.6109583333333334,
+            "end": 1.7009583333333333,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.6109583333333334,
+                "end": 0.792625
+              },
+              {
+                "index": 1,
+                "start": 0.792625,
+                "end": 0.8834583333333333
+              },
+              {
+                "index": 2,
+                "start": 0.8834583333333333,
+                "end": 1.337625
+              },
+              {
+                "index": 3,
+                "start": 1.337625,
+                "end": 1.5192916666666667
+              },
+              {
+                "index": 4,
+                "start": 1.5192916666666667,
+                "end": 1.7009583333333333
+              }
+            ]
+          },
+          {
+            "start": 1.7009583333333333,
+            "end": 2.4309583333333333,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.4309583333333333,
+        "syllables": [
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      "everywhere": {
+        "audio": "guided-everywhere",
+        "kind": "phonics",
+        "parts": [
+          "e",
+          "v",
+          "er",
+          "y",
+          "wh",
+          "ere"
+        ],
+        "sounds": [
+          "clear-e",
+          "numbers-v",
+          "clear-r",
+          "clear-i-short",
+          "startup-w",
+          "numfuel-air"
+        ],
+        "hint": "ev、ery、where 三拍。every 在这里是两拍，where 的开头读 /w/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.19,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-e"
+          },
+          {
+            "start": 0.19,
+            "end": 0.292,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "numbers-v"
+          },
+          {
+            "start": 0.292,
+            "end": 0.377,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "clear-r"
+          },
+          {
+            "start": 0.377,
+            "end": 0.542,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-i-short"
+          },
+          {
+            "start": 0.542,
+            "end": 0.637,
+            "phase": "phoneme",
+            "index": 4,
+            "clip": "startup-w"
+          },
+          {
+            "start": 0.637,
+            "end": 1.047,
+            "phase": "phoneme",
+            "index": 5,
+            "clip": "numfuel-air"
+          },
+          {
+            "start": 1.047,
+            "end": 2.387,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 1.047,
+                "end": 1.334125
+              },
+              {
+                "index": 1,
+                "start": 1.334125,
+                "end": 1.5255833333333333
+              },
+              {
+                "index": 2,
+                "start": 1.5255833333333333,
+                "end": 1.6212916666666666
+              },
+              {
+                "index": 3,
+                "start": 1.6212916666666666,
+                "end": 1.8127083333333334
+              },
+              {
+                "index": 4,
+                "start": 1.8127083333333334,
+                "end": 1.9084166666666667
+              },
+              {
+                "index": 5,
+                "start": 1.9084166666666667,
+                "end": 2.387
+              }
+            ]
+          },
+          {
+            "start": 2.387,
+            "end": 3.277,
+            "phase": "word"
+          }
+        ],
+        "duration": 3.277,
+        "syllables": [
+          [
+            2,
+            1
+          ],
+          [
+            5,
+            3
+          ]
+        ]
+      },
+      "all-around": {
+        "audio": "guided-all-around",
+        "kind": "context-word",
+        "parts": [
+          "all around"
+        ],
+        "hint": "两个词放在一起表示“到处”。听完试着指一指身边有数字的地方。",
+        "duration": 6.49,
+        "steps": [
+          {
+            "start": 0,
+            "end": 0.93,
+            "phase": "word",
+            "text": "先听完整声音。"
+          },
+          {
+            "start": 1.43,
+            "end": 3.49,
+            "phase": "example",
+            "text": "再听放进句子怎么说。"
+          }
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  },
+  "newIsolated": {
+    "numfuel-air": {
+      "voice": "en-GB-LibbyNeural",
+      "input": "Air.",
+      "rate": "-20%",
+      "method": "Isolated non-rhotic /eə/ model, trimmed"
+    },
+    "numfuel-le": {
+      "sources": [
+        "clear-schwa",
+        "clear-l"
+      ],
+      "method": "Concatenated existing Libby /ə/ and /l/ for an explicit /əl/ guide. Slow/whole word recordings retain native timing."
+    }
+  }
+}

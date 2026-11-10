@@ -1,0 +1,11 @@
+.number-fuel-match-buttons {
+ display:grid;
+ grid-template-columns:repeat(auto-fit,minmax(min(5.25rem,100%),1fr));
+ gap:.55rem;
+ margin:1rem 0;
+}
+.number-fuel-match-buttons button { min-height:2.85rem; padding:.35rem; }
+.number-fuel-match-buttons [aria-pressed="true"] { outline:2px solid #996527; background:#fff0c4; }
+.number-fuel-match-buttons .matched { background:#e6f1dd; color:#284633; opacity:1; }
+.number-fuel-match-feedback { min-height:2.5em; }
+.number-fuel-match-feedback span { margin-inline-start:.4em; }
