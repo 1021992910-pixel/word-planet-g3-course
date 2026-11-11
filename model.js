@@ -2,11 +2,17 @@
 const CourseModel=(()=>{
  const lessonBlank=()=>({scene:0,coach:0,stage:0,atlasGroup:0,getReady:GetReadyModel.blank(),poster:PosterModel.blank(),wrap:WrapModel.blank(),design:DesignModel.blank(),numberPoster:NumberPosterModel.blank(),heard:[],guided:[],run:null,adventure:AdventureModel.blank(),lesson:{completed:false,best:0,completedAt:0}});
  const blank=()=>({version:1,activeLessonId:COURSE.lessonId,speed:1,words:{},sky:LearningSky.blank(),lessons:{},campDecorations:[],...lessonBlank()});
+ function activeWrapChecks(){
+  if(COURSE.numberWrap)return NUMBER_WRAP_CHECKS;
+  if(COURSE.colourWrap)return COLOUR_WRAP_CHECKS;
+  if(COURSE.schoolWrap)return SCHOOL_WRAP_CHECKS;
+  return WRAP_CHECKS;
+ }
  function localSanitize(raw){
   const s=lessonBlank();if(!raw||typeof raw!=='object')return s;
   if(COURSE.lessonId==='unit1-01')s.getReady=GetReadyModel.sanitize(raw.getReady);
   if(COURSE.poster)s.poster=PosterModel.sanitize(raw.poster);
-  if(COURSE.wrap||COURSE.schoolWrap||COURSE.colourWrap)s.wrap=WrapModel.sanitize(raw.wrap,COURSE.colourWrap?COLOUR_WRAP_CHECKS:COURSE.schoolWrap?SCHOOL_WRAP_CHECKS:undefined);
+  if(COURSE.wrap||COURSE.schoolWrap||COURSE.colourWrap||COURSE.numberWrap)s.wrap=WrapModel.sanitize(raw.wrap,activeWrapChecks());
   if(COURSE.design)s.design=DesignModel.sanitize(raw.design);
   if(COURSE.numberPoster)s.numberPoster=NumberPosterModel.sanitize(raw.numberPoster);
   for(const key of ['scene','coach','stage','atlasGroup']){const max=key==='scene'?SCENES.length-1:key==='coach'?LearningSky.catalog().length-1:key==='atlasGroup'?(COURSE.wordGroups?.length||1)-1:3;s[key]=Number.isInteger(raw[key])?Math.max(0,Math.min(max,raw[key])):0;}
@@ -63,7 +69,7 @@ const CourseModel=(()=>{
    if((l.run?.index||0)>(r.run?.index||0))r.run=l.run;
    r.getReady=GetReadyModel.merge(l.getReady,r.getReady);
    r.poster=PosterModel.merge(l.poster,r.poster);
-   r.wrap=WrapModel.merge(l.wrap,r.wrap,COURSE.colourWrap?COLOUR_WRAP_CHECKS:COURSE.schoolWrap?SCHOOL_WRAP_CHECKS:undefined);
+   r.wrap=WrapModel.merge(l.wrap,r.wrap,activeWrapChecks());
    r.design=DesignModel.merge(l.design,r.design);
    r.numberPoster=NumberPosterModel.merge(l.numberPoster,r.numberPoster);
    r.heard=[...new Set([...l.heard,...r.heard])];r.guided=[...new Set([...l.guided,...r.guided])];

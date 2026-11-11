@@ -1,10 +1,10 @@
 {
-  "version": "w46",
+  "version": "w47",
   "files": [
     {
       "file": "制作规范与验收标准.md",
-      "bytes": 20459,
-      "sha256": "ae437f8372bd570a35d654afdc25fd6be741bd791535b29753c18035f9d0fd03"
+      "bytes": 20456,
+      "sha256": "d2d3c308c426cb6ded4a61a46a4e151f03b3ca86c36629354574aadba55c9647"
     },
     {
       "file": "action-lesson.css",
@@ -48,8 +48,8 @@
     },
     {
       "file": "app.js",
-      "bytes": 33519,
-      "sha256": "5d91aa44ac031336083a5fbdedb7a3c8d366b836c67d46284b55f7bd99cb39de"
+      "bytes": 33698,
+      "sha256": "bb66369b8a6f118caa890af4558c94e393052a14a28a42092c5a161197cafcac"
     },
     {
       "file": "assets/adventure/alphabet-console-w21.webp",
@@ -2145,6 +2145,11 @@
       "file": "assets/audio/number-poster-provenance.json",
       "bytes": 9355,
       "sha256": "bc7dd76cd01552590761f26f685c322ab6d2bb4e9a5080a93768e1459797bb45"
+    },
+    {
+      "file": "assets/audio/number-wrap-provenance.json",
+      "bytes": 7632,
+      "sha256": "08ce103dfe99c7c581ca536350407cbb37de1b817daa2c5a311a136ff5e34e96"
     },
     {
       "file": "assets/audio/number.mp3",
@@ -4672,6 +4677,66 @@
       "sha256": "727d9f583670ecca36b7f7a1c853301012ab2aad650481004333008dea302860"
     },
     {
+      "file": "assets/audio/u46-arms.mp3",
+      "bytes": 11232,
+      "sha256": "672b9de28437ed51e5342fdf7a7a7b29e934fd9094cd31f1f4e0ceaa220575f5"
+    },
+    {
+      "file": "assets/audio/u46-balloons.mp3",
+      "bytes": 11952,
+      "sha256": "2401886b206ab9cd8d787193f988dc8081e9c324acf7a130a3793f32462f4729"
+    },
+    {
+      "file": "assets/audio/u46-bus-answer.mp3",
+      "bytes": 17280,
+      "sha256": "dc13b380f30877c3835dbac8a0e52bf8c87b3865dba4df381d99ffc0b47782a2"
+    },
+    {
+      "file": "assets/audio/u46-bus.mp3",
+      "bytes": 13824,
+      "sha256": "83dda70bd2d5ea908f52490233bd46809a287f141b10183f809b49cafb3ff71f"
+    },
+    {
+      "file": "assets/audio/u46-colours.mp3",
+      "bytes": 11376,
+      "sha256": "a2b9352fc8e3dde6953163d97273cfa3fa25a35811f91e046d600c3c2cafcaf2"
+    },
+    {
+      "file": "assets/audio/u46-count.mp3",
+      "bytes": 14976,
+      "sha256": "cbdf195584bb19c06b20441697eb43f76bb96a65d2806f20d869a71a2fae5ec9"
+    },
+    {
+      "file": "assets/audio/u46-find-i.mp3",
+      "bytes": 20016,
+      "sha256": "c840e111c40c8ad9c6e39a61ae5b9958dbd817e3ff0c602f2de418ac0d71d8f5"
+    },
+    {
+      "file": "assets/audio/u46-friends.mp3",
+      "bytes": 11520,
+      "sha256": "65b28828d7db1eee5fee81343fc297e4401e419b25d9425259ce36b1d8e0f86c"
+    },
+    {
+      "file": "assets/audio/u46-nature.mp3",
+      "bytes": 15120,
+      "sha256": "bd017c893b36f78f8dac5bb8a8a2dbf2c148fc7b87cee74c32bcd5a74168f7e5"
+    },
+    {
+      "file": "assets/audio/u46-points.mp3",
+      "bytes": 11376,
+      "sha256": "2ac7b04ad0c19f70232a875d5c030dfa50bf676f4daee622c67e181c48ebc3ee"
+    },
+    {
+      "file": "assets/audio/u46-spots.mp3",
+      "bytes": 11664,
+      "sha256": "02eaca6c8131b19a1858cf148b585e8f5acc7ae3bc2ae2f7a6244066cb172df2"
+    },
+    {
+      "file": "assets/audio/u46-three-balloons.mp3",
+      "bytes": 14832,
+      "sha256": "ffe97807fd14505eaa7bb7402720e9f1c5d5678d9f3b55db97aa3dd4146a06ec"
+    },
+    {
       "file": "assets/audio/umbrella.mp3",
       "bytes": 11232,
       "sha256": "0d879f492425bd6402bf916506db8136c638ea82c5fa82e59b6176a09b209b6c"
@@ -5067,6 +5132,11 @@
       "sha256": "33143d14783859a9ab47086659da2cbf7434795f35af9d278ce04c88c1d3cd00"
     },
     {
+      "file": "assets/scenes/u4-numbers-nature.webp",
+      "bytes": 88850,
+      "sha256": "17b34eecd5ef2b420d0ee7276f2942f5e0ffa83cfb67d884c61ffe928b03cf37"
+    },
+    {
       "file": "assets/scenes/u4-three-birds.webp",
       "bytes": 52034,
       "sha256": "5e55835cad3afc903eb236a4ee7f1287809b913b09ce2faaed510c542a84b935"
@@ -5138,8 +5208,8 @@
     },
     {
       "file": "camp-growth.js",
-      "bytes": 10595,
-      "sha256": "c9fb4eea7d5a24c1bc10f878f57ad41c76cc16144c9715e4fd9e97639160a224"
+      "bytes": 10827,
+      "sha256": "b4c2b810f1550253919ee1eed4e802641c075e65fecb7ba21065e1fda99f7d4a"
     },
     {
       "file": "chicks-audio-data.js",
@@ -5278,8 +5348,8 @@
     },
     {
       "file": "index.html",
-      "bytes": 14933,
-      "sha256": "231933a1329964c58c0b5c392322666b5eaa674569b7c707e83c166935272cb2"
+      "bytes": 15179,
+      "sha256": "c7e5e89899a1cc0d69612326a92af15304635eac00fb9552adbfc8fd87aea0a9"
     },
     {
       "file": "knots-audio-data.js",
@@ -5383,8 +5453,8 @@
     },
     {
       "file": "model.js",
-      "bytes": 8069,
-      "sha256": "228779eddc08ae493ca1eae91085e6c6a86067cc59f5e15b3a373a3c7d163aaf"
+      "bytes": 8163,
+      "sha256": "6004748a5fe726a4d276f3e997fa12a924b751b34150d47e79715629adeb7cc5"
     },
     {
       "file": "number-fuel-audio-data.js",
@@ -5435,6 +5505,26 @@
       "file": "number-poster-lesson.js",
       "bytes": 7030,
       "sha256": "f2b8c54837551820d003deb5fd9da0bb6418ed7c5392974faf1b85293778bfda"
+    },
+    {
+      "file": "number-wrap-audio-data.js",
+      "bytes": 4317,
+      "sha256": "68e8575f49c04699df3517b89e41c50213bf2277ad461d7b3d51d381521ab5d8"
+    },
+    {
+      "file": "number-wrap-content.js",
+      "bytes": 7532,
+      "sha256": "709b44f0be238a1d0944e94e19f96e4f8beff2c08d2188b9abc4ae3c36b2f1e8"
+    },
+    {
+      "file": "number-wrap-lesson.css",
+      "bytes": 1581,
+      "sha256": "fe5314184c03e2ce974cc458bc24b57cd0301f657966835bea1c0651a0c6aed3"
+    },
+    {
+      "file": "number-wrap-lesson.js",
+      "bytes": 10942,
+      "sha256": "cc38cb05a467794fc1f34afccc37f2a708db326c32f1f5597693e1946a3e26de"
     },
     {
       "file": "numbers-audio-data.js",

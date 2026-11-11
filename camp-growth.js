@@ -35,6 +35,10 @@ CAMP_SOUVENIRS.push({
  id:'number-poster-memory',name:'数字海报纪念画',icon:'✦',cost:60,unlockLesson:'unit4-05',
  description:'把自己数出的发现带回共同营地',scene:'u4-number-poster',lessonLabel:'Unit 4 第5课',
 });
+CAMP_SOUVENIRS.push({
+ id:'numbers-nature-memory',name:'自然观察纪念画',icon:'✦',cost:60,unlockLesson:'unit4-06',
+ description:'记下在花园里发现的数字',scene:'u4-numbers-nature',lessonLabel:'Unit 4 第6课',
+});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},

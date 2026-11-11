@@ -1,0 +1,350 @@
+{
+  "clips": {
+    "u46-friends": {
+      "text": "How many friends?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-friends.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.123541,
+          "end": 0.329416
+        },
+        {
+          "text": "many",
+          "start": 0.344125,
+          "end": 0.652958
+        },
+        {
+          "text": "friends",
+          "start": 0.667666,
+          "end": 1.491207
+        }
+      ]
+    },
+    "u46-colours": {
+      "text": "How many colours?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-colours.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.682374
+        },
+        {
+          "text": "colours",
+          "start": 0.697041,
+          "end": 1.461749
+        }
+      ]
+    },
+    "u46-balloons": {
+      "text": "How many balloons?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-balloons.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.652958
+        },
+        {
+          "text": "balloons",
+          "start": 0.667666,
+          "end": 1.549999
+        }
+      ]
+    },
+    "u46-bus": {
+      "text": "What numbers can you see?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-bus.mp3",
+      "words": [
+        {
+          "text": "What",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "numbers",
+          "start": 0.417666,
+          "end": 0.902957
+        },
+        {
+          "text": "can",
+          "start": 0.917666,
+          "end": 1.138249
+        },
+        {
+          "text": "you",
+          "start": 1.152958,
+          "end": 1.299999
+        },
+        {
+          "text": "see",
+          "start": 1.314708,
+          "end": 1.858833
+        }
+      ]
+    },
+    "u46-bus-answer": {
+      "text": "Four, seven, three.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-bus-answer.mp3",
+      "words": [
+        {
+          "text": "Four",
+          "start": 0.123541,
+          "end": 0.652957
+        },
+        {
+          "text": "seven",
+          "start": 0.991166,
+          "end": 1.579416
+        },
+        {
+          "text": "three",
+          "start": 1.829416,
+          "end": 2.432374
+        }
+      ]
+    },
+    "u46-count": {
+      "text": "Count from one to twelve.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-count.mp3",
+      "words": [
+        {
+          "text": "Count",
+          "start": 0.123541,
+          "end": 0.579416
+        },
+        {
+          "text": "from",
+          "start": 0.594125,
+          "end": 0.873541
+        },
+        {
+          "text": "one",
+          "start": 0.88825,
+          "end": 1.182375
+        },
+        {
+          "text": "to",
+          "start": 1.197041,
+          "end": 1.344082
+        },
+        {
+          "text": "twelve",
+          "start": 1.358833,
+          "end": 2.049999
+        }
+      ]
+    },
+    "u46-find-i": {
+      "text": "Find the number word with the letter i.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-find-i.mp3",
+      "words": [
+        {
+          "text": "Find",
+          "start": 0.13825,
+          "end": 0.594125
+        },
+        {
+          "text": "the",
+          "start": 0.608833,
+          "end": 0.726499
+        },
+        {
+          "text": "number",
+          "start": 0.741166,
+          "end": 1.108832
+        },
+        {
+          "text": "word",
+          "start": 1.123541,
+          "end": 1.623541
+        },
+        {
+          "text": "with",
+          "start": 1.63825,
+          "end": 1.829416
+        },
+        {
+          "text": "the",
+          "start": 1.844125,
+          "end": 1.947083
+        },
+        {
+          "text": "letter",
+          "start": 1.96175,
+          "end": 2.417625
+        },
+        {
+          "text": "i",
+          "start": 2.432333,
+          "end": 2.888208
+        }
+      ]
+    },
+    "u46-points": {
+      "text": "How many points?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-points.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.329416
+        },
+        {
+          "text": "many",
+          "start": 0.344125,
+          "end": 0.652958
+        },
+        {
+          "text": "points",
+          "start": 0.667666,
+          "end": 1.461791
+        }
+      ]
+    },
+    "u46-spots": {
+      "text": "How many spots?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-spots.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.667666
+        },
+        {
+          "text": "spots",
+          "start": 0.682333,
+          "end": 1.505874
+        }
+      ]
+    },
+    "u46-arms": {
+      "text": "How many arms?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-arms.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.697083
+        },
+        {
+          "text": "arms",
+          "start": 0.71175,
+          "end": 1.402916
+        }
+      ]
+    },
+    "u46-nature": {
+      "text": "How many legs can you see?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-nature.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.652958
+        },
+        {
+          "text": "legs",
+          "start": 0.667666,
+          "end": 1.123541
+        },
+        {
+          "text": "can",
+          "start": 1.13825,
+          "end": 1.358833
+        },
+        {
+          "text": "you",
+          "start": 1.373541,
+          "end": 1.520582
+        },
+        {
+          "text": "see",
+          "start": 1.535291,
+          "end": 2.079416
+        }
+      ]
+    },
+    "u46-three-balloons": {
+      "text": "I can see three balloons.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u46-three-balloons.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "can",
+          "start": 0.3,
+          "end": 0.535291
+        },
+        {
+          "text": "see",
+          "start": 0.55,
+          "end": 0.873541
+        },
+        {
+          "text": "three",
+          "start": 0.88825,
+          "end": 1.211791
+        },
+        {
+          "text": "balloons",
+          "start": 1.226458,
+          "end": 2.035291
+        }
+      ]
+    }
+  }
+}
