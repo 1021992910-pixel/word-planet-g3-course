@@ -1,0 +1,433 @@
+{
+  "clips": {
+    "teacher": {
+      "text": "Teacher.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "teacher.mp3",
+      "words": [
+        {
+          "text": "Teacher",
+          "start": 0.123541,
+          "end": 0.844124
+        }
+      ]
+    },
+    "u45-books": {
+      "text": "How many books?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-books.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.358833
+        },
+        {
+          "text": "many",
+          "start": 0.373541,
+          "end": 0.697082
+        },
+        {
+          "text": "books",
+          "start": 0.71175,
+          "end": 1.402916
+        }
+      ]
+    },
+    "u45-teachers": {
+      "text": "How many teachers?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-teachers.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.667666
+        },
+        {
+          "text": "teachers",
+          "start": 0.682333,
+          "end": 1.564666
+        }
+      ]
+    },
+    "u45-schoolbags": {
+      "text": "How many schoolbags?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-schoolbags.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.652958
+        },
+        {
+          "text": "schoolbags",
+          "start": 0.667666,
+          "end": 1.741207
+        }
+      ]
+    },
+    "u45-pencils": {
+      "text": "How many pencils?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-pencils.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.358833
+        },
+        {
+          "text": "many",
+          "start": 0.373541,
+          "end": 0.682374
+        },
+        {
+          "text": "pencils",
+          "start": 0.697041,
+          "end": 1.638207
+        }
+      ]
+    },
+    "u45-rulers": {
+      "text": "How many rulers?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-rulers.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.667666
+        },
+        {
+          "text": "rulers",
+          "start": 0.682333,
+          "end": 1.549999
+        }
+      ]
+    },
+    "u45-erasers": {
+      "text": "How many erasers?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-erasers.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.344125
+        },
+        {
+          "text": "many",
+          "start": 0.358833,
+          "end": 0.711791
+        },
+        {
+          "text": "erasers",
+          "start": 0.726458,
+          "end": 1.682333
+        }
+      ]
+    },
+    "u45-teacher": {
+      "text": "This is my teacher.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-teacher.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "teacher",
+          "start": 0.785291,
+          "end": 1.549999
+        }
+      ]
+    },
+    "u45-choose": {
+      "text": "I have three pencils.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-choose.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "have",
+          "start": 0.3,
+          "end": 0.608833
+        },
+        {
+          "text": "three",
+          "start": 0.623541,
+          "end": 0.932374
+        },
+        {
+          "text": "pencils",
+          "start": 0.947041,
+          "end": 1.873499
+        }
+      ]
+    },
+    "u45-one-bag": {
+      "text": "I have one schoolbag.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-one-bag.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "have",
+          "start": 0.3,
+          "end": 0.579416
+        },
+        {
+          "text": "one",
+          "start": 0.594125,
+          "end": 0.917666
+        },
+        {
+          "text": "schoolbag",
+          "start": 0.932333,
+          "end": 1.858791
+        }
+      ]
+    },
+    "u45-book-answer": {
+      "text": "Twelve books.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-book-answer.mp3",
+      "words": [
+        {
+          "text": "Twelve",
+          "start": 0.123541,
+          "end": 0.594124
+        },
+        {
+          "text": "books",
+          "start": 0.608833,
+          "end": 1.270583
+        }
+      ]
+    },
+    "u45-teacher-answer": {
+      "text": "Five teachers.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-teacher-answer.mp3",
+      "words": [
+        {
+          "text": "Five",
+          "start": 0.123541,
+          "end": 0.623541
+        },
+        {
+          "text": "teachers",
+          "start": 0.63825,
+          "end": 1.4765
+        }
+      ]
+    },
+    "u45-demo": {
+      "text": "How many books? Twelve. How many teachers? Five.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u45-demo.mp3",
+      "words": [
+        {
+          "text": "How",
+          "start": 0.13825,
+          "end": 0.358833
+        },
+        {
+          "text": "many",
+          "start": 0.373541,
+          "end": 0.697082
+        },
+        {
+          "text": "books",
+          "start": 0.71175,
+          "end": 1.402916
+        },
+        {
+          "text": "Twelve",
+          "start": 1.852958,
+          "end": 2.573541
+        },
+        {
+          "text": "How",
+          "start": 3.029416,
+          "end": 3.235291
+        },
+        {
+          "text": "many",
+          "start": 3.25,
+          "end": 3.558833
+        },
+        {
+          "text": "teachers",
+          "start": 3.573541,
+          "end": 4.441207
+        },
+        {
+          "text": "Five",
+          "start": 4.86325,
+          "end": 5.598541
+        }
+      ]
+    }
+  },
+  "phonics": {
+    "config": {
+      "teacher": [
+        [
+          "t",
+          "ea",
+          "ch",
+          "er"
+        ],
+        [
+          "clear-t",
+          "sound-ee",
+          "paint-ch",
+          "clear-schwa"
+        ],
+        "teach、er 两拍，前一拍重。ea 读 /iː/，ch 读 /tʃ/，词尾 er 在英式读法中轻读 /ə/。"
+      ]
+    },
+    "method": "Approved Libby isolated sounds and contiguous Sonia UK models. Connected highlight windows are approximate.",
+    "guides": {
+      "teacher": {
+        "audio": "guided-teacher",
+        "kind": "phonics",
+        "parts": [
+          "t",
+          "ea",
+          "ch",
+          "er"
+        ],
+        "sounds": [
+          "clear-t",
+          "sound-ee",
+          "paint-ch",
+          "clear-schwa"
+        ],
+        "hint": "teach、er 两拍，前一拍重。ea 读 /iː/，ch 读 /tʃ/，词尾 er 在英式读法中轻读 /ə/。",
+        "focus": 0,
+        "steps": [
+          {
+            "start": 0.0,
+            "end": 0.08,
+            "phase": "phoneme",
+            "index": 0,
+            "clip": "clear-t"
+          },
+          {
+            "start": 0.08,
+            "end": 0.41,
+            "phase": "phoneme",
+            "index": 1,
+            "clip": "sound-ee"
+          },
+          {
+            "start": 0.41,
+            "end": 0.565,
+            "phase": "phoneme",
+            "index": 2,
+            "clip": "paint-ch"
+          },
+          {
+            "start": 0.565,
+            "end": 0.64,
+            "phase": "phoneme",
+            "index": 3,
+            "clip": "clear-schwa"
+          },
+          {
+            "start": 0.64,
+            "end": 1.64,
+            "phase": "connected",
+            "phones": [
+              {
+                "index": 0,
+                "start": 0.64,
+                "end": 0.7309166666666667
+              },
+              {
+                "index": 1,
+                "start": 0.7309166666666667,
+                "end": 1.276375
+              },
+              {
+                "index": 2,
+                "start": 1.276375,
+                "end": 1.3672916666666666
+              },
+              {
+                "index": 3,
+                "start": 1.3672916666666666,
+                "end": 1.64
+              }
+            ]
+          },
+          {
+            "start": 1.64,
+            "end": 2.3,
+            "phase": "word"
+          }
+        ],
+        "duration": 2.3,
+        "syllables": [
+          [
+            5,
+            2
+          ]
+        ]
+      }
+    },
+    "reusedWholeWord": null
+  }
+}
