@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#15241f">
+  <title>单词方块世界 · 单词星球</title>
+  <link rel="stylesheet" href="game.css">
+  <script defer src="words.js"></script>
+  <script defer src="game.js"></script>
+</head>
+<body>
+  <header class="top"><button class="brand" data-action="home"><span aria-hidden="true">▦</span> 单词方块世界</button><button class="review-link" data-action="review">今日复习 <b id="due-count">0</b></button></header>
+  <main id="game"></main>
+  <p id="save-warning" class="save-warning" hidden>当前浏览器无法保存进度。请使用普通浏览窗口打开。</p>
+  <audio id="sound" preload="none"></audio>
+</body>
+</html>
+
