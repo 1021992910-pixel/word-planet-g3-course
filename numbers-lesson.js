@@ -48,7 +48,7 @@ function renderNumbersAtlas(body,standalone=false){
  `<div class="scene-tabs">${COURSE.wordGroups.map((item,i)=>`<button data-word-group="${i}" class="${active===i?'active':''}" aria-pressed="${active===i}">${E(item.title)}</button>`).join('')}</div>
  <div class="section-title"><h2>${E(group.title)}</h2><span>4 个数字词</span></div>${wordCards(NUMBER_NAMES.filter(w=>group.words.includes(w.id)))}
  <details class="startup-extra"><summary>数鸟时用到的四个小词</summary>${wordCards(NUMBER_SUPPORT)}</details>
- <div class="lesson-bottom"><p>one 的特殊拼写先记声音；其他词跟老师把声音连起来。nine 复用之前学过的拼读。</p>${active<2?'<button class="primary gold" data-word-group="'+(active+1)+'">下一小组 →</button>':'<a class="primary gold" href="#practice">去趣味闯关 →</a>'}</div>`;
+ <div class="lesson-bottom"><p>one 先记特殊对应，再跟老师把声音连起来。选一个还不熟的词练一练。</p>${active<2?'<button class="primary gold" data-word-group="'+(active+1)+'">下一小组 →</button>':'<a class="primary gold" href="#practice">去趣味闯关 →</a>'}</div>`;
 }
 // Counting is a lightweight, repeatable activity, separate from mastery/reward records.
 let numberCountAmount=3;
