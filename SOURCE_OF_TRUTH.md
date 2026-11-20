@@ -4,6 +4,16 @@
 
 执行项目根目录《制作规范与验收标准.md》v2.3，dist同名文件为同步发布副本。拼读以用户确认的together慢版为准，原词点亮、逐音对照、音后约1秒、连续慢合音与正常整词。下方W04等历史记录与现行规范冲突时，以v2.3和用户最新要求为准。手机实测、专业听审状态须单独报告。
 
+## u3phonics 第三单元拼读补齐（2026-11-20）
+
+- 核查 Unit 3 六课的32个不同非字母词条。补齐9项：colourful、world、hooray、umbrella、clothes、rainbow、National Day、everyone、chameleon。之前均无 PACED_PHONICS，实际走 context-word 整词/例句带读。
+- 沿用已确认的慢版：多音节先分拍 → 字母/组合对音 → 每个有声音组后约1秒 → 连续慢合音 → 正常整词 → 跟读。9条 paced 音频预制，复用原有预载和播放入口；未改点击后的生成流程。
+- clothes 的 o_e 高亮同时指向 o、e，th 用 /ð/，s 用 /z/。everyone 保留 every 的弱化和 one 的特殊拼写，/w/ 起音不虚构额外拼写。chameleon 先分四拍，ch 在此词读 /k/。读音对照 Cambridge 英式词条，链接登记在 provenance；词句仍为 Sonia 合成，音素复用已登记的 Libby 片段，并非词典或外研原音。
+- 同词在第三单元第1/4/6课及第一单元 everyone 复习入口同步。其余23词、所有既有拼读数据、29课的词条ID及练习未变。902条旧MP3逐文件哈希一致，另9条旧 guided 换为拆音带读；原整词及例句录音保留。体验版不改。
+- 制作源 unit3-phonics-repair.py、source-assets/unit3-phonics-repair；补齐数据 dist/unit3-phonics-guided-data.js 在全部内容模块和第四单元修复模块之后加载。复核 verify-unit3-phonics-repair.mjs，结果 unit3-phonics-audit-after.json。分拍和连续合音高亮使用有权重的近似窗口，不是强制对齐。
+- 浏览器390像素宽逐个打开9项，实际点播到逐音与跟读收尾；检查长词表格无横向溢出，并确认字母与音组同步高亮。见 unit3-phonics-browser-check.json、outputs/Unit3-拼读补齐-手机预览.jpg。专业英语教师逐音听审与实体手机验收仍未完成，浏览器播放核查不冒充专业听审。
+- 仍为29课、148词与短语、26字母。本轮完成第三单元修复，后续继续第一、二单元的实际缺项；together 的 context-word 旧标签不代表缺失，teacherPanel 优先使用其已认可 PACED 录音，不重做该样板。
+
 ## u4phonics 第四单元拼读补齐（2026-11-20）
 
 - 逐课检查 Unit 4 六课，81次非字母词卡出现对应41个不同词与短语。缺项是 one、who、Chinese knot、all around；其余37项已有逐音与连续慢合音。

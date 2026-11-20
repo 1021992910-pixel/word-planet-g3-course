@@ -22,7 +22,7 @@ function colourWrapChecks(){
 }
 function colourWrapExplore(){
  return `<section class="startup-extra"><h3>第41页 · 看课本照片，说颜色</h3>
- <p>先听听新朋友的名字。chameleon 是变色龙，先会听、试着跟读，不要求一下记住拼写。</p>
+ <p>先听听新朋友的名字。chameleon 是变色龙。打开词卡，先听四个音节，再跟老师拼读；不要求一下记住拼写。</p>
  <div class="actions"><button class="secondary" data-audio="chameleon">▶ 听名字</button><button class="secondary" data-word="chameleon">打开拓展词卡</button></div>
  <p>看课本 A、B、C、D 四张照片，轮流指着变色龙问。说完再展开对应的参考。</p>
  ${objectLine(...BALLOON_LINES.ask)}
@@ -46,7 +46,7 @@ function renderColourWrapScene(body){
 }
 function renderColourWrapAtlas(body,standalone=false){
  const active=state.atlasGroup||0,group=COURSE.wordGroups[active];
- body.innerHTML=(standalone?pageHead('单词图鉴','复习颜色，认识变色龙','颜色词继续听老师慢拼，动物名字在句子里跟读。'):'')+
+ body.innerHTML=(standalone?pageHead('单词图鉴','复习颜色，认识变色龙','颜色词和变色龙的名字，都可以跟着老师慢慢拼。'):'')+
  `<div class="scene-tabs">${COURSE.wordGroups.map((item,i)=>`<button data-word-group="${i}" class="${active===i?'active':''}" aria-pressed="${active===i}">${E(item.title)}</button>`).join('')}</div>
  <div class="section-title"><h2>${E(group.title)}</h2><span>${group.words.length} 个复习词</span></div>
  ${wordCards(COLOUR_WRAP_COLOURS.filter(word=>group.words.includes(word.id)))}

@@ -38,7 +38,7 @@ function renderColoursAtlas(body,standalone=false){
  `<div class="scene-tabs">${tabs}</div>
  <div class="section-title"><h2>${E(group.title)}</h2><span>${group.words.length} 个拼读词</span></div>${cards(group.words)}
  <details class="startup-extra"><summary>在歌和图里听到的六个词</summary>
- <p class="muted">听懂这些词，再放进一句话跟读。</p>${cards(COURSE.contextWords)}</details>
+ <p class="muted">这些词也可以跟着老师慢慢拼，再放进句子里读。</p>${cards(COURSE.contextWords)}</details>
  <div class="lesson-bottom"><p>这一组听清楚了，再接着学。</p>
  ${active===0?'<button class="primary gold" data-word-group="1">下一小组 →</button>':'<a class="primary gold" href="#practice">去趣味闯关 →</a>'}</div>`;
 }
