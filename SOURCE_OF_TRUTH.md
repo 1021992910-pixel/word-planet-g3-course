@@ -4,6 +4,17 @@
 
 执行项目根目录《制作规范与验收标准.md》v2.3，dist同名文件为同步发布副本。拼读以用户确认的together慢版为准，原词点亮、逐音对照、音后约1秒、连续慢合音与正常整词。下方W04等历史记录与现行规范冲突时，以v2.3和用户最新要求为准。手机实测、专业听审状态须单独报告。
 
+## earlyphonics 前两单元分步带读补齐（2026-11-20）
+
+- 核查并处理最后12项：do、they、the、oh、OK、our、everybody、with、lost and found、take care of、there、quill。原context-word入口均替换为适合该词的分步带读，例句、意义、星空及闯关沿用。
+- 普通词按既有慢版逐组对音、音后约1秒、连续慢合音、正常整词和跟读。everybody 先分四拍。两个短语先分词，再逐音；手机分成若干小表，不把11个音组挤在一排。
+- 按真实读法处理例外：OK 为字母名 O /əʊ/、K /keɪ/，单独标「字母名带读」，不冒充 K 的辅音音值；oh 的 oh 和 our 的 our 作为单组，不伪造音素。our 提示 /aʊə/ 和常见 /ɑː/ 变体。the 展示弱读 /ðə/，慢模型取自 The book. 的第一条 WordBoundary，提示强读 /ðiː/。take care of 标记 care→of 的 /r/ 连读；lost and found 说明 and 分音和自然弱读的区别。qu 对应 /kw/，ll 对应单个 /l/。
+- 原词句仍保留 Sonia 录音，原音素继续复用 Libby。新增 early-our-glide 为 Libby Hour. 的完整元音滑音（与 our 同音）；early-qu 仅将已有孤立 /k/、/w/ 接成 /kw/，连续慢合音仍为完整 Sonia 录音，未逐音拼接整词。OK 复用原字母名录音，不计为新字母。来源、参数、模型和分组在 assets/audio/early-phonics-repair-provenance.json。
+- 全站29课、148个不同词与短语均有适当分步入口；26个独立字母保持字母名教学。原136项 PACED 数据和非目标词卡的渲染保持一致，together 认可样板数据与录音逐字节保留。29课词条ID、释义、例句和练习未变；908条旧MP3字节一致，12条旧 guided 换为新带读。
+- 制作源 early-phonics-repair.py、source-assets/early-phonics-repair；覆盖模块 early-phonics-guided-data.js 在第三/四单元修复模块后加载。共同显示模块仅为新模式和长短语增加可选模式/分组，常规词旧输出经比较一致。
+- 检查脚本 verify-early-phonics-repair.mjs，结果 early-phonics-audit-after.json；本轮待补清单 phonics-missing-follow-up.json 已无缺项。全量路由检查不代替专业英语听审，近似加权高亮也不声称强制对齐。
+- 手机宽度逐项点播记录见 early-phonics-browser-check.json，预览 outputs/前两单元-拼读补齐-手机预览.jpg；专业英语教师逐音听审和实体手机验收仍待完成。本轮不增加课时，后续回到Unit5第54—55页逐课建设。
+
 ## u3phonics 第三单元拼读补齐（2026-11-20）
 
 - 核查 Unit 3 六课的32个不同非字母词条。补齐9项：colourful、world、hooray、umbrella、clothes、rainbow、National Day、everyone、chameleon。之前均无 PACED_PHONICS，实际走 context-word 整词/例句带读。

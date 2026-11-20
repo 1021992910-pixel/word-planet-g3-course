@@ -18,10 +18,10 @@ function renderLostScene(body){
 }
 function renderLostAtlas(body,standalone=false){
  const cards=ids=>wordCards(WORDS.filter(w=>ids.includes(w.id)));
- body.innerHTML = (standalone?pageHead('单词图鉴','失物招领里的新词','三个词慢拼，两个短语放进句子听。'):'')+
+ body.innerHTML = (standalone?pageHead('单词图鉴','失物招领里的新词','三个词慢拼，两个短语分组拼，再放进句子听。'):'')+
  `<div class="section-title"><h2>三个词，听老师带我拼</h2><span>find · bye · kid</span></div>
  ${cards(COURSE.wordGroups[0].words)}
- <div class="section-title"><h2>两个短语，放进句子听</h2></div>${cards(COURSE.contextWords)}
+ <div class="section-title"><h2>两个短语，分组听、慢慢拼</h2></div>${cards(COURSE.contextWords)}
  <details class="startup-extra"><summary>复习三件学习用品</summary>${cards(COURSE.reviewWords)}</details>
  <div class="lesson-bottom"><p>听懂词和短语，再去招领站试一试。</p><a class="primary gold" href="#practice">去趣味闯关 →</a></div>`;
 }

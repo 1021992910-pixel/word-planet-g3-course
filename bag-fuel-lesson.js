@@ -26,7 +26,7 @@ function renderBagFuelScene(body){
 }
 function renderBagFuelAtlas(body,standalone=false){
  const cards=ids=>wordCards(WORDS.filter(word=>ids.includes(word.id)));
- body.innerHTML=(standalone?pageHead('单词图鉴','找回书包里的用品','三个词慢拼，there 放在句子里和 here 一起听。'):'')+
+ body.innerHTML=(standalone?pageHead('单词图鉴','找回书包里的用品','三个词和 there 都可以慢拼，再把 there 和 here 放进句子比较听。'):'')+
  `<div class="section-title"><h2>三个词，听老师带我拼</h2></div>${cards(COURSE.wordGroups[0].words)}
  <div class="section-title"><h2>这儿和那儿，对照听</h2></div>${cards(['here','there'])}
  <details class="startup-extra"><summary>复习故事里的旧词</summary>${cards(COURSE.reviewWords.filter(id=>id!=='here'))}</details>
