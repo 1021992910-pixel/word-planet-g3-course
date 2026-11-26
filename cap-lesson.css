@@ -1,0 +1,2 @@
+[data-cap-label]{font:inherit;min-height:44px;max-width:100%;padding:.4rem .6rem;border:1px solid #c5d2c0;border-radius:.6rem;background:white;color:#203e41}
+[data-cap-label][aria-invalid="true"]{outline:1px solid #a85b36;border-color:#a85b36}

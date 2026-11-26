@@ -1,0 +1,2058 @@
+{
+  "voice": "en-GB-SoniaNeural",
+  "isolatedVoice": "Existing registered en-GB-LibbyNeural clips",
+  "rate": "-45%",
+  "method": "Approved paced flow with 0.18-second lead and 1-second gaps after sounds; continuous slow model; existing whole-word audio.",
+  "alignment": "Weighted phoneme and syllable display windows are approximate, not forced alignment. Professional listening review pending.",
+  "notes": [
+    "Seven new single words and the come on phrase; existing review words retained.",
+    "Silent e is not sounded; long phrases use grouped tables."
+  ],
+  "references": [
+    "https://dictionary.cambridge.org/pronunciation/english/people",
+    "https://dictionary.cambridge.org/pronunciation/english/story",
+    "https://dictionary.cambridge.org/pronunciation/english/cap",
+    "https://dictionary.cambridge.org/pronunciation/english/worry",
+    "https://dictionary.cambridge.org/pronunciation/english/on",
+    "https://dictionary.cambridge.org/pronunciation/english/photo",
+    "https://dictionary.cambridge.org/pronunciation/english/love",
+    "https://dictionary.cambridge.org/dictionary/english/come-on"
+  ],
+  "config": {
+    "people": {
+      "word": "people",
+      "parts": [
+        "p",
+        "eo",
+        "p",
+        "le"
+      ],
+      "sounds": [
+        "clear-p",
+        "sound-ee",
+        "clear-p",
+        "colour-le"
+      ],
+      "weights": [
+        1,
+        4,
+        1,
+        3
+      ],
+      "hint": "先听 peo、ple 两拍。eo 在 people 里读 /iː/，末尾 le 轻读 /əl/。",
+      "syllables": [
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "story": {
+      "word": "story",
+      "parts": [
+        "s",
+        "t",
+        "o",
+        "r",
+        "y"
+      ],
+      "sounds": [
+        "clear-s",
+        "clear-t",
+        "clear-or",
+        "clear-r",
+        "clear-i-short"
+      ],
+      "weights": [
+        1,
+        1,
+        4,
+        1,
+        3
+      ],
+      "hint": "先听 sto、ry 两拍。o 在这里读 /ɔː/，接上 /r/，y 读 /i/。",
+      "syllables": [
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "cap": {
+      "word": "cap",
+      "parts": [
+        "c",
+        "a",
+        "p"
+      ],
+      "sounds": [
+        "clear-k",
+        "clear-a",
+        "clear-p"
+      ],
+      "weights": [
+        1,
+        3,
+        1
+      ],
+      "hint": "c 读 /k/，a 读短音 /æ/。三个声音接起来，末尾 /p/ 轻轻收住。"
+    },
+    "worry": {
+      "word": "worry",
+      "parts": [
+        "w",
+        "o",
+        "rr",
+        "y"
+      ],
+      "sounds": [
+        "startup-w",
+        "startup-uh",
+        "clear-r",
+        "clear-i-short"
+      ],
+      "weights": [
+        1,
+        3,
+        1,
+        3
+      ],
+      "hint": "先听 wo、rry 两拍。o 在 worry 里读 /ʌ/；rr 发一次 /r/，y 读 /i/。",
+      "syllables": [
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    "on": {
+      "word": "on",
+      "parts": [
+        "o",
+        "n"
+      ],
+      "sounds": [
+        "startup-short-o",
+        "clear-n"
+      ],
+      "weights": [
+        4,
+        1
+      ],
+      "hint": "o 读英式短音 /ɒ/，再接 /n/。on 单独可表示“在……上面”；come on 要作为整个短语理解。"
+    },
+    "photo": {
+      "word": "photo",
+      "parts": [
+        "ph",
+        "o",
+        "t",
+        "o"
+      ],
+      "sounds": [
+        "clear-f",
+        "clear-oh",
+        "clear-t",
+        "clear-oh"
+      ],
+      "weights": [
+        1,
+        4,
+        1,
+        4
+      ],
+      "hint": "先听 pho、to 两拍。ph 合起来读 /f/，这两个 o 都读 /əʊ/。",
+      "syllables": [
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "love": {
+      "word": "love",
+      "parts": [
+        "l",
+        "o",
+        "v",
+        "e"
+      ],
+      "sounds": [
+        "clear-l",
+        "startup-uh",
+        "numbers-v",
+        null
+      ],
+      "weights": [
+        1,
+        4,
+        1
+      ],
+      "hint": "o 在 love 里读 /ʌ/，末尾 e 不出声。接好 /l/、/ʌ/、/v/。"
+    },
+    "come-on": {
+      "word": "come on",
+      "parts": [
+        "c",
+        "o",
+        "m",
+        "e ",
+        "o",
+        "n"
+      ],
+      "sounds": [
+        "clear-k",
+        "startup-uh",
+        "clear-m",
+        null,
+        "startup-short-o",
+        "clear-n"
+      ],
+      "weights": [
+        1,
+        3,
+        1,
+        3,
+        1
+      ],
+      "hint": "先听 come，再听 on。come 的 e 不出声，两个词连起来，在这里用来催促或加油。",
+      "syllables": [
+        [
+          4,
+          2
+        ]
+      ],
+      "gridGroups": [
+        {
+          "label": "come",
+          "cells": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "label": "on",
+          "cells": [
+            4,
+            5
+          ]
+        }
+      ]
+    }
+  },
+  "guides": {
+    "people": {
+      "audio": "guided-people",
+      "kind": "phonics",
+      "parts": [
+        "p",
+        "eo",
+        "p",
+        "le"
+      ],
+      "sounds": [
+        "clear-p",
+        "sound-ee",
+        "clear-p",
+        "colour-le"
+      ],
+      "hint": "先听 peo、ple 两拍。eo 在 people 里读 /iː/，末尾 le 轻读 /əl/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.04,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-p"
+        },
+        {
+          "start": 0.04,
+          "end": 0.37,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "sound-ee"
+        },
+        {
+          "start": 0.37,
+          "end": 0.41,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-p"
+        },
+        {
+          "start": 0.41,
+          "end": 0.737,
+          "phase": "phoneme",
+          "index": 3,
+          "clip": "colour-le"
+        },
+        {
+          "start": 0.737,
+          "end": 1.667,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.737,
+              "end": 0.8403333333333334
+            },
+            {
+              "index": 1,
+              "start": 0.8403333333333334,
+              "end": 1.2536666666666667
+            },
+            {
+              "index": 2,
+              "start": 1.2536666666666667,
+              "end": 1.357
+            },
+            {
+              "index": 3,
+              "start": 1.357,
+              "end": 1.667
+            }
+          ]
+        },
+        {
+          "start": 1.667,
+          "end": 2.277,
+          "phase": "word"
+        }
+      ],
+      "duration": 2.277,
+      "focus": 0,
+      "syllables": [
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "story": {
+      "audio": "guided-story",
+      "kind": "phonics",
+      "parts": [
+        "s",
+        "t",
+        "o",
+        "r",
+        "y"
+      ],
+      "sounds": [
+        "clear-s",
+        "clear-t",
+        "clear-or",
+        "clear-r",
+        "clear-i-short"
+      ],
+      "hint": "先听 sto、ry 两拍。o 在这里读 /ɔː/，接上 /r/，y 读 /i/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.165,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-s"
+        },
+        {
+          "start": 0.165,
+          "end": 0.245,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "clear-t"
+        },
+        {
+          "start": 0.245,
+          "end": 0.555,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-or"
+        },
+        {
+          "start": 0.555,
+          "end": 0.64,
+          "phase": "phoneme",
+          "index": 3,
+          "clip": "clear-r"
+        },
+        {
+          "start": 0.64,
+          "end": 0.805,
+          "phase": "phoneme",
+          "index": 4,
+          "clip": "clear-i-short"
+        },
+        {
+          "start": 0.805,
+          "end": 1.925,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.805,
+              "end": 0.917
+            },
+            {
+              "index": 1,
+              "start": 0.917,
+              "end": 1.0290000000000001
+            },
+            {
+              "index": 2,
+              "start": 1.0290000000000001,
+              "end": 1.477
+            },
+            {
+              "index": 3,
+              "start": 1.477,
+              "end": 1.589
+            },
+            {
+              "index": 4,
+              "start": 1.589,
+              "end": 1.9250000000000003
+            }
+          ]
+        },
+        {
+          "start": 1.925,
+          "end": 2.665,
+          "phase": "word"
+        }
+      ],
+      "duration": 2.665,
+      "focus": 0,
+      "syllables": [
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    "cap": {
+      "audio": "guided-cap",
+      "kind": "phonics",
+      "parts": [
+        "c",
+        "a",
+        "p"
+      ],
+      "sounds": [
+        "clear-k",
+        "clear-a",
+        "clear-p"
+      ],
+      "hint": "c 读 /k/，a 读短音 /æ/。三个声音接起来，末尾 /p/ 轻轻收住。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.065,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-k"
+        },
+        {
+          "start": 0.065,
+          "end": 0.22,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "clear-a"
+        },
+        {
+          "start": 0.22,
+          "end": 0.26,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-p"
+        },
+        {
+          "start": 0.26,
+          "end": 1.05,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.26,
+              "end": 0.41800000000000004
+            },
+            {
+              "index": 1,
+              "start": 0.41800000000000004,
+              "end": 0.892
+            },
+            {
+              "index": 2,
+              "start": 0.892,
+              "end": 1.05
+            }
+          ]
+        },
+        {
+          "start": 1.05,
+          "end": 1.57,
+          "phase": "word"
+        }
+      ],
+      "duration": 1.57,
+      "focus": 0
+    },
+    "worry": {
+      "audio": "guided-worry",
+      "kind": "phonics",
+      "parts": [
+        "w",
+        "o",
+        "rr",
+        "y"
+      ],
+      "sounds": [
+        "startup-w",
+        "startup-uh",
+        "clear-r",
+        "clear-i-short"
+      ],
+      "hint": "先听 wo、rry 两拍。o 在 worry 里读 /ʌ/；rr 发一次 /r/，y 读 /i/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.095,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "startup-w"
+        },
+        {
+          "start": 0.095,
+          "end": 0.25,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "startup-uh"
+        },
+        {
+          "start": 0.25,
+          "end": 0.335,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-r"
+        },
+        {
+          "start": 0.335,
+          "end": 0.5,
+          "phase": "phoneme",
+          "index": 3,
+          "clip": "clear-i-short"
+        },
+        {
+          "start": 0.5,
+          "end": 1.34,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.5,
+              "end": 0.605
+            },
+            {
+              "index": 1,
+              "start": 0.605,
+              "end": 0.9199999999999999
+            },
+            {
+              "index": 2,
+              "start": 0.9199999999999999,
+              "end": 1.025
+            },
+            {
+              "index": 3,
+              "start": 1.025,
+              "end": 1.3399999999999999
+            }
+          ]
+        },
+        {
+          "start": 1.34,
+          "end": 1.91,
+          "phase": "word"
+        }
+      ],
+      "duration": 1.91,
+      "focus": 0,
+      "syllables": [
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    "on": {
+      "audio": "guided-on",
+      "kind": "phonics",
+      "parts": [
+        "o",
+        "n"
+      ],
+      "sounds": [
+        "startup-short-o",
+        "clear-n"
+      ],
+      "hint": "o 读英式短音 /ɒ/，再接 /n/。on 单独可表示“在……上面”；come on 要作为整个短语理解。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.18,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "startup-short-o"
+        },
+        {
+          "start": 0.18,
+          "end": 0.285,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "clear-n"
+        },
+        {
+          "start": 0.285,
+          "end": 0.915,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.285,
+              "end": 0.7889999999999999
+            },
+            {
+              "index": 1,
+              "start": 0.7889999999999999,
+              "end": 0.915
+            }
+          ]
+        },
+        {
+          "start": 0.915,
+          "end": 1.325,
+          "phase": "word"
+        }
+      ],
+      "duration": 1.325,
+      "focus": 0
+    },
+    "photo": {
+      "audio": "guided-photo",
+      "kind": "phonics",
+      "parts": [
+        "ph",
+        "o",
+        "t",
+        "o"
+      ],
+      "sounds": [
+        "clear-f",
+        "clear-oh",
+        "clear-t",
+        "clear-oh"
+      ],
+      "hint": "先听 pho、to 两拍。ph 合起来读 /f/，这两个 o 都读 /əʊ/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.14595833333333333,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-f"
+        },
+        {
+          "start": 0.14595833333333333,
+          "end": 0.4859583333333333,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "clear-oh"
+        },
+        {
+          "start": 0.4859583333333333,
+          "end": 0.5659583333333333,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-t"
+        },
+        {
+          "start": 0.5659583333333333,
+          "end": 0.9059583333333333,
+          "phase": "phoneme",
+          "index": 3,
+          "clip": "clear-oh"
+        },
+        {
+          "start": 0.9059583333333333,
+          "end": 1.9659583333333333,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.9059583333333333,
+              "end": 1.0119583333333333
+            },
+            {
+              "index": 1,
+              "start": 1.0119583333333333,
+              "end": 1.4359583333333332
+            },
+            {
+              "index": 2,
+              "start": 1.4359583333333332,
+              "end": 1.5419583333333333
+            },
+            {
+              "index": 3,
+              "start": 1.5419583333333333,
+              "end": 1.9659583333333335
+            }
+          ]
+        },
+        {
+          "start": 1.9659583333333333,
+          "end": 2.665958333333333,
+          "phase": "word"
+        }
+      ],
+      "duration": 2.665958333333333,
+      "focus": 0,
+      "syllables": [
+        [
+          3,
+          1
+        ]
+      ]
+    },
+    "love": {
+      "audio": "guided-love",
+      "kind": "phonics",
+      "parts": [
+        "l",
+        "o",
+        "v",
+        "e"
+      ],
+      "sounds": [
+        "clear-l",
+        "startup-uh",
+        "numbers-v",
+        null
+      ],
+      "hint": "o 在 love 里读 /ʌ/，末尾 e 不出声。接好 /l/、/ʌ/、/v/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.085,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-l"
+        },
+        {
+          "start": 0.085,
+          "end": 0.24,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "startup-uh"
+        },
+        {
+          "start": 0.24,
+          "end": 0.342,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "numbers-v"
+        },
+        {
+          "start": 0.342,
+          "end": 1.212,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.342,
+              "end": 0.487
+            },
+            {
+              "index": 1,
+              "start": 0.487,
+              "end": 1.067
+            },
+            {
+              "index": 2,
+              "start": 1.067,
+              "end": 1.212
+            }
+          ]
+        },
+        {
+          "start": 1.212,
+          "end": 1.782,
+          "phase": "word"
+        }
+      ],
+      "duration": 1.782,
+      "focus": 0
+    },
+    "come-on": {
+      "audio": "guided-come-on",
+      "kind": "phonics",
+      "parts": [
+        "c",
+        "o",
+        "m",
+        "e ",
+        "o",
+        "n"
+      ],
+      "sounds": [
+        "clear-k",
+        "startup-uh",
+        "clear-m",
+        null,
+        "startup-short-o",
+        "clear-n"
+      ],
+      "hint": "先听 come，再听 on。come 的 e 不出声，两个词连起来，在这里用来催促或加油。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.065,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-k"
+        },
+        {
+          "start": 0.065,
+          "end": 0.22,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "startup-uh"
+        },
+        {
+          "start": 0.22,
+          "end": 0.305,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-m"
+        },
+        {
+          "start": 0.305,
+          "end": 0.485,
+          "phase": "phoneme",
+          "index": 4,
+          "clip": "startup-short-o"
+        },
+        {
+          "start": 0.485,
+          "end": 0.59,
+          "phase": "phoneme",
+          "index": 5,
+          "clip": "clear-n"
+        },
+        {
+          "start": 0.59,
+          "end": 1.59,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.59,
+              "end": 0.701125
+            },
+            {
+              "index": 1,
+              "start": 0.701125,
+              "end": 1.0344583333333333
+            },
+            {
+              "index": 2,
+              "start": 1.0344583333333333,
+              "end": 1.1455416666666667
+            },
+            {
+              "index": 4,
+              "start": 1.1455416666666667,
+              "end": 1.478875
+            },
+            {
+              "index": 5,
+              "start": 1.478875,
+              "end": 1.5899999999999999
+            }
+          ]
+        },
+        {
+          "start": 1.59,
+          "end": 2.25,
+          "phase": "word"
+        }
+      ],
+      "duration": 2.25,
+      "focus": 0,
+      "syllables": [
+        [
+          4,
+          2
+        ]
+      ]
+    }
+  },
+  "paced": {
+    "people": {
+      "word": "people",
+      "split": true,
+      "stageTwo": 2.92,
+      "blendStart": 8.377,
+      "finalStart": 9.487,
+      "duration": 11.397,
+      "grid": [
+        [
+          "p",
+          "/p/"
+        ],
+        [
+          "eo",
+          "/iː/"
+        ],
+        [
+          "p",
+          "/p/"
+        ],
+        [
+          "le",
+          "/əl/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.53667,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.08667,
+          "end": 1.5,
+          "letters": [
+            3,
+            4,
+            5
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.95,
+          "end": 2.56,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "cells": []
+        },
+        {
+          "start": 2.92,
+          "end": 3.14,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.14,
+          "end": 4.65,
+          "letters": [
+            1,
+            2
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.65,
+          "end": 5.87,
+          "letters": [
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 6.87,
+          "end": 7.377,
+          "letters": [
+            4,
+            5
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 8.377,
+          "end": 8.48033,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 8.48033,
+          "end": 8.89367,
+          "letters": [
+            1,
+            2
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 8.89367,
+          "end": 8.997,
+          "letters": [
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 8.997,
+          "end": 9.307,
+          "letters": [
+            4,
+            5
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 9.487,
+          "end": 10.097,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "story": {
+      "word": "story",
+      "split": true,
+      "stageTwo": 3.24,
+      "blendStart": 9.945,
+      "finalStart": 11.245,
+      "duration": 13.285,
+      "grid": [
+        [
+          "s",
+          "/s/"
+        ],
+        [
+          "t",
+          "/t/"
+        ],
+        [
+          "o",
+          "/ɔː/"
+        ],
+        [
+          "r",
+          "/r/"
+        ],
+        [
+          "y",
+          "/i/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.692,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.242,
+          "end": 1.69,
+          "letters": [
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 2.14,
+          "end": 2.88,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 3.24,
+          "end": 3.585,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.585,
+          "end": 4.845,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.845,
+          "end": 6.335,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 7.335,
+          "end": 7.6,
+          "letters": [
+            3
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 8.6,
+          "end": 8.945,
+          "letters": [
+            4
+          ],
+          "cells": [
+            4
+          ]
+        },
+        {
+          "start": 9.945,
+          "end": 10.057,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 10.057,
+          "end": 10.169,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 10.169,
+          "end": 10.617,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 10.617,
+          "end": 10.729,
+          "letters": [
+            3
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 10.729,
+          "end": 11.065,
+          "letters": [
+            4
+          ],
+          "cells": [
+            4
+          ]
+        },
+        {
+          "start": 11.245,
+          "end": 11.985,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "cap": {
+      "word": "cap",
+      "split": false,
+      "stageTwo": 0.9,
+      "blendStart": 4.7,
+      "finalStart": 5.67,
+      "duration": 7.49,
+      "grid": [
+        [
+          "c",
+          "/k/"
+        ],
+        [
+          "a",
+          "/æ/"
+        ],
+        [
+          "p",
+          "/p/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.54,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        },
+        {
+          "start": 0.9,
+          "end": 1.145,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 2.145,
+          "end": 2.48,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 3.48,
+          "end": 3.7,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 4.7,
+          "end": 4.858,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.858,
+          "end": 5.332,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.332,
+          "end": 5.49,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 5.67,
+          "end": 6.19,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "worry": {
+      "word": "worry",
+      "split": true,
+      "stageTwo": 2.79,
+      "blendStart": 8.01,
+      "finalStart": 9.03,
+      "duration": 10.9,
+      "grid": [
+        [
+          "w",
+          "/w/"
+        ],
+        [
+          "o",
+          "/ʌ/"
+        ],
+        [
+          "rr",
+          "/r/"
+        ],
+        [
+          "y",
+          "/i/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.44,
+          "letters": [
+            0,
+            1
+          ],
+          "cells": []
+        },
+        {
+          "start": 0.99,
+          "end": 1.41,
+          "letters": [
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.86,
+          "end": 2.43,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 2.79,
+          "end": 3.065,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.065,
+          "end": 4.4,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.4,
+          "end": 5.665,
+          "letters": [
+            2,
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 6.665,
+          "end": 7.01,
+          "letters": [
+            4
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 8.01,
+          "end": 8.115,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 8.115,
+          "end": 8.43,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 8.43,
+          "end": 8.535,
+          "letters": [
+            2,
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 8.535,
+          "end": 8.85,
+          "letters": [
+            4
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 9.03,
+          "end": 9.6,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "on": {
+      "word": "on",
+      "split": false,
+      "stageTwo": 0.79,
+      "blendStart": 3.435,
+      "finalStart": 4.245,
+      "duration": 5.955,
+      "grid": [
+        [
+          "o",
+          "/ɒ/"
+        ],
+        [
+          "n",
+          "/n/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.43,
+          "letters": [
+            0,
+            1
+          ],
+          "cells": []
+        },
+        {
+          "start": 0.79,
+          "end": 1.15,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 2.15,
+          "end": 2.435,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 3.435,
+          "end": 3.939,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 3.939,
+          "end": 4.065,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 4.245,
+          "end": 4.655,
+          "letters": [
+            0,
+            1
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "photo": {
+      "word": "photo",
+      "split": true,
+      "stageTwo": 3.14,
+      "blendStart": 8.76596,
+      "finalStart": 10.00596,
+      "duration": 12.00596,
+      "grid": [
+        [
+          "ph",
+          "/f/"
+        ],
+        [
+          "o",
+          "/əʊ/"
+        ],
+        [
+          "t",
+          "/t/"
+        ],
+        [
+          "o",
+          "/əʊ/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.55,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.1,
+          "end": 1.63,
+          "letters": [
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 2.08,
+          "end": 2.78,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        },
+        {
+          "start": 3.14,
+          "end": 3.46596,
+          "letters": [
+            0,
+            1
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.46596,
+          "end": 4.98596,
+          "letters": [
+            2
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.98596,
+          "end": 6.24596,
+          "letters": [
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 7.24596,
+          "end": 7.76596,
+          "letters": [
+            4
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 8.76596,
+          "end": 8.87196,
+          "letters": [
+            0,
+            1
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 8.87196,
+          "end": 9.29596,
+          "letters": [
+            2
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 9.29596,
+          "end": 9.40196,
+          "letters": [
+            3
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 9.40196,
+          "end": 9.82596,
+          "letters": [
+            4
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 10.00596,
+          "end": 10.70596,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "love": {
+      "word": "love",
+      "split": false,
+      "stageTwo": 0.95,
+      "blendStart": 5.582,
+      "finalStart": 6.632,
+      "duration": 8.502,
+      "grid": [
+        [
+          "l",
+          "/l/"
+        ],
+        [
+          "o",
+          "/ʌ/"
+        ],
+        [
+          "v",
+          "/v/"
+        ],
+        [
+          "e",
+          "静音"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.59,
+          "letters": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "cells": []
+        },
+        {
+          "start": 0.95,
+          "end": 1.215,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 2.215,
+          "end": 2.55,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 3.55,
+          "end": 3.832,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 4.832,
+          "end": 5.262,
+          "letters": [
+            3
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 5.582,
+          "end": 5.727,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 5.727,
+          "end": 6.307,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 6.307,
+          "end": 6.452,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 6.632,
+          "end": 7.202,
+          "letters": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "cells": []
+        }
+      ]
+    },
+    "come-on": {
+      "word": "come on",
+      "split": true,
+      "stageTwo": 3.04,
+      "blendStart": 10.28,
+      "finalStart": 11.46,
+      "duration": 13.42,
+      "grid": [
+        [
+          "c",
+          "/k/"
+        ],
+        [
+          "o",
+          "/ʌ/"
+        ],
+        [
+          "m",
+          "/m/"
+        ],
+        [
+          "e ",
+          "静音"
+        ],
+        [
+          "o",
+          "/ɒ/"
+        ],
+        [
+          "n",
+          "/n/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.57554,
+          "letters": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "cells": []
+        },
+        {
+          "start": 1.12554,
+          "end": 1.57,
+          "letters": [
+            4,
+            5,
+            6
+          ],
+          "cells": []
+        },
+        {
+          "start": 2.02,
+          "end": 2.68,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cells": []
+        },
+        {
+          "start": 3.04,
+          "end": 3.285,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.285,
+          "end": 4.62,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.62,
+          "end": 5.885,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 6.885,
+          "end": 7.315,
+          "letters": [
+            3,
+            4
+          ],
+          "cells": [
+            3
+          ]
+        },
+        {
+          "start": 7.635,
+          "end": 7.995,
+          "letters": [
+            5
+          ],
+          "cells": [
+            4
+          ]
+        },
+        {
+          "start": 8.995,
+          "end": 9.28,
+          "letters": [
+            6
+          ],
+          "cells": [
+            5
+          ]
+        },
+        {
+          "start": 10.28,
+          "end": 10.39112,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 10.39112,
+          "end": 10.72446,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 10.72446,
+          "end": 10.83554,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 10.83554,
+          "end": 11.16887,
+          "letters": [
+            5
+          ],
+          "cells": [
+            4
+          ]
+        },
+        {
+          "start": 11.16887,
+          "end": 11.28,
+          "letters": [
+            6
+          ],
+          "cells": [
+            5
+          ]
+        },
+        {
+          "start": 11.46,
+          "end": 12.12,
+          "letters": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "cells": []
+        }
+      ],
+      "gridGroups": [
+        {
+          "label": "come",
+          "cells": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "label": "on",
+          "cells": [
+            4,
+            5
+          ]
+        }
+      ]
+    }
+  }
+}
