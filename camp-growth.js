@@ -43,6 +43,7 @@ CAMP_SOUVENIRS.push({id:'family-album-memory',name:'全家福纪念画',icon:'�
 CAMP_SOUVENIRS.push({id:'grandma-greeting-memory',name:'奶奶问候纪念画',icon:'✦',cost:60,unlockLesson:'unit5-02',description:'把会客厅里的一声问候带回共同营地',scene:'u5-visit',lessonLabel:'Unit 5 第2课'});
 CAMP_SOUVENIRS.push({id:'family-help-cap-memory',name:'找回帽子纪念画',icon:'✦',cost:60,unlockLesson:'unit5-03',description:'记住家人一起帮忙的温暖时刻',scene:'u5-cap',lessonLabel:'Unit 5 第3课'});
 CAMP_SOUVENIRS.push({id:'orange-box-puppy-memory',name:'橙盒小狗纪念画',icon:'✦',cost:60,unlockLesson:'unit5-04',description:'把合影前找到小狗的快乐带回共同营地',scene:'u5-family-fuel',lessonLabel:'Unit 5 第4课'});
+CAMP_SOUVENIRS.push({id:'family-card-memory',name:'心意贺卡纪念画',icon:'♡',cost:60,unlockLesson:'unit5-05',description:'把送给家人的感谢带回共同营地',scene:'u5-family-card',lessonLabel:'Unit 5 第5课'});
 ADVENTURE_DECORATIONS.push(...CAMP_GROWTH,...CAMP_SOUVENIRS);
 const CampGrowth={
  unlocked(item,lessons){return !item.unlockLesson||lessons?.[item.unlockLesson]?.lesson?.completed===true||Object.keys(lessons?.[item.unlockLesson]?.adventure?.completed||{}).length===6;},

@@ -1,0 +1,654 @@
+{
+  "clips": {
+    "card": {
+      "text": "Card.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "card.mp3",
+      "words": [
+        {
+          "text": "Card",
+          "start": 0.152958,
+          "end": 0.770624
+        }
+      ]
+    },
+    "care": {
+      "text": "Care.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "care.mp3",
+      "words": [
+        {
+          "text": "Care",
+          "start": 0.102208,
+          "end": 0.631624
+        }
+      ]
+    },
+    "her": {
+      "text": "Her.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "her.mp3",
+      "words": [
+        {
+          "text": "Her",
+          "start": 0.13825,
+          "end": 0.63825
+        }
+      ]
+    },
+    "u55-question": {
+      "text": "Who's the card for?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-question.mp3",
+      "words": [
+        {
+          "text": "Who's",
+          "start": 0.123541,
+          "end": 0.402957
+        },
+        {
+          "text": "the",
+          "start": 0.417666,
+          "end": 0.549999
+        },
+        {
+          "text": "card",
+          "start": 0.564708,
+          "end": 0.976458
+        },
+        {
+          "text": "for",
+          "start": 0.991166,
+          "end": 1.461749
+        }
+      ]
+    },
+    "u55-to-grandma": {
+      "text": "To Grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-grandma.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.102208,
+          "end": 0.308083
+        },
+        {
+          "text": "Grandma",
+          "start": 0.322791,
+          "end": 1.072791
+        }
+      ]
+    },
+    "u55-thanks": {
+      "text": "Thank you for your love and care.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-thanks.mp3",
+      "words": [
+        {
+          "text": "Thank",
+          "start": 0.123541,
+          "end": 0.491207
+        },
+        {
+          "text": "you",
+          "start": 0.505875,
+          "end": 0.741166
+        },
+        {
+          "text": "for",
+          "start": 0.755875,
+          "end": 0.902916
+        },
+        {
+          "text": "your",
+          "start": 0.917666,
+          "end": 1.049999
+        },
+        {
+          "text": "love",
+          "start": 1.064708,
+          "end": 1.447041
+        },
+        {
+          "text": "and",
+          "start": 1.46175,
+          "end": 1.6235
+        },
+        {
+          "text": "care",
+          "start": 1.63825,
+          "end": 2.167666
+        }
+      ]
+    },
+    "u55-love": {
+      "text": "I love you.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-love.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.241208
+        },
+        {
+          "text": "love",
+          "start": 0.255875,
+          "end": 0.594125
+        },
+        {
+          "text": "you",
+          "start": 0.608833,
+          "end": 1.020583
+        }
+      ]
+    },
+    "u55-mum": {
+      "text": "This is my mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-mum.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "is",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "my",
+          "start": 0.667666,
+          "end": 0.858832
+        },
+        {
+          "text": "mum",
+          "start": 0.873541,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u55-for-her": {
+      "text": "This is for her.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-her.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.623541
+        },
+        {
+          "text": "for",
+          "start": 0.63825,
+          "end": 0.829416
+        },
+        {
+          "text": "her",
+          "start": 0.844125,
+          "end": 1.344125
+        }
+      ]
+    },
+    "u55-demo": {
+      "text": "This is my mum. This is for her.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-demo.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.638208
+        },
+        {
+          "text": "my",
+          "start": 0.652958,
+          "end": 0.844124
+        },
+        {
+          "text": "mum",
+          "start": 0.858833,
+          "end": 1.388249
+        },
+        {
+          "text": "This",
+          "start": 1.867666,
+          "end": 2.117666
+        },
+        {
+          "text": "is",
+          "start": 2.132333,
+          "end": 2.338208
+        },
+        {
+          "text": "for",
+          "start": 2.352958,
+          "end": 2.544124
+        },
+        {
+          "text": "her",
+          "start": 2.558833,
+          "end": 3.058833
+        }
+      ]
+    },
+    "u55-grandma": {
+      "text": "This is my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-grandma.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.785291
+        },
+        {
+          "text": "grandma",
+          "start": 0.8,
+          "end": 1.55
+        }
+      ]
+    },
+    "u55-for-grandma": {
+      "text": "This is for my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-grandma.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.623499
+        },
+        {
+          "text": "for",
+          "start": 0.63825,
+          "end": 0.785291
+        },
+        {
+          "text": "my",
+          "start": 0.8,
+          "end": 0.976458
+        },
+        {
+          "text": "grandma",
+          "start": 0.991166,
+          "end": 1.726457
+        }
+      ]
+    },
+    "u55-dad": {
+      "text": "This is my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-dad.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "dad",
+          "start": 0.785291,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u55-for-dad": {
+      "text": "This is for my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-dad.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.594124
+        },
+        {
+          "text": "for",
+          "start": 0.608833,
+          "end": 0.741166
+        },
+        {
+          "text": "my",
+          "start": 0.755875,
+          "end": 0.932333
+        },
+        {
+          "text": "dad",
+          "start": 0.947041,
+          "end": 1.579374
+        }
+      ]
+    },
+    "u55-grandpa": {
+      "text": "This is my grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-grandpa.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "grandpa",
+          "start": 0.785291,
+          "end": 1.623541
+        }
+      ]
+    },
+    "u55-for-grandpa": {
+      "text": "This is for my grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-grandpa.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.608791
+        },
+        {
+          "text": "for",
+          "start": 0.623541,
+          "end": 0.755874
+        },
+        {
+          "text": "my",
+          "start": 0.770583,
+          "end": 0.947041
+        },
+        {
+          "text": "grandpa",
+          "start": 0.96175,
+          "end": 1.770583
+        }
+      ]
+    },
+    "u55-sister": {
+      "text": "This is my sister.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-sister.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.8
+        },
+        {
+          "text": "sister",
+          "start": 0.814708,
+          "end": 1.549999
+        }
+      ]
+    },
+    "u55-for-sister": {
+      "text": "This is for my sister.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-sister.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.608832
+        },
+        {
+          "text": "for",
+          "start": 0.623541,
+          "end": 0.755874
+        },
+        {
+          "text": "my",
+          "start": 0.770583,
+          "end": 0.976458
+        },
+        {
+          "text": "sister",
+          "start": 0.991166,
+          "end": 1.726457
+        }
+      ]
+    },
+    "u55-brother": {
+      "text": "This is my brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-brother.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "my",
+          "start": 0.63825,
+          "end": 0.844125
+        },
+        {
+          "text": "brother",
+          "start": 0.858833,
+          "end": 1.505874
+        }
+      ]
+    },
+    "u55-for-brother": {
+      "text": "This is for my brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-for-brother.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.638208
+        },
+        {
+          "text": "for",
+          "start": 0.652958,
+          "end": 0.814708
+        },
+        {
+          "text": "my",
+          "start": 0.829416,
+          "end": 1.035291
+        },
+        {
+          "text": "brother",
+          "start": 1.05,
+          "end": 1.697041
+        }
+      ]
+    },
+    "u55-to-mum": {
+      "text": "To Mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-mum.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.152958,
+          "end": 0.285291
+        },
+        {
+          "text": "Mum",
+          "start": 0.3,
+          "end": 0.785291
+        }
+      ]
+    },
+    "u55-to-dad": {
+      "text": "To Dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-dad.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.104416,
+          "end": 0.295582
+        },
+        {
+          "text": "Dad",
+          "start": 0.310291,
+          "end": 0.883832
+        }
+      ]
+    },
+    "u55-to-grandpa": {
+      "text": "To Grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-grandpa.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.102208,
+          "end": 0.308083
+        },
+        {
+          "text": "Grandpa",
+          "start": 0.322791,
+          "end": 1.146332
+        }
+      ]
+    },
+    "u55-to-sister": {
+      "text": "To Sister.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-sister.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.102208,
+          "end": 0.308083
+        },
+        {
+          "text": "Sister",
+          "start": 0.322791,
+          "end": 1.058082
+        }
+      ]
+    },
+    "u55-to-brother": {
+      "text": "To Brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u55-to-brother.mp3",
+      "words": [
+        {
+          "text": "To",
+          "start": 0.102208,
+          "end": 0.308083
+        },
+        {
+          "text": "Brother",
+          "start": 0.322791,
+          "end": 0.999249
+        }
+      ]
+    }
+  }
+}
