@@ -1,0 +1,497 @@
+{
+  "clips": {
+    "but": {
+      "text": "But.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "but.mp3",
+      "words": [
+        {
+          "text": "But",
+          "start": 0.123541,
+          "end": 0.638249
+        }
+      ]
+    },
+    "u52-dad": {
+      "text": "This is my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-dad.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "dad",
+          "start": 0.785291,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u52-grandpa": {
+      "text": "This is my grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-grandpa.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "grandpa",
+          "start": 0.785291,
+          "end": 1.623541
+        }
+      ]
+    },
+    "u52-that-grandma": {
+      "text": "That is my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-that-grandma.mp3",
+      "words": [
+        {
+          "text": "That",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.785291
+        },
+        {
+          "text": "grandma",
+          "start": 0.8,
+          "end": 1.535291
+        }
+      ]
+    },
+    "u52-question": {
+      "text": "Who is that?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-question.mp3",
+      "words": [
+        {
+          "text": "Who",
+          "start": 0.108833,
+          "end": 0.358833
+        },
+        {
+          "text": "is",
+          "start": 0.373541,
+          "end": 0.594124
+        },
+        {
+          "text": "that",
+          "start": 0.608833,
+          "end": 1.211791
+        }
+      ]
+    },
+    "u52-but-question": {
+      "text": "But who is that?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-but-question.mp3",
+      "words": [
+        {
+          "text": "But",
+          "start": 0.102208,
+          "end": 0.352208
+        },
+        {
+          "text": "who",
+          "start": 0.366916,
+          "end": 0.631624
+        },
+        {
+          "text": "is",
+          "start": 0.646333,
+          "end": 0.852208
+        },
+        {
+          "text": "that",
+          "start": 0.866916,
+          "end": 1.469874
+        }
+      ]
+    },
+    "u52-this-grandma": {
+      "text": "Oh, this is my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-this-grandma.mp3",
+      "words": [
+        {
+          "text": "Oh",
+          "start": 0.123541,
+          "end": 0.520582
+        },
+        {
+          "text": "this",
+          "start": 0.814708,
+          "end": 1.049999
+        },
+        {
+          "text": "is",
+          "start": 1.064708,
+          "end": 1.197041
+        },
+        {
+          "text": "my",
+          "start": 1.21175,
+          "end": 1.402916
+        },
+        {
+          "text": "grandma",
+          "start": 1.417666,
+          "end": 2.152957
+        }
+      ]
+    },
+    "u52-this-who": {
+      "text": "Who is this?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-this-who.mp3",
+      "words": [
+        {
+          "text": "Who",
+          "start": 0.123541,
+          "end": 0.373541
+        },
+        {
+          "text": "is",
+          "start": 0.38825,
+          "end": 0.608833
+        },
+        {
+          "text": "this",
+          "start": 0.623541,
+          "end": 1.226499
+        }
+      ]
+    },
+    "u52-mum": {
+      "text": "This is my mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-mum.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "is",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "my",
+          "start": 0.667666,
+          "end": 0.858832
+        },
+        {
+          "text": "mum",
+          "start": 0.873541,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u52-that-dad": {
+      "text": "That is my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-that-dad.mp3",
+      "words": [
+        {
+          "text": "That",
+          "start": 0.152958,
+          "end": 0.388249
+        },
+        {
+          "text": "is",
+          "start": 0.402958,
+          "end": 0.549999
+        },
+        {
+          "text": "my",
+          "start": 0.564708,
+          "end": 0.755874
+        },
+        {
+          "text": "dad",
+          "start": 0.770583,
+          "end": 1.388249
+        }
+      ]
+    },
+    "u52-brother": {
+      "text": "This is my brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-brother.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "my",
+          "start": 0.63825,
+          "end": 0.844125
+        },
+        {
+          "text": "brother",
+          "start": 0.858833,
+          "end": 1.505874
+        }
+      ]
+    },
+    "u52-sister": {
+      "text": "This is my sister.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-sister.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.8
+        },
+        {
+          "text": "sister",
+          "start": 0.814708,
+          "end": 1.549999
+        }
+      ]
+    },
+    "u52-that-grandpa": {
+      "text": "That is my grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-that-grandpa.mp3",
+      "words": [
+        {
+          "text": "That",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "grandpa",
+          "start": 0.785291,
+          "end": 1.638249
+        }
+      ]
+    },
+    "u52-that-mum": {
+      "text": "That is my mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-that-mum.mp3",
+      "words": [
+        {
+          "text": "That",
+          "start": 0.152958,
+          "end": 0.432374
+        },
+        {
+          "text": "is",
+          "start": 0.447041,
+          "end": 0.623499
+        },
+        {
+          "text": "my",
+          "start": 0.63825,
+          "end": 0.829416
+        },
+        {
+          "text": "mum",
+          "start": 0.844125,
+          "end": 1.358833
+        }
+      ]
+    },
+    "u52-hello": {
+      "text": "Hello.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-hello.mp3",
+      "words": [
+        {
+          "text": "Hello",
+          "start": 0.13825,
+          "end": 0.814708
+        }
+      ]
+    },
+    "u52-listen-order": {
+      "text": "This is my mum. This is my grandpa. This is my sister. This is my dad. This is my brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u52-listen-order.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "is",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "my",
+          "start": 0.667666,
+          "end": 0.858832
+        },
+        {
+          "text": "mum",
+          "start": 0.873541,
+          "end": 1.402957
+        },
+        {
+          "text": "This",
+          "start": 1.882333,
+          "end": 2.147041
+        },
+        {
+          "text": "is",
+          "start": 2.16175,
+          "end": 2.308791
+        },
+        {
+          "text": "my",
+          "start": 2.323541,
+          "end": 2.514707
+        },
+        {
+          "text": "grandpa",
+          "start": 2.529416,
+          "end": 3.367666
+        },
+        {
+          "text": "This",
+          "start": 3.823541,
+          "end": 4.102957
+        },
+        {
+          "text": "is",
+          "start": 4.117666,
+          "end": 4.264707
+        },
+        {
+          "text": "my",
+          "start": 4.279416,
+          "end": 4.485291
+        },
+        {
+          "text": "sister",
+          "start": 4.5,
+          "end": 5.235291
+        },
+        {
+          "text": "This",
+          "start": 5.705875,
+          "end": 5.955875
+        },
+        {
+          "text": "is",
+          "start": 5.970583,
+          "end": 6.117624
+        },
+        {
+          "text": "my",
+          "start": 6.132333,
+          "end": 6.323499
+        },
+        {
+          "text": "dad",
+          "start": 6.33825,
+          "end": 6.955916
+        },
+        {
+          "text": "This",
+          "start": 7.426458,
+          "end": 7.720583
+        },
+        {
+          "text": "is",
+          "start": 7.735291,
+          "end": 7.897041
+        },
+        {
+          "text": "my",
+          "start": 7.91175,
+          "end": 8.117625
+        },
+        {
+          "text": "brother",
+          "start": 8.132333,
+          "end": 8.779374
+        }
+      ]
+    }
+  }
+}

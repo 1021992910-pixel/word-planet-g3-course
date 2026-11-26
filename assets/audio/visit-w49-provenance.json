@@ -1,0 +1,211 @@
+{
+  "voice": "en-GB-SoniaNeural",
+  "isolatedVoice": "Existing registered en-GB-LibbyNeural clips",
+  "rate": "-45%",
+  "method": "Approved paced flow with 0.18-second lead and 1-second gaps after sounds; continuous slow model; existing whole-word audio.",
+  "alignment": "Weighted phoneme and syllable display windows are approximate, not forced alignment. Professional listening review pending.",
+  "references": [
+    "https://dictionary.cambridge.org/pronunciation/english/but"
+  ],
+  "config": {
+    "but": {
+      "word": "but",
+      "parts": [
+        "b",
+        "u",
+        "t"
+      ],
+      "sounds": [
+        "clear-b",
+        "startup-uh",
+        "clear-t"
+      ],
+      "weights": [
+        1,
+        3,
+        1
+      ],
+      "hint": "u 在 but 里读 /ʌ/。把 b、u、t 的声音慢慢接起来，别漏掉末尾 /t/。"
+    }
+  },
+  "guides": {
+    "but": {
+      "audio": "guided-but",
+      "kind": "phonics",
+      "parts": [
+        "b",
+        "u",
+        "t"
+      ],
+      "sounds": [
+        "clear-b",
+        "startup-uh",
+        "clear-t"
+      ],
+      "hint": "u 在 but 里读 /ʌ/。把 b、u、t 的声音慢慢接起来，别漏掉末尾 /t/。",
+      "steps": [
+        {
+          "start": 0.0,
+          "end": 0.022,
+          "phase": "phoneme",
+          "index": 0,
+          "clip": "clear-b"
+        },
+        {
+          "start": 0.022,
+          "end": 0.177,
+          "phase": "phoneme",
+          "index": 1,
+          "clip": "startup-uh"
+        },
+        {
+          "start": 0.177,
+          "end": 0.257,
+          "phase": "phoneme",
+          "index": 2,
+          "clip": "clear-t"
+        },
+        {
+          "start": 0.257,
+          "end": 0.977,
+          "phase": "connected",
+          "phones": [
+            {
+              "index": 0,
+              "start": 0.257,
+              "end": 0.401
+            },
+            {
+              "index": 1,
+              "start": 0.401,
+              "end": 0.833
+            },
+            {
+              "index": 2,
+              "start": 0.833,
+              "end": 0.977
+            }
+          ]
+        },
+        {
+          "start": 0.977,
+          "end": 1.467,
+          "phase": "word"
+        }
+      ],
+      "duration": 1.467,
+      "focus": 0
+    }
+  },
+  "paced": {
+    "but": {
+      "word": "but",
+      "split": false,
+      "stageTwo": 0.87,
+      "blendStart": 4.667,
+      "finalStart": 5.567,
+      "duration": 7.357,
+      "grid": [
+        [
+          "b",
+          "/b/"
+        ],
+        [
+          "u",
+          "/ʌ/"
+        ],
+        [
+          "t",
+          "/t/"
+        ]
+      ],
+      "cues": [
+        {
+          "start": 0.02,
+          "end": 0.51,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        },
+        {
+          "start": 0.87,
+          "end": 1.072,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 2.072,
+          "end": 2.407,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 3.407,
+          "end": 3.667,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 4.667,
+          "end": 4.811,
+          "letters": [
+            0
+          ],
+          "cells": [
+            0
+          ]
+        },
+        {
+          "start": 4.811,
+          "end": 5.243,
+          "letters": [
+            1
+          ],
+          "cells": [
+            1
+          ]
+        },
+        {
+          "start": 5.243,
+          "end": 5.387,
+          "letters": [
+            2
+          ],
+          "cells": [
+            2
+          ]
+        },
+        {
+          "start": 5.567,
+          "end": 6.057,
+          "letters": [
+            0,
+            1,
+            2
+          ],
+          "cells": []
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Only but is newly built. Nine reused word guides and recordings are unchanged.",
+    "Isolated strong-form /bʌt/ is taught; connected sentences may naturally use weak /bət/.",
+    "All new speech is Microsoft en-GB Sonia synthesis; reused phonemes are registered Libby clips; no textbook or dictionary voice recording used."
+  ]
+}
