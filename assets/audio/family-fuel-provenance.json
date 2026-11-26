@@ -1,0 +1,614 @@
+{
+  "clips": {
+    "daddy": {
+      "text": "daddy.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "daddy.mp3",
+      "words": [
+        {
+          "text": "daddy",
+          "start": 0.102208,
+          "end": 0.763958
+        }
+      ]
+    },
+    "mummy": {
+      "text": "mummy.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "mummy.mp3",
+      "words": [
+        {
+          "text": "mummy",
+          "start": 0.123541,
+          "end": 0.755874
+        }
+      ]
+    },
+    "where": {
+      "text": "where.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "where.mp3",
+      "words": [
+        {
+          "text": "where",
+          "start": 0.123541,
+          "end": 0.667666
+        }
+      ]
+    },
+    "dog": {
+      "text": "dog.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "dog.mp3",
+      "words": [
+        {
+          "text": "dog",
+          "start": 0.152958,
+          "end": 0.667666
+        }
+      ]
+    },
+    "box": {
+      "text": "box.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "box.mp3",
+      "words": [
+        {
+          "text": "box",
+          "start": 0.152958,
+          "end": 0.799999
+        }
+      ]
+    },
+    "u54-daddy": {
+      "text": "Come on, Daddy!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-daddy.mp3",
+      "words": [
+        {
+          "text": "Come",
+          "start": 0.102208,
+          "end": 0.396333
+        },
+        {
+          "text": "on",
+          "start": 0.411041,
+          "end": 0.793374
+        },
+        {
+          "text": "Daddy",
+          "start": 1.0875,
+          "end": 1.602208
+        }
+      ]
+    },
+    "u54-mummy": {
+      "text": "Come on, Mummy!",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-mummy.mp3",
+      "words": [
+        {
+          "text": "Come",
+          "start": 0.102208,
+          "end": 0.396333
+        },
+        {
+          "text": "on",
+          "start": 0.411041,
+          "end": 0.778707
+        },
+        {
+          "text": "Mummy",
+          "start": 1.072791,
+          "end": 1.558082
+        }
+      ]
+    },
+    "u54-where": {
+      "text": "Where's the dog?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-where.mp3",
+      "words": [
+        {
+          "text": "Where's",
+          "start": 0.152958,
+          "end": 0.505916
+        },
+        {
+          "text": "the",
+          "start": 0.520583,
+          "end": 0.667624
+        },
+        {
+          "text": "dog",
+          "start": 0.682333,
+          "end": 1.255874
+        }
+      ]
+    },
+    "u54-dog": {
+      "text": "Come here, little dog.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-dog.mp3",
+      "words": [
+        {
+          "text": "Come",
+          "start": 0.123541,
+          "end": 0.388249
+        },
+        {
+          "text": "here",
+          "start": 0.402958,
+          "end": 0.814708
+        },
+        {
+          "text": "little",
+          "start": 1.13825,
+          "end": 1.505916
+        },
+        {
+          "text": "dog",
+          "start": 1.520583,
+          "end": 2.035291
+        }
+      ]
+    },
+    "u54-box": {
+      "text": "It's in the orange box.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-box.mp3",
+      "words": [
+        {
+          "text": "It's",
+          "start": 0.123541,
+          "end": 0.344124
+        },
+        {
+          "text": "in",
+          "start": 0.358833,
+          "end": 0.505874
+        },
+        {
+          "text": "the",
+          "start": 0.520583,
+          "end": 0.667624
+        },
+        {
+          "text": "orange",
+          "start": 0.682333,
+          "end": 1.182333
+        },
+        {
+          "text": "box",
+          "start": 1.197041,
+          "end": 1.844082
+        }
+      ]
+    },
+    "u54-photo": {
+      "text": "Let's take a photo together.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-photo.mp3",
+      "words": [
+        {
+          "text": "Let's",
+          "start": 0.102208,
+          "end": 0.528666
+        },
+        {
+          "text": "take",
+          "start": 0.543375,
+          "end": 0.808083
+        },
+        {
+          "text": "a",
+          "start": 0.822791,
+          "end": 0.896332
+        },
+        {
+          "text": "photo",
+          "start": 0.911041,
+          "end": 1.484582
+        },
+        {
+          "text": "together",
+          "start": 1.49925,
+          "end": 2.190416
+        }
+      ]
+    },
+    "u54-dad": {
+      "text": "This is my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-dad.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "dad",
+          "start": 0.785291,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u54-mum": {
+      "text": "This is my mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-mum.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "is",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "my",
+          "start": 0.667666,
+          "end": 0.858832
+        },
+        {
+          "text": "mum",
+          "start": 0.873541,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u54-brother": {
+      "text": "This is my brother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-brother.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "my",
+          "start": 0.63825,
+          "end": 0.844125
+        },
+        {
+          "text": "brother",
+          "start": 0.858833,
+          "end": 1.505874
+        }
+      ]
+    },
+    "u54-family": {
+      "text": "This is my family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-family.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.432375
+        },
+        {
+          "text": "is",
+          "start": 0.447041,
+          "end": 0.594082
+        },
+        {
+          "text": "my",
+          "start": 0.608833,
+          "end": 0.814708
+        },
+        {
+          "text": "family",
+          "start": 0.829416,
+          "end": 1.535291
+        }
+      ]
+    },
+    "u54-love": {
+      "text": "I love my family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-love.mp3",
+      "words": [
+        {
+          "text": "I",
+          "start": 0.152958,
+          "end": 0.241208
+        },
+        {
+          "text": "love",
+          "start": 0.255875,
+          "end": 0.579416
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.8
+        },
+        {
+          "text": "family",
+          "start": 0.814708,
+          "end": 1.520583
+        }
+      ]
+    },
+    "u54-three": {
+      "text": "There are three people in this family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-three.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.152958,
+          "end": 0.329416
+        },
+        {
+          "text": "are",
+          "start": 0.344125,
+          "end": 0.491166
+        },
+        {
+          "text": "three",
+          "start": 0.505875,
+          "end": 0.858833
+        },
+        {
+          "text": "people",
+          "start": 0.873541,
+          "end": 1.358832
+        },
+        {
+          "text": "in",
+          "start": 1.373541,
+          "end": 1.520582
+        },
+        {
+          "text": "this",
+          "start": 1.535291,
+          "end": 1.770582
+        },
+        {
+          "text": "family",
+          "start": 1.785291,
+          "end": 2.402957
+        }
+      ]
+    },
+    "u54-six": {
+      "text": "There are six people in this family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-six.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.123541,
+          "end": 0.314707
+        },
+        {
+          "text": "are",
+          "start": 0.329416,
+          "end": 0.461749
+        },
+        {
+          "text": "six",
+          "start": 0.476458,
+          "end": 0.873499
+        },
+        {
+          "text": "people",
+          "start": 0.88825,
+          "end": 1.373541
+        },
+        {
+          "text": "in",
+          "start": 1.38825,
+          "end": 1.535291
+        },
+        {
+          "text": "this",
+          "start": 1.55,
+          "end": 1.785291
+        },
+        {
+          "text": "family",
+          "start": 1.8,
+          "end": 2.417666
+        }
+      ]
+    },
+    "u54-eight": {
+      "text": "There are eight people in this family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-eight.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.13825,
+          "end": 0.314708
+        },
+        {
+          "text": "are",
+          "start": 0.329416,
+          "end": 0.535291
+        },
+        {
+          "text": "eight",
+          "start": 0.55,
+          "end": 0.902958
+        },
+        {
+          "text": "people",
+          "start": 0.917666,
+          "end": 1.388249
+        },
+        {
+          "text": "in",
+          "start": 1.402958,
+          "end": 1.535291
+        },
+        {
+          "text": "this",
+          "start": 1.55,
+          "end": 1.785291
+        },
+        {
+          "text": "family",
+          "start": 1.8,
+          "end": 2.402958
+        }
+      ]
+    },
+    "u54-listen-order": {
+      "text": "There are six people in this family. There are three people in this family. There are eight people in this family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u54-listen-order.mp3",
+      "words": [
+        {
+          "text": "There",
+          "start": 0.123541,
+          "end": 0.314707
+        },
+        {
+          "text": "are",
+          "start": 0.329416,
+          "end": 0.461749
+        },
+        {
+          "text": "six",
+          "start": 0.476458,
+          "end": 0.873499
+        },
+        {
+          "text": "people",
+          "start": 0.88825,
+          "end": 1.373541
+        },
+        {
+          "text": "in",
+          "start": 1.38825,
+          "end": 1.535291
+        },
+        {
+          "text": "this",
+          "start": 1.55,
+          "end": 1.785291
+        },
+        {
+          "text": "family",
+          "start": 1.8,
+          "end": 2.402958
+        },
+        {
+          "text": "There",
+          "start": 2.882333,
+          "end": 3.058791
+        },
+        {
+          "text": "are",
+          "start": 3.073541,
+          "end": 3.220582
+        },
+        {
+          "text": "three",
+          "start": 3.235291,
+          "end": 3.588249
+        },
+        {
+          "text": "people",
+          "start": 3.602958,
+          "end": 4.102958
+        },
+        {
+          "text": "in",
+          "start": 4.117666,
+          "end": 4.264707
+        },
+        {
+          "text": "this",
+          "start": 4.279416,
+          "end": 4.514707
+        },
+        {
+          "text": "family",
+          "start": 4.529416,
+          "end": 5.147082
+        },
+        {
+          "text": "There",
+          "start": 5.602958,
+          "end": 5.779416
+        },
+        {
+          "text": "are",
+          "start": 5.794125,
+          "end": 6.0
+        },
+        {
+          "text": "eight",
+          "start": 6.014708,
+          "end": 6.367666
+        },
+        {
+          "text": "people",
+          "start": 6.382333,
+          "end": 6.852916
+        },
+        {
+          "text": "in",
+          "start": 6.867666,
+          "end": 6.999999
+        },
+        {
+          "text": "this",
+          "start": 7.014708,
+          "end": 7.249999
+        },
+        {
+          "text": "family",
+          "start": 7.264708,
+          "end": 7.867666
+        }
+      ]
+    }
+  }
+}
