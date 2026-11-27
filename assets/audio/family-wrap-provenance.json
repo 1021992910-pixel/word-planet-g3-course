@@ -1,0 +1,509 @@
+{
+  "clips": {
+    "u56-who-this": {
+      "text": "Who's this?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-who-this.mp3",
+      "words": [
+        {
+          "text": "Who's",
+          "start": 0.123541,
+          "end": 0.447082
+        },
+        {
+          "text": "this",
+          "start": 0.46175,
+          "end": 1.020583
+        }
+      ]
+    },
+    "u56-who-that": {
+      "text": "Who's that?",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-who-that.mp3",
+      "words": [
+        {
+          "text": "Who's",
+          "start": 0.123541,
+          "end": 0.432374
+        },
+        {
+          "text": "that",
+          "start": 0.447041,
+          "end": 1.020582
+        }
+      ]
+    },
+    "u56-dad": {
+      "text": "This is my dad.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-dad.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "dad",
+          "start": 0.785291,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u56-mum": {
+      "text": "This is my mum.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-mum.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.461791
+        },
+        {
+          "text": "is",
+          "start": 0.476458,
+          "end": 0.652916
+        },
+        {
+          "text": "my",
+          "start": 0.667666,
+          "end": 0.858832
+        },
+        {
+          "text": "mum",
+          "start": 0.873541,
+          "end": 1.402957
+        }
+      ]
+    },
+    "u56-grandma": {
+      "text": "This is my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-grandma.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.785291
+        },
+        {
+          "text": "grandma",
+          "start": 0.8,
+          "end": 1.55
+        }
+      ]
+    },
+    "u56-grandpa": {
+      "text": "This is my grandpa.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-grandpa.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.402958
+        },
+        {
+          "text": "is",
+          "start": 0.417666,
+          "end": 0.564707
+        },
+        {
+          "text": "my",
+          "start": 0.579416,
+          "end": 0.770582
+        },
+        {
+          "text": "grandpa",
+          "start": 0.785291,
+          "end": 1.623541
+        }
+      ]
+    },
+    "u56-that-grandma": {
+      "text": "That is my grandma.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-that-grandma.mp3",
+      "words": [
+        {
+          "text": "That",
+          "start": 0.152958,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "my",
+          "start": 0.594125,
+          "end": 0.785291
+        },
+        {
+          "text": "grandma",
+          "start": 0.8,
+          "end": 1.535291
+        }
+      ]
+    },
+    "u56-happy": {
+      "text": "The family is happy.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-happy.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.152958,
+          "end": 0.270624
+        },
+        {
+          "text": "family",
+          "start": 0.285291,
+          "end": 0.829416
+        },
+        {
+          "text": "is",
+          "start": 0.844125,
+          "end": 1.020583
+        },
+        {
+          "text": "happy",
+          "start": 1.035291,
+          "end": 1.623541
+        }
+      ]
+    },
+    "u56-big": {
+      "text": "The family is big.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-big.mp3",
+      "words": [
+        {
+          "text": "The",
+          "start": 0.152958,
+          "end": 0.270624
+        },
+        {
+          "text": "family",
+          "start": 0.285291,
+          "end": 0.844124
+        },
+        {
+          "text": "is",
+          "start": 0.858833,
+          "end": 1.094124
+        },
+        {
+          "text": "big",
+          "start": 1.108833,
+          "end": 1.638249
+        }
+      ]
+    },
+    "u56-family": {
+      "text": "This is my family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-family.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.432375
+        },
+        {
+          "text": "is",
+          "start": 0.447041,
+          "end": 0.594082
+        },
+        {
+          "text": "my",
+          "start": 0.608833,
+          "end": 0.814708
+        },
+        {
+          "text": "family",
+          "start": 0.829416,
+          "end": 1.535291
+        }
+      ]
+    },
+    "u56-father": {
+      "text": "This is the father.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-father.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "the",
+          "start": 0.63825,
+          "end": 0.770583
+        },
+        {
+          "text": "father",
+          "start": 0.785291,
+          "end": 1.476457
+        }
+      ]
+    },
+    "u56-mother": {
+      "text": "This is the mother.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-mother.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.638208
+        },
+        {
+          "text": "the",
+          "start": 0.652958,
+          "end": 0.785291
+        },
+        {
+          "text": "mother",
+          "start": 0.8,
+          "end": 1.38825
+        }
+      ]
+    },
+    "u56-baby": {
+      "text": "This is the baby.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-baby.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.152958,
+          "end": 0.447083
+        },
+        {
+          "text": "is",
+          "start": 0.46175,
+          "end": 0.6235
+        },
+        {
+          "text": "the",
+          "start": 0.63825,
+          "end": 0.785291
+        },
+        {
+          "text": "baby",
+          "start": 0.8,
+          "end": 1.402958
+        }
+      ]
+    },
+    "u56-nature-demo": {
+      "text": "This is a family. This is the father. This is the mother. This is the baby.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-nature-demo.mp3",
+      "words": [
+        {
+          "text": "This",
+          "start": 0.13825,
+          "end": 0.417666
+        },
+        {
+          "text": "is",
+          "start": 0.432333,
+          "end": 0.579374
+        },
+        {
+          "text": "a",
+          "start": 0.594125,
+          "end": 0.682375
+        },
+        {
+          "text": "family",
+          "start": 0.697041,
+          "end": 1.373499
+        },
+        {
+          "text": "This",
+          "start": 1.852958,
+          "end": 2.147083
+        },
+        {
+          "text": "is",
+          "start": 2.16175,
+          "end": 2.3235
+        },
+        {
+          "text": "the",
+          "start": 2.33825,
+          "end": 2.470583
+        },
+        {
+          "text": "father",
+          "start": 2.485291,
+          "end": 3.176457
+        },
+        {
+          "text": "This",
+          "start": 3.647041,
+          "end": 3.941166
+        },
+        {
+          "text": "is",
+          "start": 3.955875,
+          "end": 4.132333
+        },
+        {
+          "text": "the",
+          "start": 4.147041,
+          "end": 4.279374
+        },
+        {
+          "text": "mother",
+          "start": 4.294125,
+          "end": 4.867666
+        },
+        {
+          "text": "This",
+          "start": 5.33825,
+          "end": 5.632375
+        },
+        {
+          "text": "is",
+          "start": 5.647041,
+          "end": 5.808791
+        },
+        {
+          "text": "the",
+          "start": 5.823541,
+          "end": 5.970582
+        },
+        {
+          "text": "baby",
+          "start": 5.985291,
+          "end": 6.588249
+        }
+      ]
+    },
+    "u56-story": {
+      "text": "Look at the cap. Come back, Lucky! Come on! I love my family.",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "-15%",
+      "file": "u56-story.mp3",
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.13825,
+          "end": 0.447083
+        },
+        {
+          "text": "at",
+          "start": 0.46175,
+          "end": 0.608791
+        },
+        {
+          "text": "the",
+          "start": 0.623541,
+          "end": 0.741207
+        },
+        {
+          "text": "cap",
+          "start": 0.755875,
+          "end": 1.329416
+        },
+        {
+          "text": "Come",
+          "start": 1.758083,
+          "end": 2.081624
+        },
+        {
+          "text": "back",
+          "start": 2.096333,
+          "end": 2.581624
+        },
+        {
+          "text": "Lucky",
+          "start": 2.890458,
+          "end": 3.405166
+        },
+        {
+          "text": "Come",
+          "start": 3.802208,
+          "end": 4.111041
+        },
+        {
+          "text": "on",
+          "start": 4.12575,
+          "end": 4.522791
+        },
+        {
+          "text": "I",
+          "start": 4.91175,
+          "end": 5.0
+        },
+        {
+          "text": "love",
+          "start": 5.014708,
+          "end": 5.352958
+        },
+        {
+          "text": "my",
+          "start": 5.367666,
+          "end": 5.573541
+        },
+        {
+          "text": "family",
+          "start": 5.58825,
+          "end": 6.294125
+        }
+      ]
+    }
+  }
+}

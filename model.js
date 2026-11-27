@@ -3,6 +3,7 @@ const CourseModel=(()=>{
  const lessonBlank=()=>({scene:0,coach:0,stage:0,atlasGroup:0,getReady:GetReadyModel.blank(),poster:PosterModel.blank(),wrap:WrapModel.blank(),design:DesignModel.blank(),numberPoster:NumberPosterModel.blank(),familyCard:FamilyCardModel.blank(),heard:[],guided:[],run:null,adventure:AdventureModel.blank(),lesson:{completed:false,best:0,completedAt:0}});
  const blank=()=>({version:1,activeLessonId:COURSE.lessonId,speed:1,words:{},sky:LearningSky.blank(),lessons:{},campDecorations:[],...lessonBlank()});
  function activeWrapChecks(){
+  if(COURSE.familyWrap)return FAMILY_WRAP_CHECKS;
   if(COURSE.numberWrap)return NUMBER_WRAP_CHECKS;
   if(COURSE.colourWrap)return COLOUR_WRAP_CHECKS;
   if(COURSE.schoolWrap)return SCHOOL_WRAP_CHECKS;
@@ -12,7 +13,7 @@ const CourseModel=(()=>{
   const s=lessonBlank();if(!raw||typeof raw!=='object')return s;
   if(COURSE.lessonId==='unit1-01')s.getReady=GetReadyModel.sanitize(raw.getReady);
   if(COURSE.poster)s.poster=PosterModel.sanitize(raw.poster);
-  if(COURSE.wrap||COURSE.schoolWrap||COURSE.colourWrap||COURSE.numberWrap)s.wrap=WrapModel.sanitize(raw.wrap,activeWrapChecks());
+  if(COURSE.wrap||COURSE.schoolWrap||COURSE.colourWrap||COURSE.numberWrap||COURSE.familyWrap)s.wrap=WrapModel.sanitize(raw.wrap,activeWrapChecks());
   if(COURSE.design)s.design=DesignModel.sanitize(raw.design);
   if(COURSE.numberPoster)s.numberPoster=NumberPosterModel.sanitize(raw.numberPoster);
   if(COURSE.familyCard)s.familyCard=FamilyCardModel.sanitize(raw.familyCard);
